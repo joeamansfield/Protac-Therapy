@@ -1,0 +1,21 @@
+rule all:
+    input:
+        "../ProcessedData/E3List.txt",
+        "../ProcessedData/targetProteinList.txt"
+
+rule get_E3_list:
+    input:
+        "../Data/E3Substrate.txt"
+    output:
+        "../ProcessedData/E3List.txt"
+    script:
+        "E3List.{ext}"
+
+rule get_target_protein_list:
+    input:
+        "../Data/E3Substrate.txt"
+    output:
+        "../ProcessedData/targetProteinList.txt"
+    script:
+        "targetProteinList.{ext}"
+
