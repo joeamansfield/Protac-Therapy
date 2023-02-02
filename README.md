@@ -13,4 +13,5 @@ Here are instructions for using this workflow:
     1. Make sure you've followed the conda steps so you have access to snakemake
     2. The ```snakemake -p -r --cores 1``` command will utilize the all rule which should run everything that needs to be updated
     3. If you're trying to just look at a specific file, ```snakemake <target file> -p -r --cores 1``` will just get that file
-  
+4. The raw data files are too large to include in this repo, so I will include links where to download them and what they were named:
+    1. [E3 Substrate List](http://ubibrowser.bio-it.cn/ubibrowser_v3/Public/download/E3/H.sapiens.result.txt) > E3Substrate.txt
