@@ -3,13 +3,21 @@ rule all:
         "../ProcessedData/E3List.txt",
         "../ProcessedData/targetProteinList.txt"
 
+rule format_E3_Substrate_file:
+    input:
+        "../Data/OriginalE3Substrate.txt"
+    output:
+        "../Data/E3Substrate.txt"
+    script:
+        "FixE3SubstrateEntry.py"
+
 rule get_E3_list:
     input:
         "../Data/E3Substrate.txt"
     output:
         "../ProcessedData/E3List.txt"
     script:
-        "E3List.{ext}"
+        "E3List.R"
 
 rule get_target_protein_list:
     input:
@@ -17,5 +25,5 @@ rule get_target_protein_list:
     output:
         "../ProcessedData/targetProteinList.txt"
     script:
-        "targetProteinList.{ext}"
+        "targetProteinList.R"
 
