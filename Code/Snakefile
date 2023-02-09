@@ -11,9 +11,20 @@ rule format_E3_Substrate_file:
     script:
         "FixE3SubstrateEntry.py"
 
+rule subset_Mapping_File:
+    input:
+        "../Data/UniprotMapping.txt"
+    output:
+        "../ProcessedData/UniprotMappingSubset.txt"
+    shell:
+        """
+        awk '/Gene_Name/ {{print $1 "\t" $3}}' {input} > {output}
+        """
+
 rule get_E3_list:
     input:
-        "../Data/E3Substrate.txt"
+        "../Data/E3Substrate.txt",
+        "../ProcessedData/UniprotMappingSubset.txt"
     output:
         "../ProcessedData/E3List.txt"
     script:
@@ -21,7 +32,8 @@ rule get_E3_list:
 
 rule get_target_protein_list:
     input:
-        "../Data/E3Substrate.txt"
+        "../Data/E3Substrate.txt",
+        "../ProcessedData/UniprotMappingSubset.txt"
     output:
         "../ProcessedData/targetProteinList.txt"
     script:

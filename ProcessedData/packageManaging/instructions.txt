@@ -6,5 +6,5 @@ Any time you install a new package, follow these steps:
     Export your active environment to a new file: conda env export > environment.yml
 
 Any time someone on the team says they've updated the environment, or you're running code someone else wrote and it's saying a library isn't included, follow these steps:
-    Create the environment from the environment.yml file: conda env create -f environment.yml
-    
+    Create the environment from the environment.yml file (this will take a while): conda env create -f environment.yml
+    If you already have the environment by that name, you'll need to delete it first with conda env remove -n ENV_NAME
