@@ -17,7 +17,7 @@ cancerTypesSubset = [
 'glioblastoma',
 'head_and_neck_squamous_cell_carcinoma',
 'lung_squamous_cell_carcinoma',
-]
+'lung_adenocarcinoma']
 
 rule all:
     input:
