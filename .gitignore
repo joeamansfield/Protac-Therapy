@@ -4,3 +4,5 @@ Code/.snakemake/*
 .snakemake*
 .volcano.*
 ProcessedData/subset_data/*
+ProcessedData/E3Sub_pairs.txt
+ProcessedData/hugo_pairs.txt

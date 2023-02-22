@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#SBATCH --time=01:00:00   # walltime
+#SBATCH --time=99:00:00   # walltime
 #SBATCH --ntasks=1   # number of processor cores (i.e. tasks)
 #SBATCH --nodes=1   # number of nodes
-#SBATCH --mem-per-cpu=1024M   # memory per CPU core
+#SBATCH --mem-per-cpu=5069M   # memory per CPU core
 #SBATCH -J "Run all"   # job name
 #SBATCH --mail-user=david.gstone42@gmail.com   # email address
 #SBATCH --mail-type=BEGIN
@@ -17,4 +17,4 @@ export OMP_NUM_THREADS=$SLURM_CPUS_ON_NODE
 # LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
 
 source activate E3v1
-snakemake -p -r --cores 1
+snakemake --cores 1
