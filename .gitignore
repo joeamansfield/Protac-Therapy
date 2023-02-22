@@ -1,1 +1,6 @@
 Data/*
+Code/.snakemake/*
+.vscode/*
+.snakemake*
+.volcano.*
+ProcessedData/subset_data/*

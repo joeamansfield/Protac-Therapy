@@ -1,7 +1,27 @@
+cancerTypes = [
+'breast_cancer',
+'clear_cell_renal_cell_carcinoma_(kidney)',
+'colorectal_cancer',
+'endometrial_carcinoma_(uterine)',
+'glioblastoma',
+'head_and_neck_squamous_cell_carcinoma',
+'lung_squamous_cell_carcinoma',
+'lung_adenocarcinoma',
+'high_grade_serous_ovarian_cancer',
+'pancreatic_ductal_adenocarcinoma']
+
+
+cancerTypesSubset = [
+'clear_cell_renal_cell_carcinoma_(kidney)',
+'endometrial_carcinoma_(uterine)',
+'glioblastoma',
+'head_and_neck_squamous_cell_carcinoma',
+'lung_squamous_cell_carcinoma',
+]
+
 rule all:
     input:
-        "../ProcessedData/E3List.txt",
-        "../ProcessedData/targetProteinList.txt"
+        expand("../Figures/{type}_volcano.pdf", type=cancerTypesSubset)
 
 rule format_E3_Substrate_file:
     input:
@@ -11,9 +31,20 @@ rule format_E3_Substrate_file:
     script:
         "FixE3SubstrateEntry.py"
 
+rule subset_Mapping_File:
+    input:
+        "../Data/UniprotMapping.txt"
+    output:
+        "../ProcessedData/UniprotMappingSubset.txt"
+    shell:
+        """
+        awk '/Gene_Name/ {{print $1 "\t" $3}}' {input} > {output}
+        """
+
 rule get_E3_list:
     input:
-        "../Data/E3Substrate.txt"
+        "../Data/E3Substrate.txt",
+        "../ProcessedData/UniprotMappingSubset.txt"
     output:
         "../ProcessedData/E3List.txt"
     script:
@@ -21,9 +52,31 @@ rule get_E3_list:
 
 rule get_target_protein_list:
     input:
-        "../Data/E3Substrate.txt"
+        "../Data/E3Substrate.txt",
+        "../ProcessedData/UniprotMappingSubset.txt"
     output:
         "../ProcessedData/targetProteinList.txt"
     script:
         "targetProteinList.R"
 
+rule cptac_download:
+    output:
+        expand("../Data/CPTAC/{type}.csv", type=cancerTypes)
+    script:
+        "cptac_download.py"
+
+rule t_test:
+    input:
+        "../ProcessedData/subset_data/{type}_tt_subset.csv"
+    output:
+        "../ProcessedData/pvalues/{type}.txt"
+    script:
+        "t_test.R"
+
+rule volcano:
+    input:
+        "../ProcessedData/pvalues/{type}.txt"
+    output:
+        "../Figures/{type}_volcano.pdf"
+    script:
+        "volcano.R"
