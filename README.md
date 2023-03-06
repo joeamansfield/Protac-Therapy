@@ -14,7 +14,6 @@ Here are instructions for using this workflow:
     2. The ```snakemake -p -r --cores 1``` command will utilize the all rule which should run everything that needs to be updated
     3. If you're trying to just look at a specific file, ```snakemake <target file> -p -r --cores 1``` will just get that file
 4. The raw data files are too large to include in this repo, so I will include links where to download them and what they were named (some of them need to be unzipped with gunzip if they're .gz or tar if they're .tar.gz):
-    1. [E3 Substrate List](http://ubibrowser.bio-it.cn/ubibrowser_v3/Public/download/E3/H.sapiens.result.txt) > E3Substrate.txt
+    1. [E3 Substrate List](http://ubibrowser.bio-it.cn/ubibrowser_v3/Public/download/E3/H.sapiens.result.txt) > OriginalE3Substrate.txt
     2. [Protac List](http://cadd.zju.edu.cn/protacdb/statics/binaryDownload/csv/protac/protac.csv) > Protac.csv
     3. [Uniprot to HGNC Mapping](https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping.dat.gz) > UniprotMapping.txt
-    4. [Folder of TCGA data](https://cbioportal-datahub.s3.amazonaws.com/pancan_pcawg_2020.tar.gz) > pancan_pcawg_2020

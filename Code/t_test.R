@@ -12,13 +12,9 @@ for (i in 3:nrow(data)) {
 	normal = unlist(lapply(normal[[1]], function(x){x[x != ""]}))
 	if (length(tumor) > 1 && length(normal) > 1) {
 		result = t.test(as.numeric(normal), as.numeric(tumor))
-		foldChange = log2(result$estimate[[2]]/result$estimate[[1]])
+		foldChange = (log2(result$estimate[[2]]) - log2(result$estimate[[1]]))
 		out = rbind(out, c(data[i,1], result$p.value, foldChange))
 	}
-	
-	# if (foldChange != Inf) {
-		
-	# }
 }
 if (length(out) > 3) {
 	names = out[1,]
@@ -28,6 +24,13 @@ if (length(out) > 3) {
 	out = list("Not enough data")
 }
 
+out = out[is.finite(as.numeric(out$Fold_Change)),]
 
-fwrite(out, snakemake@output[[1]])
+positiveFoldChange = out$Fold_Change[which(as.numeric(out$Fold_Change) > 0)]
+
+writeLines(c('pvalue_cutoff,fc_cutoff', 
+	paste0(toString(0.05/nrow(out)), ',', toString(quantile(as.numeric(positiveFoldChange))[4])), '#######'), 
+	file(snakemake@output[[1]]))
+
+fwrite(out, snakemake@output[[1]], append = TRUE, col.names=TRUE)
 

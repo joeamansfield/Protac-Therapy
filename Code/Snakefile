@@ -21,7 +21,7 @@ cancerTypesSubset = [
 
 rule all:
     input:
-        expand("../Figures/{type}_volcano.pdf", type=cancerTypesSubset)
+        expand("../Figures/VolcanoPlots/{type}_volcano.pdf", type=cancerTypesSubset)
 
 rule format_E3_Substrate_file:
     input:
@@ -67,16 +67,26 @@ rule cptac_download:
 
 rule t_test:
     input:
-        "../ProcessedData/subset_data/{type}_tt_subset.csv"
+        "../ProcessedData/subset_data_new/{type}_tt_subset.csv"
     output:
         "../ProcessedData/pvalues/{type}.txt"
     script:
         "t_test.R"
 
+rule t_test_descending:
+    input:
+        expand("../ProcessedData/pvalues/{type}.txt", type=cancerTypesSubset)
+    output:
+        expand("../ProcessedData/sorted_pvalues/{type}.csv", type=cancerTypesSubset)
+    script:
+        "t_test_descending.R"
+
 rule volcano:
     input:
-        "../ProcessedData/pvalues/{type}.txt"
+        "../ProcessedData/pvalues/{type}.txt",
+        "../ProcessedData/E3List_new.txt",
+        "../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
     output:
-        "../Figures/{type}_volcano.pdf"
+        "../Figures/VolcanoPlots/{type}_volcano.pdf"
     script:
         "volcano.R"

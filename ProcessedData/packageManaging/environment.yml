@@ -1,9 +1,6 @@
 name: E3v1
 channels:
-<<<<<<< HEAD
   - r
-=======
->>>>>>> aada5ab3899b08d66843cc4a852c705f8d8e602e
   - bioconda
   - conda-forge
   - defaults
@@ -19,11 +16,7 @@ dependencies:
   - bwidget=1.9.14=ha770c72_1
   - bzip2=1.0.8=h7f98852_4
   - c-ares=1.18.1=h7f98852_0
-<<<<<<< HEAD
-  - ca-certificates=2023.01.10=h06a4308_0
-=======
   - ca-certificates=2022.12.7=ha878542_0
->>>>>>> aada5ab3899b08d66843cc4a852c705f8d8e602e
   - cairo=1.16.0=h18b612c_1001
   - certifi=2021.5.30=py36h06a4308_0
   - cffi=1.14.6=py36h400218f_0
@@ -87,11 +80,7 @@ dependencies:
   - ncurses=6.4=h6a678d5_0
   - numpy=1.19.5=py36hfc0c790_2
   - openblas=0.3.20=pthreads_h320a7e8_0
-<<<<<<< HEAD
   - openssl=1.1.1t=h7f8727e_0
-=======
-  - openssl=1.1.1s=h7f8727e_0
->>>>>>> aada5ab3899b08d66843cc4a852c705f8d8e602e
   - pandas=1.1.5=py36ha9443f7_0
   - pango=1.50.7=h05da053_0
   - paramiko=2.8.1=pyhd3eb1b0_0
@@ -111,7 +100,6 @@ dependencies:
   - python_abi=3.6=2_cp36m
   - pytz=2021.3=pyhd3eb1b0_0
   - pyyaml=5.4.1=py36h27cfd23_1
-<<<<<<< HEAD
   - r-askpass=1.1=r42h76d94ec_0
   - r-assertthat=0.2.1=r42h6115d3f_0
   - r-backports=1.4.1=r42h76d94ec_0
@@ -149,6 +137,7 @@ dependencies:
   - r-glue=1.6.2=r42h76d94ec_0
   - r-googledrive=2.0.0=r42h6115d3f_0
   - r-googlesheets4=1.0.0=r42h6115d3f_0
+  - r-gridextra=2.3=r42hc72bb7e_1004
   - r-gtable=0.3.0=r42h6115d3f_0
   - r-haven=2.5.0=r42h884c59f_0
   - r-highr=0.9=r42h6115d3f_0
@@ -207,16 +196,13 @@ dependencies:
   - r-utf8=1.2.2=r42h76d94ec_0
   - r-uuid=1.1_0=r42h76d94ec_0
   - r-vctrs=0.4.1=r42h884c59f_0
+  - r-viridis=0.6.2=r42hc72bb7e_1
   - r-viridislite=0.4.0=r42h6115d3f_0
   - r-vroom=1.5.7=r42h884c59f_0
   - r-withr=2.5.0=r42h6115d3f_0
   - r-xfun=0.31=r42h76d94ec_0
   - r-xml2=1.3.3=r42h884c59f_0
   - r-yaml=2.3.5=r42h76d94ec_0
-=======
-  - r-base=4.2.0=h1ae530e_0
-  - r-data.table=1.14.2=r42h76d94ec_0
->>>>>>> aada5ab3899b08d66843cc4a852c705f8d8e602e
   - readline=8.2=h5eee18b_0
   - requests=2.27.1=pyhd3eb1b0_0
   - setuptools=58.0.4=py36h06a4308_0
@@ -244,7 +230,6 @@ dependencies:
   - yaml=0.2.5=h7b6447c_0
   - zlib=1.2.13=h5eee18b_0
   - zstd=1.5.2=ha4553b6_0
-<<<<<<< HEAD
   - pip:
     - beautifulsoup4==4.11.2
     - biothings-client==0.2.6
@@ -271,6 +256,4 @@ dependencies:
     - werkzeug==2.0.3
     - xlrd==1.2.0
     - zipp==3.6.0
-=======
->>>>>>> aada5ab3899b08d66843cc4a852c705f8d8e602e
 prefix: /fslhome/stoned4/miniconda3/envs/E3v1
