@@ -23,70 +23,140 @@ rule all:
     input:
         expand("../Figures/VolcanoPlots/{type}_volcano.pdf", type=cancerTypesSubset)
 
-rule format_E3_Substrate_file:
-    input:
-        "../Data/OriginalE3Substrate.txt"
+rule E3Sub_download:
     output:
-        "../Data/E3Substrate.txt"
-    script:
-        "FixE3SubstrateEntry.py"
-
-rule subset_Mapping_File:
-    input:
-        "../Data/UniprotMapping.txt"
-    output:
-        "../ProcessedData/UniprotMappingSubset.txt"
+        "../Data/literature.E3.txt"
     shell:
         """
-        awk '/Gene_Name/ {{print $1 "\t" $3}}' {input} > {output}
+        wget http://ubibrowser.bio-it.cn/ubibrowser_v3/Public/download/literature/literature.E3.txt -O ../Data/literature.E3.txt
         """
 
-rule get_E3_list:
-    input:
-        "../Data/E3Substrate.txt",
-        "../ProcessedData/UniprotMappingSubset.txt"
+rule protac_download:
     output:
-        "../ProcessedData/E3List.txt"
-    script:
-        "E3List.R"
-
-rule get_target_protein_list:
-    input:
-        "../Data/E3Substrate.txt",
-        "../ProcessedData/UniprotMappingSubset.txt"
-    output:
-        "../ProcessedData/targetProteinList.txt"
-    script:
-        "targetProteinList.R"
+        "../Data/Protac.csv"
+    shell:
+        """
+        curl http://cadd.zju.edu.cn/protacdb/statics/binaryDownload/csv/protac/protac.csv > ../Data/Protac.csv
+        """
 
 rule cptac_download:
     output:
         expand("../Data/CPTAC/{type}.csv", type=cancerTypes)
     script:
         "cptac_download.py"
+    
+rule filter_E3Subs:
+    input:
+        "../Data/literature.E3.txt"
+    output:
+        "../Data/E3Subs_known.txt"
+    shell:
+        """
+        awk -F'\t' '/H.sapiens/{print $6, $7, $8, $9, $11, $14}' OFS='\t' ../Data/literature.E3.txt > ../Data/E3Subs_known.txt
+        """
+
+rule get_E3_list:
+    input:
+        "../Data/E3Subs_known.txt"
+    output:
+        "../ProcessedData/E3List.txt"
+    shell:
+        """
+        awk '{print $1}'../Data/ E3Subs_known.txt | sort -u > ../ProcessedData/E3List.txt
+        """
+
+rule get_target_protein_list:
+    input:
+        "../Data/E3Subs_known.txt"
+    output:
+        "../ProcessedData/targetProteinList.txt"
+    shell:
+        """
+        awk '{print $2}' ../Data/E3Subs_known.txt | sort -u > ../ProcessedData/targetProteinList.txt
+        """
+
+rule get_subset_list:
+    input:
+        "../ProcessedData/E3List.txt",
+        "../ProcessedData/targetProteinList.txt"
+    output:
+        "../ProcessedData/subset_list.txt"
+    shell:
+        """
+        cat ../ProcessedData/E3List.txt ../ProcessedData/targetProteinList.txt > ../ProcessedData/subset_list.txt
+        """
+
+rule get_pairs_list:
+    input:
+        "../Data/E3Subs_known.txt"
+    output:
+        "../ProcessedData/E3Sub_pairs.txt"
+    shell:
+        """
+        ./get_pairs.sh
+        """
+
+rule subset_cptac:
+    input:
+        "Data/CPTAC"
+    output:
+        expand("../ProcessedData/subset_data/{type}.csv", type=cancerTypesSubset)
+    shell:
+        """
+        ./transpose_and_subset.sh
+        """
 
 rule t_test:
     input:
-        "../ProcessedData/subset_data_new/{type}_tt_subset.csv"
+        "../ProcessedData/subset_data/{type}_tt_subset.csv"
     output:
         "../ProcessedData/pvalues/{type}.txt"
     script:
         "t_test.R"
 
-rule t_test_descending:
+rule find_sig_pairs:
     input:
-        expand("../ProcessedData/pvalues/{type}.txt", type=cancerTypesSubset)
+        expand("../ProcessedData/pvalues/{type}.txt", type=cancerTypesSubset),
+        "../ProcessedData/E3Sub_pairs.txt"
     output:
-        expand("../ProcessedData/sorted_pvalues/{type}.csv", type=cancerTypesSubset)
+        expand("../ProcessedData/sig_pairs/{type}.txt", type=cancerTypesSubset)
     script:
-        "t_test_descending.R"
+        "sig_pairs.py"
+
+rule find_label_sets:
+    input:
+        expand("../ProcessedData/sig_pairs/{type}_vals.txt", type=cancerTypesSubset)
+    output:
+        expand("../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt", type=cancerTypesSubset)
 
 rule volcano:
     input:
         "../ProcessedData/pvalues/{type}.txt",
-        "../ProcessedData/E3List_new.txt",
+        "../ProcessedData/E3List.txt",
         "../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
     output:
         "../Figures/VolcanoPlots/{type}_volcano.pdf"
     script:
         "volcano.R"
+
+rule validated_proteins_to_uniprot:
+    input:
+        "../ProcessedData/val_protacs/merged_types.txt",
+        "../Data/literature.E3.txt"
+    output:
+        "../ProcessedData/pymol/val_uniprot.csv"
+    shell:
+        """
+        bash validated_proteins_to_uniprot.sh
+        """
+
+rule uniprot_to_pdb:
+    input:
+        "../ProcessedData/pymol/val_uniprot.csv"
+    output:
+        "../ProcessedData/pymol/val_pdb.csv"
+    shell:
+        """
+        bash submitMapJob.sh
+        python getPDBResponse.py
+        """

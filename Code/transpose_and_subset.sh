@@ -1,14 +1,3 @@
-#!/bin/bash
-
-#SBATCH --time=1:00:00  # walltime
-#SBATCH --ntasks=1  # number of processor cores (i.e. tasks)
-#SBATCH --nodes=1  # number of nodes
-#SBATCH --mem=90G  # memory CPU core
-#SBATCH -J "reformat files"
-#SBATCH --mail-user=allyseac@byu.edu   # email address
-#SBATCH --mail-type=BEGIN
-#SBATCH --mail-type=END
-#SBATCH --mail-type=FAIL
 
 #these folders will be removed
 mkdir -p ../ProcessedData/subset_steps/temp_data
@@ -35,10 +24,10 @@ done
 for type in ../ProcessedData/subset_steps/tt_data/*; do
         cancertype=${type##*/}
         awk 'NR < 3' ../ProcessedData/subset_steps/tt_data/${cancertype%.*}.csv > ../ProcessedData/subset_steps/subset_data/${cancertype%.*}_hdrs.csv
-        awk 'NR == FNR{a[$0];next} $1 in a' ../ProcessedData/subset_list_new.txt ../ProcessedData/subset_steps/tt_data/${cancertype%.*}.csv > ../ProcessedData/subset_steps/subset_data/${cancertype%.*}_subset.csv
+        awk 'NR == FNR{a[$0];next} $1 in a' ../ProcessedData/subset_list.txt ../ProcessedData/subset_steps/tt_data/${cancertype%.*}.csv > ../ProcessedData/subset_steps/subset_data/${cancertype%.*}_subset.csv
         cat ../ProcessedData/subset_steps/subset_data/${cancertype%.*}_hdrs.csv ../ProcessedData/subset_steps/subset_data/${cancertype%.*}_subset.csv > ../ProcessedData/subset_steps/subset_data/${cancertype%.*}_subset_hdrs.csv
 
-        cp ../ProcessedData/subset_steps/subset_data/${cancertype%.*}_subset_hdrs.csv ../ProcessedData/subset_data_new/${cancertype%.*}_subset.csv
+        cp ../ProcessedData/subset_steps/subset_data/${cancertype%.*}_subset_hdrs.csv ../ProcessedData/subset_data/${cancertype%.*}_subset.csv
 	
 	echo "subset ${cancertype%.*}"
 done

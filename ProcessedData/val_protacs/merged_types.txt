@@ -1,0 +1,101 @@
+DCAF15	BRD7	clear_cell_renal_cell_carcinoma_(kidney), glioblastoma
+DCAF15	BRD9	clear_cell_renal_cell_carcinoma_(kidney), head_and_neck_squamous_cell_carcinoma
+MDM2	BTK	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	CDK4	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	CDK6	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	EGFR	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	MDM2	clear_cell_renal_cell_carcinoma_(kidney), endometrial_carcinoma_(uterine)
+MDM2	PARP1	clear_cell_renal_cell_carcinoma_(kidney), endometrial_carcinoma_(uterine)
+MDM2	WDR5	clear_cell_renal_cell_carcinoma_(kidney), endometrial_carcinoma_(uterine)
+RNF114	BRD4	head_and_neck_squamous_cell_carcinoma
+RNF4	BRD4	head_and_neck_squamous_cell_carcinoma
+VHL	ABL1	glioblastoma
+VHL	AKT1	lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	AKT2	lung_squamous_cell_carcinoma
+VHL	ALK	lung_squamous_cell_carcinoma, glioblastoma
+VHL	AR	glioblastoma
+VHL	AURKA	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	AURKB	lung_squamous_cell_carcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	BMP2K	glioblastoma
+VHL	BRD7	glioblastoma, endometrial_carcinoma_(uterine)
+VHL	BRD9	lung_squamous_cell_carcinoma, lung_adenocarcinoma
+VHL	BTK	glioblastoma
+VHL	BUB1B	lung_squamous_cell_carcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	CDC7	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	CDK1	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	CDK12	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	CDK13	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma
+VHL	CDK16	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	CDK2	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma
+VHL	CDK4	lung_squamous_cell_carcinoma, lung_adenocarcinoma
+VHL	CDK6	lung_squamous_cell_carcinoma, glioblastoma
+VHL	CDK7	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	CHEK1	lung_squamous_cell_carcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	CIT	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	CSK	lung_squamous_cell_carcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	CSNK1D	lung_adenocarcinoma
+VHL	EED	lung_squamous_cell_carcinoma, lung_adenocarcinoma
+VHL	EGFR	lung_squamous_cell_carcinoma, glioblastoma
+VHL	EPHA1	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	EPHB2	lung_squamous_cell_carcinoma, glioblastoma
+VHL	EZH2	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	FGFR1	glioblastoma
+VHL	GAK	endometrial_carcinoma_(uterine)
+VHL	GSK3A	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	HDAC1	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	HDAC2	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	HDAC3	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma
+VHL	HDAC6	glioblastoma
+VHL	HPGDS	glioblastoma
+VHL	IRAK1	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	IRAK3	glioblastoma
+VHL	IRAK4	lung_squamous_cell_carcinoma, glioblastoma
+VHL	ITK	glioblastoma
+VHL	JAK1	glioblastoma
+VHL	KRAS	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	LIMK1	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	LIMK2	lung_squamous_cell_carcinoma, endometrial_carcinoma_(uterine)
+VHL	MAP3K7	lung_squamous_cell_carcinoma
+VHL	MAP4K1	glioblastoma
+VHL	MAPK6	lung_squamous_cell_carcinoma, lung_adenocarcinoma
+VHL	MAPK7	glioblastoma
+VHL	MAPK9	lung_adenocarcinoma
+VHL	MAPKAPK2	glioblastoma
+VHL	MAPKAPK3	glioblastoma, endometrial_carcinoma_(uterine)
+VHL	MAPKAPK5	endometrial_carcinoma_(uterine)
+VHL	MARK2	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	MARK4	lung_squamous_cell_carcinoma
+VHL	MDM2	endometrial_carcinoma_(uterine)
+VHL	MELK	lung_squamous_cell_carcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	MKNK2	endometrial_carcinoma_(uterine)
+VHL	NLK	endometrial_carcinoma_(uterine)
+VHL	PAK1	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	PAK4	endometrial_carcinoma_(uterine)
+VHL	PARP1	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	PBRM1	glioblastoma
+VHL	PDIK1L	lung_squamous_cell_carcinoma, lung_adenocarcinoma
+VHL	PKN3	glioblastoma
+VHL	PLK4	lung_squamous_cell_carcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	PRKAA1	glioblastoma
+VHL	PRMT5	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	PTK6	lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	RIPK1	glioblastoma
+VHL	RIPK2	glioblastoma, endometrial_carcinoma_(uterine)
+VHL	RPS6KA1	glioblastoma, endometrial_carcinoma_(uterine)
+VHL	RPS6KA4	lung_squamous_cell_carcinoma, lung_adenocarcinoma
+VHL	RPS6KB1	lung_squamous_cell_carcinoma, lung_adenocarcinoma
+VHL	SMARCA4	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	SOS1	lung_squamous_cell_carcinoma
+VHL	STK17A	glioblastoma, endometrial_carcinoma_(uterine)
+VHL	STK17B	glioblastoma
+VHL	STK35	lung_squamous_cell_carcinoma, endometrial_carcinoma_(uterine)
+VHL	SUZ12	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	TNK2	lung_squamous_cell_carcinoma
+VHL	TRIM24	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	TTK	lung_squamous_cell_carcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	TYK2	glioblastoma, endometrial_carcinoma_(uterine)
+VHL	UHMK1	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+VHL	ULK1	lung_squamous_cell_carcinoma, lung_adenocarcinoma
+VHL	VHL	lung_squamous_cell_carcinoma, lung_adenocarcinoma, glioblastoma, endometrial_carcinoma_(uterine)
+VHL	WDR5	lung_squamous_cell_carcinoma, lung_adenocarcinoma, endometrial_carcinoma_(uterine)
+XIAP	CDK4	lung_adenocarcinoma

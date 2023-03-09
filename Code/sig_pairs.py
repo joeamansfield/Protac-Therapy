@@ -34,7 +34,7 @@ def filter_sig(filename):
             (gene, pval, fc) = line.split(',')
 	    pval = float(pval)
 	    fc = float(fc)
-            if pval <= sig_pval and fc >= sig_fc:
+            if pval <= sig_pval and fc > 0:
                 val_dict[gene] = [pval, fc]
 
     return val_dict
@@ -62,7 +62,7 @@ def find_sig_pairs(pairs_dict, val_dict):
 #pass in directory with cancer type pvalue files as second argument 
     #(cutoff vals for p-vals and fc should be the second line of these files)
 
-pairs_file = "../ProcessedData/E3Sub_pairs_new.txt"
+pairs_file = "../ProcessedData/E3Sub_pairs_full.txt"
 pval_dir = "../ProcessedData/pvalues"
 
 pairs_dict = create_pairs_dict(pairs_file)
