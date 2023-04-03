@@ -1,0 +1,24 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-A72693B6B6AA74-2BCFCD2EE9598744
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:22:00	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1IJ9A	specific	Ig strand A	K93-L99	7	7	409486
+Q#1 - 1IJ9A	specific	Ig strand B	P108-A116	9	9	409486
+Q#1 - 1IJ9A	specific	Ig strand C	L124-L129	6	6	409486
+Q#1 - 1IJ9A	specific	Ig strand C'	D132-S137	6	6	409486
+Q#1 - 1IJ9A	specific	Ig strand E	T151-F158	8	8	409486
+Q#1 - 1IJ9A	specific	Ig strand F	V168-L175	8	8	409486
+Q#1 - 1IJ9A	specific	Ig strand G	T185-E192	8	8	409486
+Q#1 - 1IJ9A	specific	Ig strand A	F1-T6	6	6	409536
+Q#1 - 1IJ9A	specific	Ig strand A'	R10-Q14	5	5	409536
+Q#1 - 1IJ9A	specific	Ig strand B	S18-T26	9	9	409536
+Q#1 - 1IJ9A	specific	Ig strand C	F32-R36	5	5	409536
+Q#1 - 1IJ9A	specific	Ig strand C'	I39-S41	3	3	409536
+Q#1 - 1IJ9A	specific	Ig strand D	K46-E50	5	5	409536
+Q#1 - 1IJ9A	specific	Ig strand E	T53-M58	6	6	409536
+Q#1 - 1IJ9A	specific	Ig strand F	H67-C75	9	9	409536
+Q#1 - 1IJ9A	specific	Ig strand G	R78-Y89	12	12	409536

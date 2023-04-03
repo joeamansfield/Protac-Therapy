@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-25EFF02DDA5CEEFF-3B84DA87EE710E8D
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:17:04	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3K2LA	specific	ATP binding site	I105,G106,K107,G108,X109,V113,A126,K128,I162,F178,E179,L180,L181,N184,D225,K227,E229,N230,L232,D245	20	20	271126
+Q#1 - 3K2LA	specific	active site	I105,G106,K107,G108,X109,V113,A126,K128,E142,I162,F178,E179,L180,L181,N184,Y186,E187,D225,K227,E229,N230,L232,D245,S248,Y257,X259,I260,Q261,S262,F264,G301	31	31	271126
+Q#1 - 3K2LA	specific	polypeptide substrate binding site	E142,Y186,D225,K227,S248,Y257,X259,I260,Q261,S262,F264,G301	12	12	271126
+Q#1 - 3K2LA	specific	activation loop (A-loop)	I244,D245,F246,G247,S248,S249,C250,Y251,E252,H253,Q254,R255,V256,Y257,X258,X259,I260,Q261,S262,R263,F264	21	21	271126

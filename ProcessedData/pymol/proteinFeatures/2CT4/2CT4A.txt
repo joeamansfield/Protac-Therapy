@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-35A22A4FDFD5151B-3EC60680515C1EA
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:43:10	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2CT4A	specific	peptide ligand binding site	Y14,F16,S19,T23,G42,W43,P57,S59,Y60	9	9	212844

@@ -1,0 +1,15 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-308082A0611553C8-D0FB5B624EE24C7
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:37:23	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2LVRA	specific	Zn binding site	C6-H26	4	21	-
+Q#1 - 2LVRA	specific	Zn binding site	C34-H54	4	21	-
+Q#1 - 2LVRA	specific	Zn binding site	C62-H82	4	21	-
+Q#1 - 2LVRA	specific	putative nucleic acid binding site	R11-H81	23	71	-
+Q#1 - 2LVRA	specific	C2H2 Zn finger	C6-H26	20	21	-
+Q#1 - 2LVRA	specific	C2H2 Zn finger	C34-H54	21	21	-
+Q#1 - 2LVRA	specific	C2H2 Zn finger	C62-H82	21	21	-

@@ -1,0 +1,22 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1F70A74418659BF1-1BFD873BDD39EA39
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:39:00	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4BSRB	specific	leucine-rich repeat	T61-F84	21	24	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L85-S108	22	24	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L109-S132	21	24	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L133-S156	17	24	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L157-A180	18	24	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L181-S204	21	24	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L205-S228	18	24	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L229-N251	21	23	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L252-S275	22	24	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L276-L297	19	22	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L300-N346	17	47	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L347-K368	18	22	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L369-I382	14	14	-
+Q#1 - 4BSRB	specific	leucine-rich repeat	L393-S416	17	24	-

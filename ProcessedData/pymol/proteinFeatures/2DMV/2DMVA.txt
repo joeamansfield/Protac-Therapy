@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-5BD3872384F7BC5-125DCB8504E6C3A6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:43:01	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2DMVA	specific	binding pocket	Y23,W34	2	2	238122

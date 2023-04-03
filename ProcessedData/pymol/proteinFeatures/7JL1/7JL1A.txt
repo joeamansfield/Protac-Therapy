@@ -1,0 +1,15 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-28CD2B4AE653502B-F3DC4CE20DEF2DC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:51:34	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 7JL1A	specific	ATP binding site	F38,K39,P40,R41,Q44,P62,T63,G64,C65,G66,K67,T68,F69,D169	14	14	350831
+Q#1 - 7JL1A	specific	nucleic acid binding site	N95,Q96,I97,P98,S122,G123,T144,Q146,N150,K176,Q177,H178,P179	13	13	350831
+Q#1 - 7JL1A	specific	DEAD box helicase motif	D169,E170,C171,H172	4	4	350831
+Q#1 - 7JL1A	specific	ATP binding site	G500,D502,R527,R529	4	4	350189
+Q#1 - 7JL1A	specific	DNA binding site	K432,T433,R434,V496,V515,N517	6	6	350189
+Q#1 - 7JL1A	specific	Zn binding site	C607,C610,C661,C666	4	4	276943
+Q#1 - 7JL1A	specific	dsRNA binding site	H627,F650,G671,I672,V683,I684,K685,W705	8	8	276943

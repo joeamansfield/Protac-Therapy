@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-8397E1B6E68023A-158864792ECB0B98
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:32:23	Run time	0:00:00:02
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1U6DX	specific	KELCH repeat	R159-M202	32	44	-
+Q#1 - 1U6DX	specific	KELCH repeat	R206-K250	35	45	-
+Q#1 - 1U6DX	specific	KELCH repeat	R253-M296	37	44	-
+Q#1 - 1U6DX	specific	KELCH repeat	R112-M155	32	44	-
+Q#1 - 1U6DX	specific	KELCH repeat	R61-M108	32	48	-

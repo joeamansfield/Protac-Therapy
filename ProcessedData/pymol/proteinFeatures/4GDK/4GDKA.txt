@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2B209EA695A564D-2D749CA08240131C
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:42:41	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4GDKA	specific	Atg5 conjugation site	F59,A60,S62,P63,D64,Q65,E66,T69,E72,C73,F74,W90	12	12	340454
+Q#1 - 4GDKA	specific	Atg12~Atg5-Atg16-Atg3 interaction site	K5,D7,I8,L10,M19,T21,K23,W24,A25,V26,E27,R30,G34,L35,F38,I39,K41,F42,K44	19	19	340454
+Q#1 - 4GDKA	specific	key conserved lysines	K11,K20	2	2	340454

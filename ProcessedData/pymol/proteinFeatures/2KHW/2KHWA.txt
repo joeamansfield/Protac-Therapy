@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-CB3F2EDAEF3D0BE-1A22BF8FD04D0E8A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:05:10	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2KHWA	generic	ubiquitin binding interface	D67,I68,D69,Q71,V72,E75,L76,P77,A79,V80,E83,E87	15	12	412037

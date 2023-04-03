@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-171FC9BD81DA1C-13D0E798FA9BD851
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:00:25	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1UHLA	specific	ligand binding site	I42,C43,A45,A46,Q49,L83,F87,R90,L100,A101,V116,C206,H209,L210	14	14	132741
+Q#1 - 1UHLA	specific	homodimer interface	R122,E126,K130,D153,K155,E164,Y171,E175,G187,A190,K191,L194,R195,L196,P197,R200,S201,L204,E208	19	19	132741
+Q#1 - 1UHLA	specific	coactivator recognition site	F51,V54,K58,F63,L68,D69,Q71,V72,R76	9	9	132741
+Q#1 - 1UHLA	specific	heterodimer interface	R122,E126,K130,I147,D153,R167,E168,Y171,A172,E175,F189,A190,L193,L194,L196,P197,A198,R200,S201,L204,E208	21	21	132741

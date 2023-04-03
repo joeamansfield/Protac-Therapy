@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2F1BAEC2C81F2C5F-B3CB0F836E91E1D
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:00:35	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6VCDA	specific	ligand binding site	H282,C512,C578,C581,V582,N610	6	6	153136
+Q#1 - 6VCDA	specific	substrate binding site	Q88,T91,D280,S281,V582,K611,R616	7	7	153136

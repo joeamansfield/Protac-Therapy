@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3A1094BEA91FE8CF-3BEB93BAC0E7FF2
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:28:32	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2KBWA	specific	BH3-homology region binding site	V54,G55,G57,V58,H62,A65,F66,K82,S83,R86,V87,H90,V91,N98,G100,R101,V103,T104,F108,V112,F156	21	21	132900
+Q#1 - 2KBWA	specific	BH4	Y13,R14,Q15,S16,L17,E18,I19,I20,S21,R22,Y23,L24,R25,E26,Q27	15	15	132900
+Q#1 - 2KBWA	specific	BH3	L51,R52,R53,V54,G55,D56,G57,V58,Q59	9	9	132900
+Q#1 - 2KBWA	specific	BH1	H90,V91,F92,T97,N98,W99,G100,R101,I102,V103,T104,L105,I106,S107,F108,G109	16	16	132900
+Q#1 - 2KBWA	specific	BH2	D142,W143,L144,V145,K146,Q147,R148,G149,W150,D151,G152,F153,V154,E155,F156	15	15	132900

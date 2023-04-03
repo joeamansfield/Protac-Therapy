@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-21C938D54C71D34C-1FD7D6F415430D22
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:25:28	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3E7OB	specific	ATP binding site	I30,G31,S32,G33,A34,Q35,G36,V38,A51,K53,I84,M106,E107,L108,M109,D110,A111,N112,V156,L166	20	20	270840
+Q#1 - 3E7OB	specific	KIM docking site	D110,V116,R125,Y128,V157,K158,S159,D160,C161,V321,W322,D324,E327	13	13	270840
+Q#1 - 3E7OB	specific	active site	I30,G31,S32,G33,A34,Q35,G36,V38,A51,K53,R70,I84,M106,E107,L108,M109,D110,A111,N112,C114,Q115,D149,K151,S153,N154,V156,L166,D167,L170,T181,Y183,V184,V185,T186,Y188,G225	36	36	270840
+Q#1 - 3E7OB	specific	polypeptide substrate binding site	R70,C114,D149,K151,L170,T181,Y183,V184,V185,T186,Y188,G225	12	12	270840
+Q#1 - 3E7OB	specific	activation loop (A-loop)	L166,D167,F168,G169,L170,A171,R172,T173,A174,S175,T176,M180,T181,P182,Y183,V184,V185,T186,R187,Y188	20	20	270840

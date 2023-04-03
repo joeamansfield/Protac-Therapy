@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3AE5FF84C588CCB3-2EFA19FA1A700AA9
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:19:46	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2PSND	specific	metal binding site	S40,D245,E293,D318	4	4	239429
+Q#1 - 2PSND	specific	substrate binding pocket	H158,E210,K343,H371,R372,S373,K394	7	7	239429
+Q#1 - 2PSND	specific	dimer interface	H7,R9,E10,I11,F12,D13,S14,R15,G16,N17,E21,R32,A159,G160,N161,M182,R183,A186,E187,H190,N191,N206,V207,A214,N216,E375,T376,E377,R400,S401,E402,L404,A405,N408,L411,R412,E415	37	37	239429

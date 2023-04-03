@@ -1,0 +1,18 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-54B074809CEF6F9-352148607A9C8D81
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:53:48	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5W69E	specific	heterodimer interface	R202,W204,V231,E232,R234,P235,A236,Q242,W244	9	9	409495
+Q#1 - 5W69E	specific	MHC binding domain interface	Y209,P210,A211,G239,E264	5	5	409495
+Q#1 - 5W69E	specific	Ig strand A	P185-H191	8	7	409495
+Q#1 - 5W69E	specific	Ig strand B	A199-F208	10	10	409495
+Q#1 - 5W69E	specific	Ig strand C	I213-Q218	6	6	409495
+Q#1 - 5W69E	specific	Ig strand C'	G221-Q224	4	4	409495
+Q#1 - 5W69E	specific	Ig strand D	T228-A236	9	9	409495
+Q#1 - 5W69E	specific	Ig strand E	G239-V249	11	11	409495
+Q#1 - 5W69E	specific	Ig strand F	R256-H263	8	8	409495
+Q#1 - 5W69E	specific	Ig strand G	L270-R273	4	4	409495

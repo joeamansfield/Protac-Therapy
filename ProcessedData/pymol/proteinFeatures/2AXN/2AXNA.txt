@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-31ECCA02C7CF9E69-E033A2FDE72AE0D
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:04:59	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2AXNA	specific	catalytic core	R253,H254,S303,H388,Q389	5	5	132718

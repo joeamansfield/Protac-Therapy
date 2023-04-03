@@ -1,0 +1,29 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-287B5ECDA676A62E-2126F76C4D54E106
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:46:46	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3BIKA	specific	Ig strand A	V4-P7	4	4	409539
+Q#1 - 3BIKA	specific	Ig strand A'	D9-E14	6	6	409539
+Q#1 - 3BIKA	specific	Ig strand B	G16-K24	9	9	409539
+Q#1 - 3BIKA	specific	Ig strand C	L36-M42	7	7	409539
+Q#1 - 3BIKA	specific	Ig strand C'	N46-V51	6	6	409539
+Q#1 - 3BIKA	specific	Ig strand C"	G53-L57	5	5	409539
+Q#1 - 3BIKA	specific	Ig strand D	R67-L71	5	5	409539
+Q#1 - 3BIKA	specific	Ig strand E	N79-D86	8	8	409539
+Q#1 - 3BIKA	specific	Ig strand F	Q90-S100	11	11	409539
+Q#1 - 3BIKA	specific	Ig strand G	A104-V113	10	10	409539
+Q#1 - 3BIKA	specific	FR1	V4-K24	21	21	409539
+Q#1 - 3BIKA	specific	CDR1	F25-L36	12	12	409539
+Q#1 - 3BIKA	specific	FR2	I37-K45	9	9	409539
+Q#1 - 3BIKA	specific	CDR2	N46-L57	12	12	409539
+Q#1 - 3BIKA	specific	FR3	K58-I99	42	42	409539
+Q#1 - 3BIKA	specific	CDR3	S100-A104	5	5	409539
+Q#1 - 3BIKA	specific	FR4	D105-V113	9	9	409539
+Q#1 - 3BIKA	generic	Ig strand B	H134-C138	5	5	409578
+Q#1 - 3BIKA	generic	Ig strand C	E147-Q156	5	10	409578
+Q#1 - 3BIKA	generic	Ig strand E	S178-I182	5	5	409578
+Q#1 - 3BIKA	generic	Ig strand F	I189-F194	6	6	409578

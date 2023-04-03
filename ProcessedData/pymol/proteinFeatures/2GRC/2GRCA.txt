@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-224A0451E5F2E44A-6FFE01B178B0853
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:02:08	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2GRCA	specific	acetyllysine binding site	P43,L48,Y51,A90,N94,I100	6	6	99947

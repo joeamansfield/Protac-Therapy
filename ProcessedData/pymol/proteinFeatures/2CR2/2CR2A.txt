@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-C5A7EF5689534CE-126C8D91473F3EC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:13:53	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2CR2A	specific	putative substrate binding site	Y67,D110,W111,G112	4	4	239743

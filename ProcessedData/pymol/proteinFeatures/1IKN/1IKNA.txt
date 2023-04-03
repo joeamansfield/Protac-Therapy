@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-327D66AAC8269869-191823DA252D0E6B
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:27:51	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1IKNA	specific	DNA binding site	R15,R17,Y18,C20,E21,R23,S24,A25,G26,K104,K105,R106,R169	13	13	143645
+Q#1 - 1IKNA	specific	DNA binding site	K200,Q202,R228,Q229	4	4	238582
+Q#1 - 1IKNA	specific	ankyrin protein binding site	K177,C179,R180,V181,R183,N184,S185,S220,F221,S222,R235,P247,M266,Q269,L271	15	15	238582
+Q#1 - 1IKNA	specific	dimerization interface	C179,R180,N182,F195,L197,D199,H227,R228,A231,V233	10	10	238582

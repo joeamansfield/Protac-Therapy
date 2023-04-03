@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3E11F21F01E504B3-33A89CA0BCA1D549
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:28:11	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2EA6A	specific	Zn binding site	C18,C21,C40,H42,C45,C48,C59,C62	8	8	438195
+Q#1 - 2EA6A	specific	E2 binding site	P19,I20,C21,M22,D23,E27,C48,D51,S52,N55,P60,R63	12	12	438195
+Q#1 - 2EA6A	specific	ubiquitin binding site	S13,H42,P60,T61,C62,R63	6	6	438195

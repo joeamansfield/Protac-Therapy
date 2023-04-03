@@ -1,0 +1,14 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-31141F4FDFFF5BC7-17219E010B4BC9BC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:52:21	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2R5TA	specific	active site	I46,G47,G49,S50,F51,G52,V54,A67,K69,V102,D119,I121,E125,F127,D164,K166,E168,N169,L171,T181,D182,L185,F199,C200,G201,T202,P203,E204,E231,P237,Y240	31	31	270753
+Q#1 - 2R5TA	specific	ATP binding site	I46,G47,G49,S50,F51,G52,V54,A67,K69,V102,D119,I121,K166,E168,N169,L171,T181	17	17	270753
+Q#1 - 2R5TA	specific	polypeptide substrate binding site	S50,E125,F127,D164,K166,E168,L185,F199,C200,G201,T202,P203,E204,E231,P237,Y240	16	16	270753
+Q#1 - 2R5TA	specific	activation loop (A-loop)	T181,D182,F183,G184,L185,C186,K187,E188,N189,I190,E191,H192,N193,S194,T195,T196,S197,T198,F199,C200,G201,T202,P203,E204	24	24	270753
+Q#1 - 2R5TA	specific	hydrophobic motif (HM)	F360,L361,G362,F363,S364,Y365	6	6	270753
+Q#1 - 2R5TA	specific	turn motif phosphorylation site	A339	1	1	270753

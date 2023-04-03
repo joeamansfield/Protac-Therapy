@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-259B83339729E7F-3929BDCF75489FA8
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:17:48	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1T6FB	generic	dimer interface	L2,A5,L6,E8,N9,L12,H13,E15,I16,K19,D20,E22,I23,L26,N30,L33,V36	21	17	439143

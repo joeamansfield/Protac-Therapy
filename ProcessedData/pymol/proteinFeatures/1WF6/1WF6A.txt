@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-918B30EC26530DC-22CCEC89B6A13610
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:58:01	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1WF6A	specific	BRCT sequence motif	W108,C112	2	2	349350

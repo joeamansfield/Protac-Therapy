@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-991D2851A70A69-107E6B9E385737BE
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:53:13	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4WNOA	specific	active site	I26,G27,H28,G29,A30,V34,A48,K50,V80,M96,E97,Y98,C99,D103,A105,D142,K144,Q146,N147,L149,D169,F172,G187,S188,P189,M190	26	26	271104
+Q#1 - 4WNOA	specific	ATP binding site	I26,G27,H28,G29,A30,V34,A48,K50,V80,M96,E97,Y98,C99,D103,D142,K144,Q146,N147,L149,D169	20	20	271104
+Q#1 - 4WNOA	specific	polypeptide substrate binding site	A30,D103,A105,D142,K144,Q146,F172,G187,S188,P189,M190	11	11	271104
+Q#1 - 4WNOA	specific	activation loop (A-loop)	A168,D169,F170,G171,F172,A173,R174,Y175,L176,Q177,S178,N179,M180,M181,A182,A183,X184,L185,C186,G187,S188,P189,M190	23	23	271104

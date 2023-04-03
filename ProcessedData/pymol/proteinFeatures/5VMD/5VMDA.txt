@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-293FCAE609155F39-2A0FF9094E7C4982
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:47:21	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5VMDA	specific	Zn binding site	H21,C26,C29,C38,C41,C45,H46,H49,H56,C61,C63,C72	12	12	439074
+Q#1 - 5VMDA	specific	homodimer interface	H21,Y24,R25,N35,A36,I37,C38,N40,C41,K43,C45,H46,Q47,G48,V51,E52,F53,R58,F60,C61,D62,C63,C72,T73,L74	25	25	439074

@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2ED8E082BB7F4FAF-1C892F7B6AA2753
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:53:57	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2JY5A	specific	polypeptide substrate binding site	A21,M22,G23,F24,L25,N26,N42,I45,E46,R47,L49,G50	12	12	270582

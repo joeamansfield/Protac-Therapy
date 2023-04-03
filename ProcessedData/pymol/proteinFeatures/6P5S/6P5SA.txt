@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-30F28AB05ECF6737-1BCA93213AD84698
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:25:40	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6P5SA	specific	active site	L48,G49,R50,G51,T52,V56,A69,K71,I85,V104,F120,E121,M122,L123,N126,Y128,D129,D167,K169,E171,N172,M174,D189,S192,S202,X204,L205,Q206,S207,Y209,G246	31	31	271129
+Q#1 - 6P5SA	specific	ATP binding site	L48,G49,R50,G51,T52,V56,A69,K71,V104,F120,E121,M122,L123,N126,D167,K169,E171,N172,M174,D189	20	20	271129
+Q#1 - 6P5SA	specific	polypeptide substrate binding site	I85,Y128,D167,K169,S192,S202,X204,L205,Q206,S207,Y209,G246	12	12	271129
+Q#1 - 6P5SA	specific	activation loop (A-loop)	I188,D189,F190,G191,S192,A193,S194,H195,V196,S197,K198,A199,V200,C201,S202,T203,X204,L205,Q206,S207,R208,Y209	22	22	271129

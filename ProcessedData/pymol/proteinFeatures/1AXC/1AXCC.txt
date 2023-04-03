@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-22BFD496C6EFBE50-72F4CC5C25186A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:46:19	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1AXCC	specific	trimer interface	K77,K80,C81,A82,V111,S112,D113,Y114,E115,M116,K117,E143,R146,I147,R149,D150,G173,G176,N177,N179,I180,K181,L182,S183	24	24	238322
+Q#1 - 1AXCC	specific	putative DNA binding site	K13,K14,K20,K77,K80,R146,R149,R210,K217	9	9	238322
+Q#1 - 1AXCC	specific	PCNA/WAF1-CIP1 protein binding site	C27,D29,M40,A67,G69,M119,D120,L121,D122,A252,P253,K254,I255	13	13	238322
+Q#1 - 1AXCC	specific	PCNA/RFCL protein interaction site	A208,A252,P253,K254	4	4	238322
+Q#1 - 1AXCC	specific	PCNA/FEN-1 protein interaction site	M40,L47,Y250	3	3	238322

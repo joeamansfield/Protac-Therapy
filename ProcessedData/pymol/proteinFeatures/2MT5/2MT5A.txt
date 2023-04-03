@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1335CC3FE1A0F540-377C4B3FD8BD5416
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:18:31	Run time	0:00:00:02
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2MT5A	specific	Zn binding site	C9,C12,C37,H39,H42,C45,C59,C62	8	8	438120
+Q#1 - 2MT5A	specific	Zn binding site	C20,C23,C30,H44	4	4	438120
+Q#1 - 2MT5A	specific	oligomer interface	I11,C12,R13,N17,P21,D22,K24,D28,W34,K48	10	10	438120

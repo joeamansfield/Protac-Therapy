@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-93FBF229CF66541-35A92D61C307F3D6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:48:32	Run time	0:00:00:00
+#status	success
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1E4UA	specific	Zn binding site	C14,C17,C31,C33,C38,C41,C53,C56	8	8	438280
+Q#1 - 1E4UA	specific	E2 binding site	P15,L16,C17,M18,E19,P20,Y35,F40,C41,R44,I45,N50,L52,C53,P54,A55,C56,R57	18	18	438280

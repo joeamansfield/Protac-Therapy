@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1CCA5B6E4DBC3548-37F2D13DE97A1D31
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:22:09	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4REDA	specific	ATP binding site	L22,G23,V24,G25,V30,A43,K45,I77,M93,E94,Y95,V96,E100,E143,N144,L146,A156,D157	18	18	270981
+Q#1 - 4REDA	specific	heterotrimer interface	M164,S165,D166,G167,E168,F169,R188,L189,A191,E194,M254	11	11	270981
+Q#1 - 4REDA	specific	active site	L22,G23,V24,G25,T26,V30,A43,K45,I77,M93,E94,Y95,V96,E100,F102,D103,I105,R138,D139,K141,E143,N144,L146,A156,D157,L160,C174,G175,S176,P177,N178,A180,G210,T211,L212,P213	36	36	270981
+Q#1 - 4REDA	specific	polypeptide substrate binding site	E100,F102,D103,I105,D139,K141,E143,L160,C174,G175,S176,P177,N178,A180,G210,T211,L212,P213	18	18	270981
+Q#1 - 4REDA	specific	activation loop (A-loop)	A156,D157,F158,G159,L160,S161,N162,M163,M164,S165,D166,G167,E168,F169,L170,R171,T172,S173,C174,G175,S176,P177,N178	23	23	270981

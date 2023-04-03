@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-25D3ECFF3B300B26-133C8232F0BC5795
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:32:35	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6APXA	specific	chemical substrate binding site	N13,D15,K16,W63,D66,R67,E112,E154,P155,Y156,F157,W231,M331,W341,R345	15	15	270374

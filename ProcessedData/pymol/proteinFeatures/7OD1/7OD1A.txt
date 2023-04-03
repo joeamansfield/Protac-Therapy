@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1C783A369D2DC05E-61EB8E8BDFDB7FA
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:37:56	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 7OD1A	specific	Zn binding site	C228,C233,C249,C252,C257,C260,H265,C270	8	8	439005
+Q#1 - 7OD1A	specific	catalytic residue	C310	1	1	439021
+Q#1 - 7OD1A	specific	Zn binding site	C297,C300,C315,C318,C323,C326,H333,C340	8	8	439021
+Q#1 - 7OD1A	specific	Zn binding site	C139,C142,C156,H158,C161,C164,C183,C188	8	8	438429

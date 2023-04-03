@@ -1,0 +1,22 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2AAA34CC70C79B37-D94C95EFA19F5CB
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:16:26	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1A4RB	specific	GTP/Mg2+ binding site	A13,V14,G15,K16,T17,C18,P29,Y32,V33,T35,D57,T58,G60,Q116,D118,A159,L160	17	17	206664
+Q#1 - 1A4RB	specific	GAP (GTPase-activating protein) interaction site	Y32,P34,V36,F37,Q61,E62,D63,Y64,L67,L70	10	10	206664
+Q#1 - 1A4RB	specific	GEF (guanine nucleotide exchange factor) interaction site	T3,K5,E31,Y32,T35,V36,D38,N39,A41,T43,T52,F56,D57,T58,A59,G60,Q61,Y64,D65,R66,L67,L70,S71,P73,Q74,H103,H104	27	27	206664
+Q#1 - 1A4RB	specific	GDI (guanine nucleotide dissociation inhibitor) interaction site	T35,V36,A59,Y64,R66,L67,P69,L70,P73,H103,H104,P106	12	12	206664
+Q#1 - 1A4RB	specific	CRIB effector interaction site	L20,I21,V36,D38,Y40,I46,L67,L70,I173,L174,L177	11	11	206664
+Q#1 - 1A4RB	specific	Par6 cell polarity protein interaction site	Y23,T24,T25,F37,N39,Y40,A41,T43,M45,I46,G47,Y64,K166	13	13	206664
+Q#1 - 1A4RB	specific	ACK tyrosine kinase interaction site	I4,V7,V8,V9,G10,D11,V12,A13,K16,L20,I21,Y23,F28,S30,E31,Y32,V33,P34,T35,V36,F37,D38,N39,Y40,A41,V42,T43,V44,M45,I46,G47,G48,T52,L53,D57,T58,A59,G60,Q61,E62,D63,L67,R68,L70,Q116,R120,K166,D170,I173,L174,L177	51	51	206664
+Q#1 - 1A4RB	specific	Switch I region	T25,N26,K27,F28,P29,S30,E31,Y32,V33,P34,T35,V36,F37,D38,N39,Y40	16	16	206664
+Q#1 - 1A4RB	specific	Switch II region	A59,G60,Q61,E62,D63,Y64,D65,R66,L67,R68,P69,L70,S71,Y72,P73,Q74,T75,D76,V77	19	19	206664
+Q#1 - 1A4RB	specific	G1 box	G10,D11,V12,A13,V14,G15,K16,T17	8	8	206664
+Q#1 - 1A4RB	specific	G2 box	T35	1	1	206664
+Q#1 - 1A4RB	specific	G3 box	D57,T58,A59,G60	4	4	206664
+Q#1 - 1A4RB	specific	G4 box	T115,Q116,I117,D118	4	4	206664
+Q#1 - 1A4RB	specific	G5 box	S158,A159,L160	3	3	206664

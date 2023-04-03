@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-10B6424C2E080028-37E878B0072B2D8A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:05:45	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5DKAB	specific	Zn binding site	C37,C40,C52,H54,C57,C60,C72,C75	8	8	438204

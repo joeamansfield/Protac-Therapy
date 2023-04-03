@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-82525C922D323C9-35AF9180F2966511
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:05:33	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4PVFA	specific	active site	S55,H150,X259,R404	4	4	99733
+Q#1 - 4PVFA	specific	glycine-pyridoxal phosphate binding site	S55,Y75,Y85,G122,S123,H150,S205,D230,H233,H258,X259,R265,R404	13	13	99733
+Q#1 - 4PVFA	specific	folate binding site	E77,Y84,L145,G149,L151,F299,N389	7	7	99733
+Q#1 - 4PVFA	specific	dimer interface	D32,E34,R41,E42,E51,E56,K74,D92,E93,R101,Y120,L127,I167,F168,H307,M325	16	16	99733

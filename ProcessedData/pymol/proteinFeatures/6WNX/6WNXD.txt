@@ -1,0 +1,17 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-349350480C9FC7B3-396C273AFBF255C5
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:24:08	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6WNXD	specific	structural tetrad	S142,D146,W152,D153,G165,H166,T182,D186,W192,D193,H205,H206,V221,D226,W232,D233,H249,V264,D269,W275,S276,G288,H289,S305,D309,W315,D316,G328,H329,V344,D349,W355,D356,E377,H378,S394,D398,W404,D405	40	39	238121
+Q#1 - 6WNXD	specific	putative Skp1 binding site	Q3,R4,D5,F6,A9,L10,L15,H17,I18,I22,Y25,L26,D27,S30,C32,A33,E35,L36,V37,C38,K39,W41,Q42	23	23	438954
+Q#1 - 6WNXD	specific	WD40 repeat	V130-G165	26	36	-
+Q#1 - 6WNXD	specific	WD40 repeat	L171-H205	24	35	-
+Q#1 - 6WNXD	specific	WD40 repeat	V210-V247	25	38	-
+Q#1 - 6WNXD	specific	WD40 repeat	N254-N287	25	34	-
+Q#1 - 6WNXD	specific	WD40 repeat	I293-E327	26	35	-
+Q#1 - 6WNXD	specific	WD40 repeat	V333-V376	24	44	-
+Q#1 - 6WNXD	specific	WD40 repeat	V382-W404	16	23	-

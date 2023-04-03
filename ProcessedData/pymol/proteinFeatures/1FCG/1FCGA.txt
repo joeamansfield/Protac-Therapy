@@ -1,0 +1,27 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-22EFD37855E7D6C7-378AD8A23A7147A7
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:54:12	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1FCGA	specific	Fc binding site	W90,W113,V119,K120	4	4	409411
+Q#1 - 1FCGA	specific	pentraxin binding site	G103,E104,T105,K114,V119,I158	6	6	409411
+Q#1 - 1FCGA	specific	Ig strand A	W90-Q94	5	5	409411
+Q#1 - 1FCGA	specific	Ig strand A'	E99-Q101	3	3	409411
+Q#1 - 1FCGA	specific	Ig strand B	T105-S112	8	8	409411
+Q#1 - 1FCGA	specific	Ig strand C	V119-Q125	7	7	409411
+Q#1 - 1FCGA	specific	Ig strand C'	K128-S133	6	6	409411
+Q#1 - 1FCGA	specific	Ig strand E	P137-I141	5	5	409411
+Q#1 - 1FCGA	specific	Ig strand F	D151-G156	6	6	409411
+Q#1 - 1FCGA	specific	Ig strand G	L162-V172	11	11	409411
+Q#1 - 1FCGA	specific	pentraxin binding site	K11,L12,Q30,D38,S39,I40,Q41	7	7	409410
+Q#1 - 1FCGA	specific	Ig strand A	V9-L12	4	4	409410
+Q#1 - 1FCGA	specific	Ig strand A'	I17-L20	4	4	409410
+Q#1 - 1FCGA	specific	Ig strand B	S24-Q30	7	7	409410
+Q#1 - 1FCGA	specific	Ig strand C	I40-N45	6	6	409410
+Q#1 - 1FCGA	specific	Ig strand C'	N47-I49	3	3	409410
+Q#1 - 1FCGA	specific	Ig strand E	P55-K60	6	6	409410
+Q#1 - 1FCGA	specific	Ig strand F	G67-Q72	6	6	409410
+Q#1 - 1FCGA	specific	Ig strand G	D80-V86	7	7	409410

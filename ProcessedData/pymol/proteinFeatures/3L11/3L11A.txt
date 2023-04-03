@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3AC5A4A39ED0AEA4-A3CAE6113C2B8E
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:50:42	Run time	0:00:00:02
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3L11A	specific	Zn binding site	C18,C21,C33,H35,C38,C41,C53,C56	8	8	438212

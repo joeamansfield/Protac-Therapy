@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-393CCEF5EF6128B0-3A7D763CC0ABB532
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:54:17	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2JP2A	specific	putative proline-rich peptide binding site	M23,W32,F90,H92	4	4	269978

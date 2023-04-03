@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-264FEDB908072E37-3A00CB849A0893B6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:32:51	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2VPIB	specific	catalytic triad	C103,H189,E191	3	3	153213
+Q#1 - 2VPIB	specific	candidate oxyanion hole	G76,Y104	2	2	153213
+Q#1 - 2VPIB	specific	AMP/PPi binding site	A34,Q35,G75,G76,P77,C103,Y104,T151,H189	9	9	153213
+Q#1 - 2VPIB	specific	potential glutamine specificity residues	Q107,H152,Q187	3	3	153213

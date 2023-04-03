@@ -1,0 +1,16 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1CE286803D2770EE-A95D699337F5A12
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:02:27	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5GNRA	specific	GTP/Mg2+ binding site	T84,S85,S86,G87,A88,S89,S90,G181,N237,R238,D240,S284,A285,K286	14	14	206739
+Q#1 - 5GNRA	specific	Switch I region	C111,F112,L113	3	3	206739
+Q#1 - 5GNRA	specific	Switch II region	P180,G181,D200,V201	4	4	206739
+Q#1 - 5GNRA	specific	G1 box	G82,R83,T84,S85,S86,G87,A88,S89	8	8	206739
+Q#1 - 5GNRA	specific	G2 box	T109	1	1	206739
+Q#1 - 5GNRA	specific	G3 box	D178,S179,P180,G181	4	4	206739
+Q#1 - 5GNRA	specific	G4 box	N237,R238,W239,D240	4	4	206739
+Q#1 - 5GNRA	specific	G5 box	S284,A285,K286	3	3	206739

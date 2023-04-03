@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3E60059EAF0B26D9-37AE786CEB59220A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:09:19	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1ALYA	specific	trimer interface	H10,Y55,Y57,H109,F114,S140,L144	7	7	238108
+Q#1 - 1ALYA	specific	receptor binding sites	A26,E27,T32,I75,S82,F86	6	6	238108

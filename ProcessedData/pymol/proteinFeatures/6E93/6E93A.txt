@@ -1,0 +1,17 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-167C390971400F12-3CD8B73CD5DBBECC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:27:12	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6E93A	specific	Zn binding site	C7-H27	4	21	-
+Q#1 - 6E93A	specific	Zn binding site	C35-H55	4	21	-
+Q#1 - 6E93A	specific	Zn binding site	C63-H83	4	21	-
+Q#1 - 6E93A	specific	putative nucleic acid binding site	K12-I82	23	71	-
+Q#1 - 6E93A	specific	C2H2 Zn finger	C7-H27	20	21	-
+Q#1 - 6E93A	specific	C2H2 Zn finger	C35-H55	21	21	-
+Q#1 - 6E93A	specific	C2H2 Zn finger	C63-H83	21	21	-
+Q#1 - 6E93A	specific	Zn binding site	C91-H111	4	21	-
+Q#1 - 6E93A	specific	C2H2 Zn finger	C91-H111	21	21	-

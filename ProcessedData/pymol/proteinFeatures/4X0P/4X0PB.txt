@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-289EA86F11E29F75-33D06B5926D16459
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:10:08	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4X0PB	specific	active site	R410,N414,T417,K418,T446,A447,T448,R450,T452,F453,T454,E455,D539,Y540,F568,R588,K592,Q676,Q683,L747,H748,D749	22	22	176475
+Q#1 - 4X0PB	specific	catalytic site	D539,Y540,Q542,F568,R588,K592,D749	7	7	176475
+Q#1 - 4X0PB	specific	DNA binding site	R410,N414,T417,K418,T446,A447,T448,R450,T452,F453,T454,E455,Y600,R675,Q676,N679,Q683,L747,H748,D749	20	20	176475

@@ -1,0 +1,19 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1EB927D83EAFCD84-96F0B13AF4C190A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:52:07	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1KAOA	specific	GTP/Mg2+ binding site	G13,V14,G15,K16,S17,A18,F28,I29,E30,K31,N116,K117,D119,S146,A147	15	15	133376
+Q#1 - 1KAOA	specific	putative GEF interaction site	S17,A18,Y32,P34,Y40,R41,E54,I55,D57,A59,G60,K148	12	12	133376
+Q#1 - 1KAOA	specific	putative GDI interaction site	S11,G12,A59,G60	4	4	133376
+Q#1 - 1KAOA	specific	putative effector interaction site	T25,K31,D33,I36,E37,D38,F39,Y40,R41	9	9	133376
+Q#1 - 1KAOA	specific	Switch I region	D33,P34,T35,I36,E37,D38,F39,Y40	8	8	133376
+Q#1 - 1KAOA	specific	Switch II region	A59,G60,T61,E62,Q63,F64,A65,R68,D69,L70,Y71,I72,K73,Q76,G77	15	15	133376
+Q#1 - 1KAOA	specific	G1 box	G10,S11,G12,G13,V14,G15,K16,S17	8	8	133376
+Q#1 - 1KAOA	specific	G2 box	T35	1	1	133376
+Q#1 - 1KAOA	specific	G3 box	D57,T58,A59,G60	4	4	133376
+Q#1 - 1KAOA	specific	G4 box	N116,K117,V118,D119	4	4	133376
+Q#1 - 1KAOA	specific	G5 box	S146,A147,K148	3	3	133376

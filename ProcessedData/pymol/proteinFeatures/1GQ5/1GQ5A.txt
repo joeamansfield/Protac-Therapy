@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-23DF1170FE51396C-491205A65821F3C
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:27:28	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1GQ5A	specific	protein binding site	G15,Y16,G17,F18,L20,V67,V68,I71,R72	9	9	238492

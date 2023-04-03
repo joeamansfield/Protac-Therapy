@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2F12C4A374C6A2FB-291359B7842A5298
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:58:59	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2CRCA	specific	Zn binding site	C13-C30	4	18	-
+Q#1 - 2CRCA	specific	RanBP2-type Zn finger	W11-C30	13	20	-

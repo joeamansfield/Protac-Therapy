@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1F5F9AF1AF1A0306-1FFD1CE1896B5199
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:42:04	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1FBVA	specific	phosphotyrosine binding pocket	Y228,R248,S250,C251,T252,R253,A258,Q270,I272	9	9	198176
+Q#1 - 1FBVA	specific	hydrophobic binding pocket	P273,H274,N275,K276,G289,F290,Y291	7	7	198176
+Q#1 - 1FBVA	specific	Zn binding site	C335,C338,C350,H352,C355,C358,C370,C373	8	8	438368
+Q#1 - 1FBVA	specific	E2 binding site	Q319,E320,E323,L324,C326,E327,K336,I337,C338,A339,E340,C358,S361,W362,P371,F372,R374	17	17	438368

@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2D0557D8C8CD3D11-2703F57E982984FE
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:44:41	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1C9QA	specific	Zn2+ binding site	C77,C80,H97,C104	4	4	237989
+Q#1 - 1C9QA	specific	peptide binding groove	T69,Q74,Q76,K83,L84,K85,W87,D91,E96,H100,F101	11	11	237989

@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1215DB4086F8A6BA-1C81A09EF7495971
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:08:11	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1SM2B	specific	ATP binding site	I13,G14,V21,A33,K35,V63,F79,E80,F81,M82,G85,C86,R130,N131,L133,S143,D144	17	17	133243
+Q#1 - 1SM2B	specific	active site	I13,G14,V21,A33,K35,V63,F79,E80,F81,M82,G85,C86,D126,R130,N131,L133,S143,D144,G161,T162,K163,F164,P165,F174,N208	25	25	133243
+Q#1 - 1SM2B	specific	polypeptide substrate binding site	D126,R130,G161,T162,K163,F164,P165,F174,N208	9	9	133243
+Q#1 - 1SM2B	specific	activation loop (A-loop)	S143,D144,F145,G146,M147,T148,R149,F150,V151,L152,D153,D154,Q155,Y156,T157,S158,S159,T160,G161,T162,K163,F164,P165,V166,K167	25	25	133243

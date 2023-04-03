@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-283B53B85F64FBC8-3607E6B0A5AF312B
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:18:34	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5NJ8A	specific	DNA binding site	N15,P16,S17,K18,R19,H20,R21,R23,N25,D46,K47,L48	12	12	381442
+Q#1 - 5NJ8A	specific	dimer interface	H20,R23,L24,E27,L28,R30,L31,L34,L35,P36,F37,P38,D46,K47,L48,L51,R52,L53,S54,V55,S56,Y57,L58,R59,A60,K61,F64,A67,L68	29	29	381442
+Q#1 - 5NJ8A	specific	putative active site	A119,I123,F129,L142,I143,H144,T145,I171,G176	9	9	238075
+Q#1 - 5NJ8A	specific	heme pocket	V139,I143,F151,Q154,L155,C183,N185	7	7	238075

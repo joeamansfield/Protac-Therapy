@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2D8D88AA9AC02AB6-289953EBD43C01B8
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:52:28	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3CMYA	specific	specific DNA base contacts	S5,T8,V48,S51,N52,A55	6	6	238039
+Q#1 - 3CMYA	specific	DNA binding site	R3,R4,S5,R6,T7,F9,Y26,R32,R45,Q47,V48,S51,N52,R54,A55,R56,R58,K59	18	18	238039

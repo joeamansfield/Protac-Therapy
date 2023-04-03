@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-631709756B3BC1B-14F7359D0A555AA4
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:24:17	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2ZV2A	specific	ATP binding site	I21,G22,K23,G24,S25,V29,A42,K44,V99,F117,E118,L119,V120,P124,D162,K164,S166,N167,L169,D180	20	20	271101
+Q#1 - 2ZV2A	specific	active site	I21,G22,K23,G24,S25,V29,A42,K44,V99,F117,E118,L119,V120,P124,M126,D162,K164,S166,N167,L169,D180,V183,G199,T200,P201,A202	26	26	271101
+Q#1 - 2ZV2A	specific	polypeptide substrate binding site	S25,P124,M126,D162,K164,S166,V183,G199,T200,P201,A202	11	11	271101
+Q#1 - 2ZV2A	specific	activation loop (A-loop)	A179,D180,F181,G182,V183,S184,N185,E186,F187,K188,G189,S190,D191,A192,L193,L194,S195,N196,T197,V198,G199,T200,P201,A202	24	24	271101

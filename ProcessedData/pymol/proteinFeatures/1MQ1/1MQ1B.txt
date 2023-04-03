@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-F1FB37C0BFE9379-1FFBEA6B33322674
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:01:46	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1MQ1B	specific	Ca2+ binding site	S18,E21,D23,K26,E31,D61,D63,D65,E67,E72	10	10	240154
+Q#1 - 1MQ1B	specific	TRTK-12 binding site	E46,K48,V52,K55,V56,T59,Q71,F76,M79,V80,A83,C84,E86,F87	14	14	240154
+Q#1 - 1MQ1B	specific	NDR kinase binding site	H42,F43,L44,E45,E46,I47,E49,E51,V52,K55,V56,M79,V80,A83,C84,E86,F87	17	17	240154
+Q#1 - 1MQ1B	specific	dimerization interface	S1,E2,L3,E4,A6,M7,V8,A9,L10,I11,D12,V13,F14,H15,Q16,Y17,S18,H25,L35,N38,E39,L40,F70,Q71,F73,M74,V77,A78,M79,T81,T82,E86,F87,F88	34	34	240154

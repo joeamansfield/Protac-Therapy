@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-17D35704628B3484-13C2BDCBB65F77CB
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:56:23	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2NRUC	specific	ATP binding site	M39,G40,E41,G42,G43,V47,A58,K60,V93,Y109,V110,Y111,M112,S116,D158,K160,A162,N163,L165,D176	20	20	271060
+Q#1 - 2NRUC	specific	active site	M39,G40,E41,G42,G43,V47,A58,K60,V93,Y109,V110,Y111,M112,S116,L118,D158,K160,A162,N163,L165,D176,L179,G197,T198,T199,A200	26	26	271060
+Q#1 - 2NRUC	specific	polypeptide substrate binding site	G43,S116,L118,D158,K160,A162,L179,G197,T198,T199,A200	11	11	271060
+Q#1 - 2NRUC	specific	activation loop (A-loop)	S175,D176,F177,G178,L179,A180,R181,A182,S183,E184,K185,F186,A187,T189,V190,M191,X192,X193,R194,I195,V196,G197,T198,T199,A200	25	25	271060

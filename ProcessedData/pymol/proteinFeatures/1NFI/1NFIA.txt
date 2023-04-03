@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-28132235DEFBF5A5-BFFAED0EB92C7DD
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:33:56	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1NFIA	specific	DNA binding site	R14,R16,Y17,C19,E20,R22,S23,A24,G25,K103,K104,R105,R168	13	13	143645
+Q#1 - 1NFIA	specific	DNA binding site	K199,Q201,R227,Q228	4	4	238582
+Q#1 - 1NFIA	specific	ankyrin protein binding site	K176,C178,R179,V180,R182,N183,S184,S219,F220,S221,R234,P246,M265,Q268,L270	15	15	238582
+Q#1 - 1NFIA	specific	dimerization interface	C178,R179,N181,F194,L196,D198,H226,R227,A230,V232	10	10	238582

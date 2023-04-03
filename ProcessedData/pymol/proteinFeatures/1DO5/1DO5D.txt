@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-32CA605C04F3D8CE-1B800285AE765621
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:21:50	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1DO5D	specific	active site	H47,H49,H64,H81,D84,D118	6	6	238186
+Q#1 - 1DO5D	specific	Cu2+ binding site	H47,H49,H64,D118	4	4	238186
+Q#1 - 1DO5D	specific	Zn2+ binding site	H64,H72,H81,D84	4	4	238186
+Q#1 - 1DO5D	specific	E-class dimer interface	V7,I9,V19,R21,Y51,G52,D53,I111,G112	9	9	238186
+Q#1 - 1DO5D	specific	P-class dimer interface	L31,R89	2	2	238186

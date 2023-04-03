@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-12F9E56B59CE86A8-AF0DE5B53CE6227
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:32:46	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5ZBUB	specific	active site cysteine 	K86	1	1	238117
+Q#1 - 5ZBUB	specific	Ub thioester intermediate interaction residues	R73,I74,N78,I79,S81,I85,K86,L87,I89,L90,W94,S95,L98,V103,S106,S109,C112,D113,N115,D117,D118	21	21	238117
+Q#1 - 5ZBUB	specific	E3 interaction residues	K5,P62,F63,P96,A97	5	5	238117

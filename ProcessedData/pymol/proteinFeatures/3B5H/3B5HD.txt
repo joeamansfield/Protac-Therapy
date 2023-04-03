@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1924A762900F7794-7F90F89C90FF93A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:26:04	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3B5HD	generic	Ig strand B	A101-C105	5	5	319310
+Q#1 - 3B5HD	generic	Ig strand E	S146-I150	5	5	319310
+Q#1 - 3B5HD	generic	Ig strand F	Q161-G166	6	6	319310
+Q#1 - 3B5HD	generic	Ig strand G	Q174-I177	4	4	319310

@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-30BAE94B9944DAB3-43AEFEC5335A328
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:33:06	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1I10C	specific	NAD binding site	G28,A29,V30,D51,I53,K56,T94,A95,G96,A97,R98,V135,N137,S160,L164,H192,T247,I251	18	18	133429
+Q#1 - 1I10C	specific	substrate binding site	Q99,R105,N137,R168,H192,A237,T247	7	7	133429
+Q#1 - 1I10C	specific	dimer interface	M32,S37,G59,E60,D63,Q65,H66,R168,R170,Y171,L177,L243,K244,T247,S248,W249,A250	17	17	133429
+Q#1 - 1I10C	specific	tetramer (dimer of dimers) interface	Q19,H180,S183,H185,G202,G207,K264,N265,L266,V269,Q296,N297,S300,L302,V303,K304	17	16	133429

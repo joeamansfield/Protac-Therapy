@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-18D7E11EA70A05DD-EFF327BCD90441E
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:40:41	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1DKFA	specific	ligand binding site	I44,C45,A47,A48,Q51,L85,A89,R92,L102,A103,V118,C208,H211,L212	14	14	132741
+Q#1 - 1DKFA	specific	homodimer interface	R124,E128,K132,D155,K157,E166,Y173,E177,G189,A192,K193,L196,R197,L198,P199,R202,S203,L206,E210	19	19	132741
+Q#1 - 1DKFA	specific	coactivator recognition site	F53,V56,K60,F65,L70,D71,Q73,V74,R78	9	9	132741
+Q#1 - 1DKFA	specific	heterodimer interface	R124,E128,K132,I149,D155,R169,E170,Y173,A174,E177,F191,A192,L195,L196,L198,P199,A200,R202,S203,L206,E210	21	21	132741

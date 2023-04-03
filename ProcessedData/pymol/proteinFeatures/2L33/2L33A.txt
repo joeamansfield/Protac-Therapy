@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3AE95F4A2516F92-BE8EDA6A8157621
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:47:20	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2L33A	specific	RNA binding site	N18,V20,M21,N24,E37,G40,S41,H42,F46,S62,N63,K64,K65	13	13	380741

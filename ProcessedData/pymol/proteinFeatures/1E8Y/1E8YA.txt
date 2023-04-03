@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2F7958CB1515A738-37F08CE5AD913566
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:29:59	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1E8YA	specific	ATP binding site	M662,S664,K665,K666,P668,I689,K691,D694,Y725,I737,E738,I739,V740,T745,K748,N809,M811,I821,D822	19	19	270627
+Q#1 - 1E8YA	specific	Ras binding site	K778	1	1	270627
+Q#1 - 1E8YA	specific	catalytic loop	G801,I802,G803,D804,R805,H806,N807,D808,N809	9	9	270627
+Q#1 - 1E8YA	specific	activation loop (A-loop)	D822,F823,G824,H825,I826,L827,G828,N829,Y830,K831,S832,F833,L834,G835,I836,N837,K838,E839,R840,V841,P842,F843,V844,L845,T846	25	25	270627
+Q#1 - 1E8YA	specific	putative regulatory subunit interface	D732,K733,F833,L834,I836,K838,E904,E907	8	8	270627

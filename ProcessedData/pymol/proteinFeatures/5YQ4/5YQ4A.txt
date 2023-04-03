@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-64DA207FFDEB950-3D861D531B0BC417
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:42:26	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5YQ4A	specific	KELCH repeat	R54-T98	32	45	-
+Q#1 - 5YQ4A	specific	KELCH repeat	R102-S146	35	45	-
+Q#1 - 5YQ4A	specific	KELCH repeat	R149-T194	37	46	-
+Q#1 - 5YQ4A	specific	KELCH repeat	R196-M239	37	44	-
+Q#1 - 5YQ4A	specific	KELCH repeat	R243-Y288	37	46	-

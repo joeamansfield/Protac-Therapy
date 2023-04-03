@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-63693286849D316-2C59540568F91F4B
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:52:44	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1YVJA	generic	ATP binding site	L15,G16,K17,G18,G21,V23,A40,K42,V71,M89,E90,Y91,L92,D136,R140,N141,L143,A153,D154	19	19	270665

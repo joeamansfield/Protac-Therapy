@@ -1,0 +1,15 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-39E8595482EF8EB8-2F2511C12F1B7AA1
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:39:18	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4LG8A	specific	structural tetrad	T89,D93,F99,D100,G112,H113,S131,D135,W141,S142,A154,H155,L172,D177,S183,D184,E197,G216,D221,W227,D228,G240,H241,T259,D263,W269,D270,L282,D283,A301,D306,Y310,I311,E323,H324,S342,D346,Y352,S353	40	39	238121
+Q#1 - 4LG8A	specific	WD40 repeat	I74-G112	26	39	-
+Q#1 - 4LG8A	specific	WD40 repeat	T118-A154	24	37	-
+Q#1 - 4LG8A	specific	WD40 repeat	V159-V194	25	36	-
+Q#1 - 4LG8A	specific	WD40 repeat	T204-P239	25	36	-
+Q#1 - 4LG8A	specific	WD40 repeat	I245-Q281	26	37	-
+Q#1 - 4LG8A	specific	WD40 repeat	T328-L354	24	27	-

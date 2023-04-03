@@ -1,0 +1,22 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2ADDADD7918CFD35-24DD6C9AE609521C
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:18:59	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1G3JC	specific	putative peptide binding site	T286-N384	9	99	-
+Q#1 - 1G3JC	specific	armadillo repeat	L270-L295	24	26	-
+Q#1 - 1G3JC	specific	armadillo repeat	K303-S341	34	39	-
+Q#1 - 1G3JC	specific	armadillo repeat	Q350-L385	26	36	-
+Q#1 - 1G3JC	specific	putative peptide binding site	F121-V214	9	94	-
+Q#1 - 1G3JC	specific	armadillo repeat	A98-L130	24	33	-
+Q#1 - 1G3JC	specific	armadillo repeat	K138-Y174	34	37	-
+Q#1 - 1G3JC	specific	armadillo repeat	K180-L215	26	36	-
+Q#1 - 1G3JC	specific	armadillo repeat	I56-L89	24	34	-
+Q#1 - 1G3JC	specific	armadillo repeat	H392-R450	34	59	-
+Q#1 - 1G3JC	specific	armadillo repeat	R455-L489	26	35	-
+Q#1 - 1G3JC	specific	armadillo repeat	K222-S257	34	36	-
+Q#1 - 1G3JC	specific	armadillo repeat	I21-L46	24	26	-
+Q#1 - 1G3JC	specific	armadillo repeat	E497-M530	26	34	-

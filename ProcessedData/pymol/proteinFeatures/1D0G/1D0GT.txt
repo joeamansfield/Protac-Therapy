@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2DAE03546679CB9D-21C742737AEAF3CE
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:16:54	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1D0GT	specific	polypeptide ligand binding site	F59,R62,D67,E98,M99,C100,R101,K102	8	8	276906
+Q#1 - 1D0GT	specific	Antibody binding	E25,G26,L27,I34,E36,H53,W54,D56,L57,L58,F59,L61,R62,R101,D122	15	15	276906
+Q#1 - 1D0GT	specific	CRD1	S24-C41	16	18	276906
+Q#1 - 1D0GT	specific	CRD2	C44-C84	40	41	276906
+Q#1 - 1D0GT	specific	CRD3	C86-C125	35	40	276906

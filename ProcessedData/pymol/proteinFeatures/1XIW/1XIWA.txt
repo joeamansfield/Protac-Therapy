@@ -1,0 +1,17 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1CD2019308E3D920-2B2B99C7E7BCD1D3
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:43:12	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1XIWA	specific	heterodimer interface	Y15,I19,Y74,Y90,L91,Y92,R94,A95,R96	9	9	409489
+Q#1 - 1XIWA	specific	Ig strand A	Y15-G21	7	7	409489
+Q#1 - 1XIWA	specific	Ig strand B	T23-C28	6	6	409489
+Q#1 - 1XIWA	specific	Ig strand C	E35-Q39	5	5	409489
+Q#1 - 1XIWA	specific	Ig strand C'	K43-N44	2	2	409489
+Q#1 - 1XIWA	specific	Ig strand D	D48-D57	4	10	409489
+Q#1 - 1XIWA	specific	Ig strand E	D59-L63	5	5	409489
+Q#1 - 1XIWA	specific	Ig strand F	Y74-P79	6	6	409489
+Q#1 - 1XIWA	specific	Ig strand G	N88-Y92	5	5	409489

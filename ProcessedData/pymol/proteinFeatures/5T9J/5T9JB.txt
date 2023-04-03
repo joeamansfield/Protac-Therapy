@@ -1,0 +1,14 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1F2386A11067B323-3F2EF84DF554449E
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:01:13	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5T9JB	specific	active site	H16,N30,E37,R54,N55,F58,R59,E75,E134,E136,D155,D157,F170,T171	16	14	350217
+Q#1 - 5T9JB	specific	metal binding site 1	N30,E75,E134,E136	4	4	350217
+Q#1 - 5T9JB	specific	metal binding site 2	D155,D157	2	2	350217
+Q#1 - 5T9JB	specific	helical arch	L81,K82,A83,D84,V85,I86,S87,K88,R89,N90,Q91,T92,K104,T105,G106,R107,S108,H109,F110,K111	20	20	350217
+Q#1 - 5T9JB	specific	putative DNA binding site	L205,G206,C207,D208,Y209,L210,G213,V214,P215,G216,V217,G218,E220,Q221,A222,L223	16	16	188625
+Q#1 - 5T9JB	specific	putative metal binding site	D208	1	1	188625

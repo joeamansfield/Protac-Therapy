@@ -1,0 +1,15 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-13050C4DF6E37A1C-1808758BC49CEB7
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:07:11	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3E3BX	specific	ATP binding site	R53,G54,Y56,S57,V59,V72,K74,I101,F119,E120,I122,H166,N167,M169,I180,D181	16	16	271034
+Q#1 - 3E3BX	specific	tetramer interface	Q42,D43,Y45,Q46,L47,V48,Y56,F60,D109	9	9	271034
+Q#1 - 3E3BX	specific	CK2 beta interface	Q42,D43,Y45,Q46,L47,I63,I65,D109	8	8	271034
+Q#1 - 3E3BX	specific	allosteric inhibitor binding site	Q42,Y45,Q46,L47,V73,I75,V107,D109,P110,A116	10	10	271034
+Q#1 - 3E3BX	specific	active site	L51,G52,R53,G54,K55,V59,V72,K74,R86,I101,F119,E120,Y121,I122,D126,K128,Q129,D162,K164,H166,N167,M169,D181,L184,N195,R197,V198,A199,S200,Y202,G241	31	31	271034
+Q#1 - 3E3BX	specific	polypeptide substrate binding site	R86,K128,D162,K164,L184,N195,R197,V198,A199,S200,Y202,G241	12	12	271034
+Q#1 - 3E3BX	specific	activation loop (A-loop)	I180,D181,W182,G183,L184,A185,E186,F187,Y188,H189,P190,N195,V196,R197,V198,A199,S200,R201,Y202	19	19	271034

@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-16AC6BAFA03A0EDF-2C2B97AB91372C95
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:01:56	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4DN5A	specific	active site	L82,G83,R84,G85,S86,V90,A103,K105,V129,M145,E146,L147,L148,S152,G154,Q155,D191,K193,D195,N196,L198,D210,H213,G234,T235,E236,T237	27	27	270893
+Q#1 - 4DN5A	specific	ATP binding site	L82,G83,R84,G85,S86,V90,A103,K105,V129,M145,E146,L147,L148,S152,Q155,D191,K193,D195,N196,L198,D210	21	21	270893
+Q#1 - 4DN5A	specific	polypeptide substrate binding site	S86,S152,G154,D191,K193,D195,H213,G234,T235,E236,T237	11	11	270893
+Q#1 - 4DN5A	specific	activation loop (A-loop)	C209,D210,F211,G212,H213,A214,V215,C216,L217,Q218,P219,D220,G221,L222,G223,K224,D225,L226,L227,T228,G229,D230,Y231,I232,P233,G234,T235,E236,T237	29	29	270893

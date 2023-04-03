@@ -1,0 +1,24 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-14AF2831C95D0363-38035FF20AC03DD6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:57:26	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5ZCSA	specific	ATP binding site	I2163,S2165,K2166,Q2167,P2169,L2185,K2187,E2190,Y2225,I2237,G2238,W2239,V2240,T2245,N2343,M2345,I2356,D2357	18	18	270713
+Q#1 - 5ZCSA	specific	catalytic loop	G2335,L2336,G2337,D2338,R2339,H2340,P2341,S2342,N2343	9	9	270713
+Q#1 - 5ZCSA	specific	activation loop (A-loop)	D2357,F2358,G2359,D2360,C2361,F2362,E2363,V2364,A2365,M2366,T2367,R2368,E2369,K2370,F2371,P2372,E2373,K2374,I2375,P2376,F2377,R2378,L2379,T2380	24	24	270713
+Q#1 - 5ZCSA	specific	mLST8 interface	A2272,P2273,D2274,H2277,L2278,T2279,L2280,Q2282,V2284,E2285,E2288	11	11	270713
+Q#1 - 5ZCSA	specific	HEAT repeat	V655-E681	25	27	-
+Q#1 - 5ZCSA	specific	HEAT repeat	E691-M721	28	31	-
+Q#1 - 5ZCSA	specific	HEAT repeat	F729-H759	23	31	-
+Q#1 - 5ZCSA	specific	HEAT repeat	M772-L805	26	34	-
+Q#1 - 5ZCSA	specific	HEAT repeat	V817-L847	26	31	-
+Q#1 - 5ZCSA	specific	putative peptide binding site	T969-R1141	27	173	-
+Q#1 - 5ZCSA	specific	HEAT repeat	L955-S981	21	27	-
+Q#1 - 5ZCSA	specific	HEAT repeat	V993-S1021	25	29	-
+Q#1 - 5ZCSA	specific	HEAT repeat	E1033-A1062	28	30	-
+Q#1 - 5ZCSA	specific	HEAT repeat	Q1073-A1099	23	27	-
+Q#1 - 5ZCSA	specific	HEAT repeat	L1111-L1142	26	32	-
+Q#1 - 5ZCSA	specific	HEAT repeat	R1154-L1180	28	27	-

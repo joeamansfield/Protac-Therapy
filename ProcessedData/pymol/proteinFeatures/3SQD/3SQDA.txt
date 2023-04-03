@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1EDA14A206632DAC-27C97174200ABC3E
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:18:10	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3SQDA	specific	gamma-H2AX interaction site	P136,L203	2	2	349393
+Q#1 - 3SQDA	specific	BRCT sequence motif	W79,C83	2	2	349344

@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-18907C4543F91167-3B169B1677CB49FB
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:22:34	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 7MU2C	generic	structural tetrad	V19,S23,V33,D34,E46,S64,P68,F76,K77,C104,E106,H112,N113,N129,A146,I153,F159,D160,A172,H173,T191,K195,F202,S203,R215,R219,S236,T241,F247,K248,G272,H273,V290,D294	40	34	238121
+Q#1 - 7MU2C	specific	WD40 repeat	L92-P128	24	37	-
+Q#1 - 7MU2C	specific	WD40 repeat	L133-I170	25	38	-
+Q#1 - 7MU2C	specific	WD40 repeat	A178-R214	25	37	-
+Q#1 - 7MU2C	specific	WD40 repeat	I223-N258	26	36	-

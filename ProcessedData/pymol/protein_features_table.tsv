@@ -1,0 +1,137 @@
+E3	Feature	Substrates
+AHR	acetyllysine binding site	BRD3,BRD4
+MDM2	ATP binding site	E2F1,HIPK2
+MDM2	polypeptide substrate binding site	E2F1,HIPK2
+MDM2	activation loop (A-loop)	E2F1,HIPK2
+MDM2	putative DNA binding site	CDKN1A,HBP1
+MDM2	DNA binding site	POLQ,XRCC6
+MDM2	coactivator recognition site	NR3C1,RARA
+MDM2	heterodimer interface	RUNX3,XRCC6
+RNF4	Zn binding site	RBBP8,RNF4,SP1
+VHL	ligand binding site	AR,IREB2
+VHL	active site	SUZ12,ULK1,WEE1
+VHL	polypeptide substrate binding site	SUZ12,ULK1,WEE1
+VHL	CDK/cyclin interface	CDK1,CDK2
+VHL	oligomer interface	SUZ12,VHL
+XIAP	Zn2+ binding site	CCS,XIAP
+BIRC2	TNFR binding site	TRAF3,TRAF6
+BIRC2	trimer interface	TRAF3,TRAF6
+BIRC3	TNFR binding site	TRAF3,TRAF6
+BIRC3	trimer interface	TRAF3,TRAF6
+BRCA1	Zn binding site	BARD1,BRCA1,RBBP8
+BRCA1	heterodimer interface	BARD1,BRCA1,FANCD2,NR1H3
+BRCA1	ligand binding site	ESR1,NR1H3
+BRCA1	coactivator recognition site	ESR1,NR1H3
+BRCA1	homodimer interface	NF2,NR1H3
+CBL	peptide ligand binding site	SH3KBP1,YES1
+CBL	ATP binding site	FGFR1,FGFR4,KDR,PIK3CG
+CBL	protein binding site	ERBB2,PDGFRB
+CBL	activation loop (A-loop)	FGFR1,PIK3CG
+CBL	phosphotyrosine binding pocket	SYK,VAV1,ZAP70
+CBL	hydrophobic binding pocket	SYK,VAV1,ZAP70
+CDC20	active site	CCNA2,NEK2
+CDC20	ATP binding site	CCNA2,NEK2
+CDC20	polypeptide substrate binding site	CCNA2,NEK2
+CDC20	activation loop (A-loop)	CCNA2,NEK2
+CHFR	active site	AURKA,PBK
+CHFR	polypeptide substrate binding site	AURKA,PBK
+CHFR	activation loop (A-loop)	AURKA,PBK
+CHFR	acetyllysine binding site	SMARCA4,SMARCD1
+DTL	active site	KMT5A,TDG
+DTL	ATP binding site	CDC6,CHEK1
+DTL	activation loop (A-loop)	CDC6,CHEK1
+FANCL	heterodimer interface	FANCD2,FANCI
+FANCL	ubiquitination site	FANCD2,FANCI
+FANCL	phosphorylation site	FANCD2,FANCI
+FANCL	putative DNA binding site	FANCD2,FANCI
+FBXL19	GTP/Mg2+ binding site	CDC42,RAC1,RHOA
+FBXL19	GAP (GTPase-activating protein) interaction site	CDC42,RAC1,RHOA
+FBXL19	GEF (guanine nucleotide exchange factor) interaction site	CDC42,RAC1,RHOA
+FBXL19	GDI (guanine nucleotide dissociation inhibitor) interaction site	CDC42,RAC1,RHOA
+FBXL19	Switch I region	CDC42,RAC1,RHOA
+FBXL19	Switch II region	CDC42,RAC1,RHOA
+FBXL19	G1 box	CDC42,RAC1,RHOA
+FBXL19	G2 box	CDC42,RAC1,RHOA
+FBXL19	G3 box	CDC42,RAC1,RHOA
+FBXL19	G4 box	CDC42,RAC1,RHOA
+FBXL19	G5 box	CDC42,RAC1,RHOA
+FBXO6	ATP binding site	CHEK1,RIOK1
+FBXW7	polypeptide substrate binding site	AURKA,CCNE1
+FBXW7	activation loop (A-loop)	AURKA,CCNE1
+FZR1	ATP binding site	E2F1,NEK2,TPX2
+FZR1	TPX2 binding site	AURKA,TPX2
+FZR1	active site	E2F1,NEK2,TPX2
+FZR1	polypeptide substrate binding site	E2F1,NEK2,TPX2
+FZR1	activation loop (A-loop)	E2F1,NEK2,TPX2
+FZR1	GTP/Mg2+ binding site	DNM1L,MFN1,OPA1
+FZR1	homodimer interface	DNM1L,OPA1,STIL
+FZR1	Switch I region	DNM1L,MFN1,OPA1
+FZR1	Switch II region	DNM1L,MFN1,OPA1
+FZR1	G1 box	DNM1L,MFN1,OPA1
+FZR1	G2 box	DNM1L,MFN1,OPA1
+FZR1	G3 box	DNM1L,MFN1,OPA1
+FZR1	G4 box	DNM1L,MFN1,OPA1
+FZR1	G5 box	DNM1L,MFN1,OPA1
+FZR1	DNA binding site	FOXM1,PAX3,TFAM
+HUWE1	heterodimer interface	BRCA1,PPARA
+HUWE1	active site	HDAC2,PA2G4
+HUWE1	ATP binding site	CDC6,CHEK1,MYCN
+HUWE1	polypeptide substrate binding site	CDC6,CHEK1
+HUWE1	activation loop (A-loop)	CDC6,CHEK1
+NEDD4	polypeptide substrate binding site	SPDYA,SQSTM1
+NEDD4	dimer interface	ERRFI1,RAPGEF2
+NEDD4	GTP/Mg2+ binding site	HRAS,RAP2A
+NEDD4	putative GDI interaction site	HRAS,RAP2A
+NEDD4	Switch I region	HRAS,RAP2A
+NEDD4	Switch II region	HRAS,RAP2A
+NEDD4	G1 box	HRAS,RAP2A
+NEDD4	G2 box	HRAS,RAP2A
+NEDD4	G3 box	HRAS,RAP2A
+NEDD4	G4 box	HRAS,RAP2A
+NEDD4	G5 box	HRAS,RAP2A
+NEDD4	peptide binding site	LATS1,RAPGEF2
+NEDD4L	binding pocket	NEDD4L,SCNN1A
+NEURL1B	Ca2+ binding site	DLL1,DLL4
+RNF8	phosphopeptide binding site	CHEK2,RNF8
+RNF8	active site	KMT5A,OTUB1
+RNF8	polypeptide substrate binding site	KMT5A,OTUB1
+RNF8	heterodimer interface	NONO,XRCC5
+SIAH1	Zn binding site	KLF10,RBBP8
+SKP2	Zn binding site	ACE2,BRCA1,ING3
+SKP2	heterodimer interface	BRCA1,BRCA2
+SKP2	DNA binding site	ORC1,TAL1
+SKP2	GTP/Mg2+ binding site	CDKN1B,RND3
+SKP2	Switch I region	CDKN1B,RND3
+SKP2	Switch II region	CDKN1B,RND3
+SKP2	G1 box	CDKN1B,RND3
+SKP2	G2 box	CDKN1B,RND3
+SKP2	G3 box	CDKN1B,RND3
+SKP2	G4 box	CDKN1B,RND3
+SKP2	G5 box	CDKN1B,RND3
+SKP2	dimer interface	NBN,TAL1
+SMURF1	polypeptide substrate binding site	TNIK,UBQLN1
+SMURF1	peptide ligand binding site	MAP3K10,TRIP10
+SMURF1	phosphotyrosine binding pocket	FES,LCK,MATK
+SMURF1	hydrophobic binding pocket	FES,LCK,MATK
+SMURF1	GTP/Mg2+ binding site	RAC1,RHOA
+SMURF1	GAP (GTPase-activating protein) interaction site	RAC1,RHOA
+SMURF1	GEF (guanine nucleotide exchange factor) interaction site	RAC1,RHOA
+SMURF1	GDI (guanine nucleotide dissociation inhibitor) interaction site	RAC1,RHOA
+SMURF1	Switch I region	RAC1,RHOA
+SMURF1	Switch II region	RAC1,RHOA
+SMURF1	G1 box	RAC1,RHOA
+SMURF1	G2 box	RAC1,RHOA
+SMURF1	G3 box	RAC1,RHOA
+SMURF1	G4 box	RAC1,RHOA
+SMURF1	G5 box	RAC1,RHOA
+SMURF1	active site cysteine 	UBE2D1,UBE2V1
+SMURF1	Ub thioester intermediate interaction residues	UBE2D1,UBE2V1
+SMURF1	E3 interaction residues	UBE2D1,UBE2V1
+SMURF2	binding pocket	SMAD7,SMURF1
+STUB1	ATP binding site	HSP90AA1,MST1R
+STUB1	Ca2+ binding site	S100A2,S100P
+STUB1	dimerization interface	S100A2,S100P
+TRAF3	ATP binding site	MAP3K7,ULK1
+TRAF3	active site	MAP3K7,ULK1
+TRAF3	polypeptide substrate binding site	MAP3K7,ULK1
+TRAF3	activation loop (A-loop)	MAP3K7,ULK1

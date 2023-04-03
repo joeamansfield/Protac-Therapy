@@ -1,0 +1,20 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-48D5808A814B323-C04AD4AF2EE9543
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:08:44	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1O6SA	specific	leucine-rich repeat	L70-K91	21	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	L92-N113	22	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	L114-N135	21	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	L136-T178	17	43	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	L179-N200	18	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	L201-N222	21	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	L223-N244	18	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	L245-K266	21	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	L267-A288	22	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	L311-K332	22	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	V48-N69	21	22	-
+Q#1 - 1O6SA	specific	leucine-rich repeat	I355-R376	22	22	-

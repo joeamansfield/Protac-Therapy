@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2EAC4FA92FE25AD6-20FE676909E392E0
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:23:57	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2CLQB	specific	ATP binding site	L30,G31,K32,G33,T34,V38,A51,K53,V82,M98,E99,Q100,V101,G103,G104,S105,A108,D151,N152,L154,S165,D166,F167	23	23	270794
+Q#1 - 2CLQB	specific	active site	L30,G31,K32,G33,T34,V38,A51,K53,V82,M98,E99,Q100,V101,G104,S105,A108,D147,K149,G150,D151,N152,L154,S165,D166,T169,F183,T184,G185,T186,Q188,E217,Y226	32	32	270794
+Q#1 - 2CLQB	specific	polypeptide substrate binding site	G33,T34,D147,K149,G150,D151,T169,F183,T184,G185,T186,Q188,E217,Y226	14	14	270794
+Q#1 - 2CLQB	specific	activation loop (A-loop)	S165,D166,F167,G168,T169,S170,K171,R172,L173,A174,G175,I176,N177,P178,C179,T180,E181,T182,F183,T184,G185,T186,L187,Q188	24	24	270794

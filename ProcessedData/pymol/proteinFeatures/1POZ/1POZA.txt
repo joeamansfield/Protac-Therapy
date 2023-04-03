@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1E804E76E4C1E6DE-1CFA910E2B781F49
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:53:21	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1POZA	specific	putative hyaluronan-binding site	K19,R22,Y23,K49,R59,Y60,N81,N82,Y86	9	9	239593

@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-B041873302B09CF-35391F2401CC8DC2
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:57:16	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2VUXB	specific	diiron center	D104,E135,H138,E198,E232,H235	6	6	153108
+Q#1 - 2VUXB	specific	tyrosyl radical 	Y142	1	1	153108
+Q#1 - 2VUXB	specific	putative radical transfer pathway	W68,D104,E135,H138,Y142,R230,D231,H235	8	8	153108
+Q#1 - 2VUXB	specific	dimer interface	F46,W57,Q64,G129,F130,L133,N136,V137,E140,S143,F160,N161,E164	13	13	153108

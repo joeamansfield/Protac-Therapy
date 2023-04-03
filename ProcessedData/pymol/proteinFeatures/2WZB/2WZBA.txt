@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-E1868109159FF64-3E6D6A25657451D0
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:52:48	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2WZBA	specific	substrate binding site	D23,N25,R38,H62,R122	5	5	238195
+Q#1 - 2WZBA	specific	catalytic site	D374	1	1	238195
+Q#1 - 2WZBA	specific	ADP binding site	G238,G312,N336,P338,G340,V341,F342,E343,G373,D374,T375	11	11	238195
+Q#1 - 2WZBA	specific	hinge regions	L200,E201,S202,P203,V391,S392,T393	7	7	238195

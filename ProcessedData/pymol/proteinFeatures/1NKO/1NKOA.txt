@@ -1,0 +1,25 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-4038A8F36538B4C-1677A3653F4FA647
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:47:18	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1NKOA	specific	ligand binding site	R106,W114,N115	3	3	409377
+Q#1 - 1NKOA	specific	Ig strand A	Y8-M12	5	5	409377
+Q#1 - 1NKOA	specific	Ig strand A'	S15-Q19	5	5	409377
+Q#1 - 1NKOA	specific	Ig strand B	G21-Y32	12	12	409377
+Q#1 - 1NKOA	specific	Ig strand C	V43-A50	8	8	409377
+Q#1 - 1NKOA	specific	Ig strand C'	A61-N64	4	4	409377
+Q#1 - 1NKOA	specific	Ig strand D	R76-L80	5	5	409377
+Q#1 - 1NKOA	specific	Ig strand E	K86-D94	9	9	409377
+Q#1 - 1NKOA	specific	Ig strand F	G101-K109	9	9	409377
+Q#1 - 1NKOA	specific	Ig strand G	K113-T126	11	14	409377
+Q#1 - 1NKOA	specific	FR1	Y8-Y32	25	25	409377
+Q#1 - 1NKOA	specific	CDR1	P33-P42	2	10	409377
+Q#1 - 1NKOA	specific	FR2	V43-A50	8	8	409377
+Q#1 - 1NKOA	specific	CDR2	G51-R74	17	24	409377
+Q#1 - 1NKOA	specific	FR3	D75-E108	34	34	409377
+Q#1 - 1NKOA	specific	CDR3	K109-I112	2	4	409377
+Q#1 - 1NKOA	specific	FR4	K113-T126	11	14	409377

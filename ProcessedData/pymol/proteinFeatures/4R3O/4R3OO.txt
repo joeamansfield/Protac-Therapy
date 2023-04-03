@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2D7654661B6D38BD-3647C36D9587BA72
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:53:26	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4R3OO	specific	active site	L36,Q52,K54,H67,V169	5	5	239723
+Q#1 - 4R3OO	specific	alpha subunit interaction site	R10,H11,I12,T13,F15,S16,E18,G19,Q23,Y26,K29,A30,Q33,R42,D57,L59,L60,T83,A84,D85,R87,S88,D119,Q122,T125,Q126,E129,M130,R131,P132,L133,Y151,A156,G157,Y159,G161,F162,A164	38	38	239723

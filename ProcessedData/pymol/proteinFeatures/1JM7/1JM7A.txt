@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-168238A88D0C637C-320A81CB437DB8E
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:22:44	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1JM7A	specific	Zn binding site	C24,C27,C39,H41,C44,C47,C61,C64	8	8	438161
+Q#1 - 1JM7A	specific	heterodimer interface	R7,V8,E10,V11,N13,V14,I15,A17,M18,K20,L22,E23,K38,D40,I42,S72,Q74,S76,T77,R78,F79,Q81,L82,E85,L86,K88,I89,A92,F93,L95,D96,T97	33	32	438161

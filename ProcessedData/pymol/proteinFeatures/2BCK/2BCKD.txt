@@ -1,0 +1,17 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-105B26EF47BC7829-1E33B92481F15372
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:52:27	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2BCKD	specific	ligand binding site	H192,R202,W204,L206,V231,E232,R234,P235,A236,G237,Q242,W244	12	12	409617
+Q#1 - 2BCKD	specific	Ig strand A	P184-H192	9	9	409617
+Q#1 - 2BCKD	specific	Ig strand B	T200-Y209	10	10	409617
+Q#1 - 2BCKD	specific	Ig strand C	I213-R219	7	7	409617
+Q#1 - 2BCKD	specific	Ig strand C'	G221-Q224	4	4	409617
+Q#1 - 2BCKD	specific	Ig strand D	T228-A236	9	9	409617
+Q#1 - 2BCKD	specific	Ig strand E	G239-V249	11	11	409617
+Q#1 - 2BCKD	specific	Ig strand F	R256-H263	8	8	409617
+Q#1 - 2BCKD	specific	Ig strand G	P269-W274	6	6	409617

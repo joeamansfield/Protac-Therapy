@@ -1,0 +1,21 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-143A232D0EABD632-3F1AF515EF6A9821
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:05:29	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1E0SA	specific	GTP/Mg2+ binding site	A22,A23,G24,K25,T26,T27,T40,T43,G65,N121,K122,D124,C154,A155	14	14	206716
+Q#1 - 1E0SA	specific	putative effector interaction site	V44,G45,F46,N47,V48,E49,T50,V51,W61,L72,H75,Y76	12	12	206716
+Q#1 - 1E0SA	specific	putative GAP interaction site	D21,A22,T26,Y30,P42,T43,V44,G45,F46,N47,V48,E49,P71,Y76	14	14	206716
+Q#1 - 1E0SA	specific	putative GEF interaction site	T43,V44,G45,F46,N47,T52,D62,Q66,L72,R74,H75,Y76	12	12	206716
+Q#1 - 1E0SA	specific	Switch I region	K31,L32,K33,L34,G35,Q36,S37,V38,T39,T40,I41,P42,T43,V44,G45,F46	16	16	206716
+Q#1 - 1E0SA	specific	Switch II region	G64,G65,Q66,D67,K68,I69,R70,P71,L72,W73,R74,H75,Y76,Y77,T78,G79	16	16	206716
+Q#1 - 1E0SA	specific	interswitch region	F46,N47,V48,E49,T50,V51,T52,Y53,K54,N55,V56,K57,F58,N59,V60,W61	16	16	206716
+Q#1 - 1E0SA	specific	G1 box	G19,L20,D21,A22,A23,G24,K25,T26	8	8	206716
+Q#1 - 1E0SA	specific	G2 box	T43	1	1	206716
+Q#1 - 1E0SA	specific	G3 box	D62,V63,G64,G65	4	4	206716
+Q#1 - 1E0SA	specific	G4 box	N121,K122,Q123,D124	4	4	206716
+Q#1 - 1E0SA	specific	G5 box	C154,A155,T156	3	3	206716
+Q#1 - 1E0SA	specific	QS Arf6 conserved motif	Q36,S37	2	2	206716

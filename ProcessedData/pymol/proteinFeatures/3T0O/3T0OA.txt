@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3B03D9D6F3A8481F-182CAE8C775614E
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:18:38	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3T0OA	specific	Active site	H41,W44,D46,H89,E90,K93,H94	7	7	238512
+Q#1 - 3T0OA	specific	CAS motifs	W38,T39,I40,H41,G42,L43,W44,P45,F86,W87,K88,H89,E90,W91,E92,K93,H94,G95,T96,C97	20	20	238512
+Q#1 - 3T0OA	specific	B1 nucleotide binding pocket	I14,W44,E176	3	3	238512
+Q#1 - 3T0OA	specific	B2 nucleotide binding pocket	H18,V23,F86,Q174	4	4	238512

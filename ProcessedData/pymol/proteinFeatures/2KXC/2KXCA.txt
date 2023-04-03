@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-15A237914B51C106-1608A1F24ADA7EC1
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:46:05	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2KXCA	specific	peptide ligand binding site	I12,F13,H15,T22,L23,L35,I36,D41,G42,W43,Y45,G55,W56,P58,S59,S60,Y61	17	17	212846

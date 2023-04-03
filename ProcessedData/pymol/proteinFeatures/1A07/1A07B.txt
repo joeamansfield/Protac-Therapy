@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-21E12A9D92D15584-1D3C24D6F88070B2
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:55:43	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1A07B	generic	phosphotyrosine binding pocket	R16,R36,H62,K64	4	4	198228
+Q#1 - 1A07B	generic	hydrophobic binding pocket	Y63,Y90	2	2	198228

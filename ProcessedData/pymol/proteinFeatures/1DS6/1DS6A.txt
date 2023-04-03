@@ -1,0 +1,21 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3FEE20B53B9506E8-1994612F74B2A37E
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:11:33	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1DS6A	specific	GTP/Mg2+ binding site	A13,G15,K16,T17,C18,K116,D118,L119,A159	9	9	206663
+Q#1 - 1DS6A	specific	GAP (GTPase-activating protein) interaction site	Y32,P34,V36,F37,D38,Q61,E62,D63,Y64,L67,L70	11	11	206663
+Q#1 - 1DS6A	specific	GEF (guanine nucleotide exchange factor) interaction site	A3,K5,E31,Y32,T35,V36,D38,N39,S41,N43,N52,W56,D57,T58,A59,G60,Q61,Y64,D65,R66,L67,L70,S71,P73,Q74	25	25	206663
+Q#1 - 1DS6A	specific	GDI (guanine nucleotide dissociation inhibitor) interaction site	T35,V36,A59,Y64,R66,L67,P69,L70,P73,H103,H104,P106	12	12	206663
+Q#1 - 1DS6A	specific	p67PhoxTPR effector interaction site	S22,T25,N26,F28,G30,E31,L160,Q162	8	8	206663
+Q#1 - 1DS6A	specific	Arfaptin/Por effector interaction site	T35,V36,F37,N39,W56,D57,T58,Y64,L67,L70,S71,P73,Q74	13	13	206663
+Q#1 - 1DS6A	specific	Switch I region	T25,N26,A27,F28,P29,G30,E31,Y32,I33,P34,T35,V36,F37,D38,N39,Y40	16	16	206663
+Q#1 - 1DS6A	specific	Switch II region	G60,Q61,E62,D63,Y64,D65,R66,L67,R68,P69,L70,S71,Y72,P73,Q74,T75,D76,V77	18	18	206663
+Q#1 - 1DS6A	specific	G1 box	G10,D11,G12,A13,V14,G15,K16,T17	8	8	206663
+Q#1 - 1DS6A	specific	G2 box	T35	1	1	206663
+Q#1 - 1DS6A	specific	G3 box	D57,T58,A59,G60	4	4	206663
+Q#1 - 1DS6A	specific	G4 box	T115,K116,L117,D118	4	4	206663
+Q#1 - 1DS6A	specific	G5 box	S158,A159,L160	3	3	206663

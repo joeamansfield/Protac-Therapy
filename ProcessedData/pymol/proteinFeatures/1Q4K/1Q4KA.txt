@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1439B3D2C5EAD369-3C95673F40E5530E
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:54:03	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1Q4KA	specific	phosphopeptide binding site	K69,W70,V71,D72,Y141,S143,E144,H145,L146,L147	10	10	240561
+Q#1 - 1Q4KA	specific	phosphopeptide binding site	R172,F191,H194,K196	4	4	240560

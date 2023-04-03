@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1632A4495B46DD39-6FD0BC2D3668FFD
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:57:54	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6BFNA	generic	ATP binding site	I30,G31,E32,G33,G36,V38,A49,K51,V84,Y100,G101,F102,L103,D152,S156,N157,L159,G169,D170	19	19	271061

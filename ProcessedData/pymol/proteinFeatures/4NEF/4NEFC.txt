@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-14124BEEDED6731F-2CD3CF5C9D45B558
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:14:38	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4NEFC	specific	Asn-Pro-Ala signature motifs	N68,P69,A70,N184,P185,A186	6	6	238204
+Q#1 - 4NEFC	specific	amphipathic channel	F48,H66,I67,N68,G180,C181,N184,R187	8	8	238204

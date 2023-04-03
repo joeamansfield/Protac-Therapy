@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-38CCD3A09A994D5C-306CBB9AEE89593D
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:32:29	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2CT7A	specific	Zn binding site	C28,C31,C46,C49,C54,C57,H65,C70	8	8	438998
+Q#1 - 2CT7A	specific	oligomer interface	L9,H11,K12,K13,L14,T15,E16,V18,L19,W27,C28,A29,C31,S32,F33,G34,F35,I36,Y37,E38,R39,T45,P47,Q48,K58,R59,E63,Q64,R68,D72,Q74,W76,M79,N80	35	34	438998

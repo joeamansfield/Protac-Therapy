@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-14B1BB30D301F060-32FDCA9F62CB6A55
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:36:47	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 7AKOB	specific	ATP binding site	L18,G19,E20,G21,V26,A39,K41,V71,L87,E88,Y89,C90,E94,E137,N138,L140,S150,D151	18	18	270971
+Q#1 - 7AKOB	specific	allosteric inhibitor binding site	F96,D97,I99,E100,P101,P136,Y176,A203,G207,E208,L209	11	11	270971
+Q#1 - 7AKOB	specific	active site	L18,G19,E20,G21,A22,V26,A39,K41,V71,L87,E88,Y89,C90,E94,F96,R132,D133,K135,E137,N138,L140,S150,D151,L154,C171,G172,T173,L174,P175,V177	30	30	270971
+Q#1 - 7AKOB	specific	polypeptide substrate binding site	A22,E94,F96,R132,D133,K135,E137,L154,C171,G172,T173,L174,P175,V177	14	14	270971
+Q#1 - 7AKOB	specific	activation loop (A-loop)	S150,D151,F152,G153,L154,A155,T156,V157,F158,R159,Y160,N161,N162,R163,E164,R165,L166,L167,N168,K169,M170,C171,G172,T173,L174,P175	26	26	270971

@@ -1,0 +1,29 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-259ED346DF4830BC-3CE047834BA7E2BC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:27:36	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2JJSB	specific	homodimer interface	V6,I7,Q8,P9,D10,K11,S12,H24,T26,T28,R40,A45,E47,M72,D73,A84,A86,G87,T88,A107,G108,E110,S112,V113	24	24	409516
+Q#1 - 2JJSB	specific	CD47 binding site	G34,P35,I36,F74,K93,K96,D100	7	7	409516
+Q#1 - 2JJSB	specific	FabOX117 binding site	V6,I7,Q8,P9,D10,K11,S12,H24,T26,T28,M72,D73,A107,G108	14	14	409516
+Q#1 - 2JJSB	specific	Ig strand A	Q5-Q8	4	4	409516
+Q#1 - 2JJSB	specific	Ig strand A'	S12-A16	5	5	409516
+Q#1 - 2JJSB	specific	Ig strand B	E19-V27	9	9	409516
+Q#1 - 2JJSB	specific	Ig strand C	G34-R40	7	7	409516
+Q#1 - 2JJSB	specific	Ig strand C'	R46-I49	4	4	409516
+Q#1 - 2JJSB	specific	Ig strand C"	G55-P58	4	4	409516
+Q#1 - 2JJSB	specific	Ig strand D	R59-V63	5	5	409516
+Q#1 - 2JJSB	specific	Ig strand E	D73-S79	7	7	409516
+Q#1 - 2JJSB	specific	Ig strand F	G87-F94	8	8	409516
+Q#1 - 2JJSB	specific	Ig strand G	D100-S105	6	6	409516
+Q#1 - 2JJSB	specific	Ig strand G'	G108-V113	6	6	409516
+Q#1 - 2JJSB	specific	FR1	Q5-T26	22	22	409516
+Q#1 - 2JJSB	specific	CDR1	V27-V33	7	7	409516
+Q#1 - 2JJSB	specific	FR2	G34-A42	9	9	409516
+Q#1 - 2JJSB	specific	CDR2	G43-F57	15	15	409516
+Q#1 - 2JJSB	specific	FR3	P58-K96	39	39	409516
+Q#1 - 2JJSB	specific	CDR3	G97-D100	3	4	409516
+Q#1 - 2JJSB	specific	FR4	T101-R114	14	14	409516

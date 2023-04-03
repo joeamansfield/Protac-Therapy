@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-388534A89B1C97DB-716DEB2A57D6A8F
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:40:48	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5V4BA	specific	F-box protein binding site	Q83,F87,L91,N94,K99,D103,C106,K107,V109,A110,I113	11	11	349631
+Q#1 - 5V4BA	specific	cullin binding site	V25,T26,M30,L34,D37,P38,P40,P42,N43,L91,N94,Y95,D97	14	13	349631

@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-12F951E68BE9FB08-24F4FEC115830588
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:10:48	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3MJKA	specific	cysteine knot motif	C76,C109,C113,C120,C157,C159	6	6	238079
+Q#1 - 3MJKA	specific	receptor binding interface	A74,V75,C76,K77,C113,T115,S116,S117,V118,A133,K134,V135,E136	13	13	238079
+Q#1 - 3MJKA	specific	dimerization interface	C103,C112	2	2	238079

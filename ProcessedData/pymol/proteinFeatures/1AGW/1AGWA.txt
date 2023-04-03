@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-83406929F8E07B8-374A071C02F1C550
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:47:08	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1AGWA	specific	ATP binding site	L29,G30,G32,F34,V37,A57,K59,I90,V106,E107,Y108,A109,N113,R172,N173,L175,D186	17	17	270678
+Q#1 - 1AGWA	specific	active site	L29,G30,G32,F34,V37,A57,K59,I90,V106,E107,Y108,A109,N113,D168,R172,N173,L175,D186,N204,G205,R206,L207,P208,L217,V251	25	25	270678
+Q#1 - 1AGWA	specific	polypeptide substrate binding site	D168,R172,N204,G205,R206,L207,P208,L217,V251	9	9	270678
+Q#1 - 1AGWA	specific	activation loop (A-loop)	A185,D186,F187,G188,L189,A190,R191,D192,I193,H194,H195,I196,D197,Y198,Y199,K200,K201,T202,T203,N204,G205,R206,L207,P208,V209,K210	26	26	270678

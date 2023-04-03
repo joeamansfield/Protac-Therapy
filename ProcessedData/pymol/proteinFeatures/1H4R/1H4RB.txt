@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2F72C58C78E3527E-1F31B521BA31C8A8
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:51:05	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1H4RB	specific	phosphoinositide binding site	K295,Q299	2	2	270015
+Q#1 - 1H4RB	specific	peptide binding site	W259,I262,R263,N264,I265,S266,Y267,S268,D269,L277,L298,C301,I302,H305	14	14	270015
+Q#1 - 1H4RB	specific	actin binding site 2	L298,Q299,L300,C301,I302,G303,N304,H305,D306,L307,F308,M309,R310,R311,R312,K313	16	16	270015
+Q#1 - 1H4RB	specific	homodimer interface	W259,N260,I262,R263,N264,I265,S266,Y267,S268,L277,L298,C301,I302,H305	14	14	270015
+Q#1 - 1H4RB	specific	homodimer interface	D31,A32,E33,M34,E35,F36,E39,W42,K45,D46,D49,R53,T54,L55,G56,L57,R58,T60,W61	19	19	340706

@@ -1,0 +1,16 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-365141208065EEEA-26A3D7938B54025A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:04:15	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3WXAB	specific	Ca binding site	D17,D19,S21,E28,D84,D86,S88,E95,D150,D152,D154	11	11	320058
+Q#1 - 3WXAB	specific	peptide binding site	M52,F53,R55,Y72,D75,W76,F103,G104,Q140,T143,F146,R147,D150,Q153,G155	15	15	320058
+Q#1 - 3WXAB	specific	homodimer interface	Y105,F111,I114,L115,K118,L139,L142,T143,I145,F146,G155,W156,I157,Q158,V159,S160,Y161,E162,Y164,L165,V168,F169,V172	23	23	320058
+Q#1 - 3WXAB	specific	EF-hand motif	F8-T37	30	30	320058
+Q#1 - 3WXAB	specific	EF-hand motif	T45-T74	30	30	320058
+Q#1 - 3WXAB	specific	EF-hand motif	D75-Y105	31	31	320058
+Q#1 - 3WXAB	specific	EF-hand motif	F111-Q140	30	30	320058
+Q#1 - 3WXAB	specific	EF-hand motif	R141-V172	32	32	320058

@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1675757451BA5D8E-E292166837752FC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:18:33	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1QBHA	specific	Zn2+ binding site	C44,C47,H64,C71	4	4	237989
+Q#1 - 1QBHA	specific	peptide binding groove	V36,D41,K43,G50,L51,R52,W54,D58,E63,W67,F68	11	11	237989

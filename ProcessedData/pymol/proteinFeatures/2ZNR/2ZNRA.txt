@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-4C26D1758669845-363B577E34DC3BAA
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:12:03	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2ZNRA	specific	MPN+ (JAMM) motif	E34,H89,H91,S99,D102	5	5	163697
+Q#1 - 2ZNRA	specific	Zinc-binding site	H89,H91,D102	3	3	163697
+Q#1 - 2ZNRA	specific	Distal ubiquitin recognition interface	C36,G37,I38,D63,Y64,C65,D66,M67,V70,E71,F74,Q77,L83,T84,W87,H89,H91,S99,V101,D102,H104,T105,S108,Y109,L111,M112,F149	27	27	163697
+Q#1 - 2ZNRA	specific	Proximal ubiquitin recognition interface	D63,H91,Q94,T95,F97,S99,S100,F149,H150,P151	10	10	163697

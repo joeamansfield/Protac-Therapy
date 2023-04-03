@@ -1,0 +1,17 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3AD94E767787566E-45C8537935E45B1
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:28:31	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1EFXA	specific	ligand binding site	T187,H188,T190,H192,R202,W204,V231,E232,R234,P235,A236,G237,Q242,W244,R273	15	15	409616
+Q#1 - 1EFXA	specific	Ig strand A	H184-H192	9	9	409616
+Q#1 - 1EFXA	specific	Ig strand B	T200-F208	9	9	409616
+Q#1 - 1EFXA	specific	Ig strand C	I213-W219	7	7	409616
+Q#1 - 1EFXA	specific	Ig strand C'	G221-Q224	4	4	409616
+Q#1 - 1EFXA	specific	Ig strand D	T228-A236	9	9	409616
+Q#1 - 1EFXA	specific	Ig strand E	T240-V249	10	10	409616
+Q#1 - 1EFXA	specific	Ig strand F	R256-Q262	7	7	409616
+Q#1 - 1EFXA	specific	Ig strand G	P269-W274	6	6	409616

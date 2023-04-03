@@ -1,0 +1,22 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-EA3CBAED3F41C8-3FDA1C1FBAAA36C2
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:45:58	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1Z2CC	specific	GTP/Mg2+ binding site	A15,C16,G17,K18,T19,C20,Y34,V35,T37,D59,T60,K118,D120,A161,K162	15	15	206662
+Q#1 - 1Z2CC	specific	GAP (GTPase-activating protein) interaction site	Y34,P36,V38,F39,Q63,E64,D65,Y66,L69,L72,N94	11	11	206662
+Q#1 - 1Z2CC	specific	GEF (guanine nucleotide exchange factor) interaction site	R5,Y34,T37,V38,N41,I43,D45,E54,W58,D59,A61,G62,Q63,Y66,R68,L72	16	16	206662
+Q#1 - 1Z2CC	specific	GDI (guanine nucleotide dissociation inhibitor) interaction site	T37,V38,A61,Y66,R68,L69,P71,L72,P75,H105,F106,P108	12	12	206662
+Q#1 - 1Z2CC	specific	Rho kinase (ROCK) effector interaction site	F39,E40,D65,Y66,R68,L69,L72	7	7	206662
+Q#1 - 1Z2CC	specific	PKN/PRK1 effector interaction site	I23,N25,S26,K27,D28,Q29,Y42,I43,D45,I46,E47,Q52,V53,E54,T163,K164,R168,E169,E172	19	19	206662
+Q#1 - 1Z2CC	specific	Mdia effector interaction site	F39,D65,Y66,D67,R68,L69,L72,E97,P101,H105	10	10	206662
+Q#1 - 1Z2CC	specific	Switch I region	Y34,V35,P36,T37,V38,F39,E40,N41,Y42	9	9	206662
+Q#1 - 1Z2CC	specific	Switch II region	G62,Q63,E64,D65,Y66,D67,R68,L69,R70,P71,L72,S73,Y74,P75,D76,T77,D78,V79	18	18	206662
+Q#1 - 1Z2CC	specific	G1 box	G12,D13,G14,A15,C16,G17,K18,T19	8	8	206662
+Q#1 - 1Z2CC	specific	G2 box	T37	1	1	206662
+Q#1 - 1Z2CC	specific	G3 box	D59,T60,A61,G62	4	4	206662
+Q#1 - 1Z2CC	specific	G4 box	N117,K118,K119,D120	4	4	206662
+Q#1 - 1Z2CC	specific	G5 box	S160,A161,K162	3	3	206662

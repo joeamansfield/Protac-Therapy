@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-126C15DAE70AA3B6-24DAD7702A252D4F
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:43:30	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3G9WB	specific	peptide binding site	T172,T173,V174,K175,R176,W177,A178,D187,I214	9	9	269973
+Q#1 - 3G9WB	specific	putative actin binding site 2	S207,Q208,L209,I210,A211,G212,Y213,I214,D215,I216,I217,L218	12	12	269973
+Q#1 - 3G9WB	specific	homodimer interface	K152,P170,T172,T173,F188,G189	6	6	269973
+Q#1 - 3G9WB	specific	putative phosphoinositide binding site	E135,R157,D159,Q167	4	4	269973

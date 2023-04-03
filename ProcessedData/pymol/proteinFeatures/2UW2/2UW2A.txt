@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3947352FE7B86486-169BABCD963CC8C9
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:38:22	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2UW2A	specific	diiron center	D81,E112,H115,E175,E209,H212	6	6	153108
+Q#1 - 2UW2A	specific	tyrosyl radical 	Y119	1	1	153108
+Q#1 - 2UW2A	specific	putative radical transfer pathway	W45,D81,E112,H115,Y119,R207,D208,H212	8	8	153108
+Q#1 - 2UW2A	specific	dimer interface	F23,W34,E41,G106,F107,A110,N113,I114,E117,S120,F137,N138,E141	13	13	153108

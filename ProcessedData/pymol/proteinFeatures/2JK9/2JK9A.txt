@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-330A7A22CD46E7E9-B9F6DA2C81237EA
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:00:34	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2JK9A	specific	peptide binding site	R56,P58,T90,Y108,V195,W196,G197	7	7	293963

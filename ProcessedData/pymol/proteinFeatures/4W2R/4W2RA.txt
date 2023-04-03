@@ -1,0 +1,14 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-39FC740A2B3EC61D-22CD784C18A1AA9
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:51:58	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4W2RA	specific	active site	V518,A519,G520,W521,Y538,Q545,A548,D549,G552,D556,M559,C560,S561,F562,L563,F564,N565,R582,F583,A584,N585,H586,A594,F621,Y623,R624	26	26	380995
+Q#1 - 4W2RA	specific	SAM binding site	G520,W521,V554,Y555,Y558,C560,F562,T575,R582,F583,A584,N585,H586,Y623	14	14	380995
+Q#1 - 4W2RA	specific	oligomer interface	H510,L512,L513,A514,P515,D517,W521,F524,K526,R576,K577,K580,N600,G616	14	14	380995
+Q#1 - 4W2RA	specific	catalytic residue	Y623	1	1	380995
+Q#1 - 4W2RA	specific	polypeptide substrate binding site	Y538,Q545,A548,D549,G552,D556,S561,L563,F564,N565,A594,F621,Y623,R624,Y625	15	15	380995
+Q#1 - 4W2RA	specific	inhibitor binding site	G520,W521,V554,Y555,Y558,C560,F562,T575,R582,F583,A584,N585	12	12	380995

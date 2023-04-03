@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1FFA6ED58B42C9D5-2A9865700D6E2A50
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:28:53	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2ETLA	specific	catalytic site	Q89,C95,H166,D181	4	4	187737
+Q#1 - 2ETLA	specific	peptide binding site	P10,M11,E12,I13,N14,P15,D35,V36,L37,G38,L57,C95,F165,F167,T210	15	15	187737
+Q#1 - 2ETLA	specific	inhibitor binding site	P10,Q89,N93,C95,F165,H166	6	6	187737

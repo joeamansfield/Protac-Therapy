@@ -1,0 +1,20 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-195068E96ECC6816-1E9D5D0C1460C669
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:43:29	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1M7BA	specific	GTP/Mg2+ binding site	Q17,C18,G19,K20,T21,A22,D61,T62,G64,K120,D122,A163,L164	13	13	206735
+Q#1 - 1M7BA	specific	putative GAP (GTPase-activating protein) interaction site	V40,F41,S65,V71	4	4	206735
+Q#1 - 1M7BA	specific	putative GEF (guanine nucleotide exchange factor) interaction site	K9,T39,V40,E42,N43,T45,S47,E56,W60,D61,S63,G64,S65,V71,L74	15	15	206735
+Q#1 - 1M7BA	specific	putative GDI (guanine nucleotide dissociation inhibitor) interaction	V40,S63,V71,P73	4	4	206735
+Q#1 - 1M7BA	specific	putative effector interaction site	F41,E42,V71,L74	4	4	206735
+Q#1 - 1M7BA	specific	Switch I region	P38,T39,V40,F41,E42,N43,Y44	7	7	206735
+Q#1 - 1M7BA	specific	Switch II region	G64,S65,V71,R72,P73,L74,S79,D80,A81	9	9	206735
+Q#1 - 1M7BA	specific	G1 box	G14,D15,S16,Q17,C18,G19,K20,T21	8	8	206735
+Q#1 - 1M7BA	specific	G2 box	T39	1	1	206735
+Q#1 - 1M7BA	specific	G3 box	D61,T62,S63,G64	4	4	206735
+Q#1 - 1M7BA	specific	G4 box	C119,K120,S121,D122	4	4	206735
+Q#1 - 1M7BA	specific	G5 box	S162,A163,L164	3	3	206735

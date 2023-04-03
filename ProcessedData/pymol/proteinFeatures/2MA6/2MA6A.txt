@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2E37AF15C7A6DE78-598CF2E0240CC41
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:09:36	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2MA6A	generic	cross-brace motif	C11,C14,C26,H28,C31,C34,C45,C48	8	8	438203

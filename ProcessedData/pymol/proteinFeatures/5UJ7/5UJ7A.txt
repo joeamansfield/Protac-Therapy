@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-21860C539A0EBD7A-1861C7C02B586E1B
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:10:31	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5UJ7A	specific	DNA binding site	Q326,S347,E348,P366,R368,L372,L373,R374	8	8	176573
+Q#1 - 5UJ7A	generic	ATP binding site	V65,P66,G67,T68,G69,K70,T71,A72	10	8	99707
+Q#1 - 5UJ7A	generic	Walker A motif	G64,V65,P66,G67,T68,G69,K70,T71	8	8	99707

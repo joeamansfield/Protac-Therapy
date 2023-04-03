@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-430D474B7B60481-43531AF72C3251A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:52:54	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1TCEA	specific	phosphotyrosine binding pocket	R16,R32,S34,G39,T44,H53,L54,L55	8	8	198179
+Q#1 - 1TCEA	specific	hydrophobic binding pocket	L43,L54,L56,D58,V63,R64,T65,F70,L76,I87,I88,S89	12	12	198179

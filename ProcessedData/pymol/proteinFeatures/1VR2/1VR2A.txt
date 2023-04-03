@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-22588EA6E812EFB3-3F5D91F8C4D7B0C6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:47:35	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1VR2A	generic	ATP binding site	L35,G36,R37,G38,G41,V43,A61,K63,V94,V111,E112,F113,C114,D173,R177,N178,L180,C190,D191	19	19	270681

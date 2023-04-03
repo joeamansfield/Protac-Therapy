@@ -1,0 +1,19 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-D714FD010EA88A3-CB60E90283AA65B
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:09:37	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 121PA	specific	GTP/Mg2+ binding site	G12,G13,V14,G15,K16,S17,A18,F28,V29,D30,Y32,T35,G60,N116,K117,D119,L120,S145,A146	19	19	133338
+Q#1 - 121PA	specific	GEF interaction site	S17,A18,D30,E31,Y32,P34,E37,Y40,R41,D54,I55,D57,A59,G60,Q61,E63,Y64,S65,M67,D69,Q70,Y71,R73,R102,V103,K147	26	26	133338
+Q#1 - 121PA	specific	effector interaction site	Q25,E37,D38,S39,Y40,R41	6	6	133338
+Q#1 - 121PA	specific	putative GDI interaction site	A11,G12,A59,G60	4	4	133338
+Q#1 - 121PA	specific	Switch I region	D33,P34,T35,I36,E37,D38,S39,Y40	8	8	133338
+Q#1 - 121PA	specific	Switch II region	A59,G60,Q61,E62,E63,Y64,S65,A66,M67,R68,D69,Q70,Y71,M72,R73,T74,G75,E76,G77	19	19	133338
+Q#1 - 121PA	specific	G1 box	G10,A11,G12,G13,V14,G15,K16,S17	8	8	133338
+Q#1 - 121PA	specific	G2 box	T35	1	1	133338
+Q#1 - 121PA	specific	G3 box	D57,T58,A59,G60	4	4	133338
+Q#1 - 121PA	specific	G4 box	N116,K117,C118,D119	4	4	133338
+Q#1 - 121PA	specific	G5 box	S145,A146,K147	3	3	133338

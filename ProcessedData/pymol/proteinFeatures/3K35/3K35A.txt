@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-B58F99F02263ADB-36733ECB8483EEF2
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:45:49	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3K35A	specific	substrate binding site	V115,H133,L186,W188,E189,D190,S191,L192,Q218,I219,R220	11	11	238701
+Q#1 - 3K35A	specific	NAD+ binding site	G54,S56,T57,F64,R65,H95,Q113,N114,D116,H133,G214,I219,L241,Q242,Y257	15	15	238701
+Q#1 - 3K35A	specific	Zn binding site	C141,C144,C166,C177	4	4	238701

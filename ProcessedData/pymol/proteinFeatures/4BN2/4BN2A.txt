@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3392A997E7C349C6-AC78A3DE4C97B78
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:07:22	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4BN2A	specific	ATP binding site	R20,G95,G98,G100,K101,T102,F103,D251	8	8	276824
+Q#1 - 4BN2A	specific	microtubule interaction site	R302,K305,F308	3	3	276824

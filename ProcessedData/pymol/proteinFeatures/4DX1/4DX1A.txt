@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-132097A9263C1B4F-38E25E3D8A61AFC1
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:57:18	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4DX1A	specific	ANK repeat	R90-A121	29	32	-
+Q#1 - 4DX1A	specific	ANK repeat	F137-D171	30	35	-
+Q#1 - 4DX1A	specific	ANK repeat	R173-F210	29	38	-
+Q#1 - 4DX1A	specific	oligomer interface	R90-L204	36	115	-

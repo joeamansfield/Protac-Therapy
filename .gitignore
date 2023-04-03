@@ -7,3 +7,4 @@ ProcessedData/subset_data/*
 ProcessedData/E3Sub_pairs.txt
 ProcessedData/hugo_pairs.txt
 Code/.Rhistory
+ProcessedData/pymol/pdbfiles/*

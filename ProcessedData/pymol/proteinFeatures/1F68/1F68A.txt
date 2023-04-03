@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2434500BFC220DFE-119AD9C6C01F5060
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:43:16	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1F68A	specific	acetyllysine binding site	V28,A33,Y36,C75,N79,Y85	6	6	99941

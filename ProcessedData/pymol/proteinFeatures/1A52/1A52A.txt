@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2F2AA71C596861E8-1E6124427BE2318E
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:36:59	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1A52A	specific	ligand binding site	L50,D55,E57,L91,R98,G225,H228	7	7	132747
+Q#1 - 1A52A	specific	coactivator recognition site	I62,K66,Q79,V80,E84,D242,E246,M247	8	8	132747
+Q#1 - 1A52A	specific	dimer interface	I155,N159,G161,V162,L183,T187,D188,I191,H205,E206,L208,A209,Q210,L212,L213,S216,H217,R219,H220,N223	20	20	132747

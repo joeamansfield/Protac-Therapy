@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3681D70DDD6BA3DA-2404169D921B921
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:39:08	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1E5WA	specific	phosphoinositide binding site	K278,A282	2	2	270015
+Q#1 - 1E5WA	specific	peptide binding site	W242,I245,R246,N247,I248,S249,F250,N251,D252,I260,L281,C284,M285,H288	14	14	270015
+Q#1 - 1E5WA	specific	actin binding site 2	L281,A282,L283,C284,M285,G286,N287,H288,E289,L290,Y291,M292,R293,R294,R295,K296	16	16	270015
+Q#1 - 1E5WA	specific	homodimer interface	W242,S243,I245,R246,N247,I248,S249,F250,N251,I260,L281,C284,M285,H288	14	14	270015

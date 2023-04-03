@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-342DCBBA366C74F3-35C26CDE02D7C82A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:51:55	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4MVTA	specific	Zn binding site	C250,H252,C273,C276	4	4	438469

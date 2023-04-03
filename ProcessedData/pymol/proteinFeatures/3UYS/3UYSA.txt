@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-18D18F9056C0DBF3-30FED1A8A2EC9D0C
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:22:58	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3UYSA	specific	ATP binding site	I17,G18,S19,G20,S21,F22,G23,I25,A38,K40,M84,E85,L86,L87,G88,K132,D134,N135,L137,D151	20	20	271027
+Q#1 - 3UYSA	specific	active site	I17,G18,S19,G20,S21,F22,G23,I25,A38,K40,M84,E85,L86,L87,G88,S90,E92,D130,K132,D134,N135,L137,D151,L154,G177,T178,A179,R180	28	28	271027
+Q#1 - 3UYSA	specific	polypeptide substrate binding site	S21,S90,E92,D130,K132,D134,L154,G177,T178,A179,R180	11	11	271027
+Q#1 - 3UYSA	specific	activation loop (A-loop)	I150,D151,F152,G153,L154,A155,K156,K157,Y158,R159,D160,R162,T163,H164,Q165,H166,I167,P168,Y169,R170,E171,N172,K173,N174,L175,T176,G177,T178,A179,R180	30	30	271027

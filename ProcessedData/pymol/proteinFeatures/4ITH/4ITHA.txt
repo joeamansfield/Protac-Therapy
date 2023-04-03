@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1AECB2E336F68CC6-109C6ACA9B1322EC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:41:40	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4ITHA	specific	active site	L23,D24,S25,G26,G27,V31,I43,K45,V76,M92,E93,Y94,M95,N99,M101,D138,K140,E142,N143,L145,D156,L159,G188,T189,L190,Y191	26	26	270929
+Q#1 - 4ITHA	specific	ATP binding site	L23,D24,S25,G26,G27,V31,I43,K45,V76,M92,E93,Y94,M95,N99,D138,K140,E142,N143,L145,D156	20	20	270929
+Q#1 - 4ITHA	specific	polypeptide substrate binding site	G27,N99,M101,D138,K140,E142,L159,G188,T189,L190,Y191	11	11	270929
+Q#1 - 4ITHA	specific	activation loop (A-loop)	A155,D156,L157,G158,L159,A160,S161,F162,K163,M164,W165,S166,K167,L168,N169,N170,E171,E172,H173,N174,E175,L176,R177,E178,V179,D180,G181,T182,A183,K184,K185,N186,G187,G188,T189,L190,Y191	37	37	270929
+Q#1 - 4ITHA	specific	Necrostatin binding site	K45,A64,M67,N68,L70,V75,V76,L78,L90,M92,L129,V134,H136,I154,A155,D156,L157,L159,S161,F162,W165	21	21	270929

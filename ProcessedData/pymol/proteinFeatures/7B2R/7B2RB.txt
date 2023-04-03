@@ -1,0 +1,14 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-10EF9959CFDD053C-3A6A67B4E5EF0CA6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:47:01	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 7B2RB	specific	NHL repeat	L26-R65	38	40	271330
+Q#1 - 7B2RB	specific	NHL repeat	P73-L112	36	40	271330
+Q#1 - 7B2RB	specific	NHL repeat	P115-R152	38	38	271330
+Q#1 - 7B2RB	specific	NHL repeat	F159-G200	41	42	271330
+Q#1 - 7B2RB	specific	NHL repeat	F206-D248	34	43	271330
+Q#1 - 7B2RB	specific	NHL repeat	Y251-Y277	27	27	271330

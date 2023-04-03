@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-391731FE83C6403E-1310D1683811E07B
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:18:52	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6QDTA	generic	peptide binding site	K54,R61,K127,R134,Y135,G176,L179,N180,V183,Y186,E187,I224,L227,D230,N231	15	15	206756
+Q#1 - 6QDTA	generic	dimer interface	K14,L17,A18,Q20,A21,R23,D26,A63,V66,I70,E85,Y89,K92,V93,E96	15	15	206756

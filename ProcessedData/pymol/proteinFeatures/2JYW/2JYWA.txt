@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3AA0C274E7A141EC-25725B54CF9764FA
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:51:43	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2JYWA	specific	active site	E28,Y30,L53,N55,H68,A69,E70,C99,C102	9	9	238610
+Q#1 - 2JYWA	specific	catalytic motif	H68,A69,E70,P98,C99,C102	6	6	238610
+Q#1 - 2JYWA	specific	Zn binding site	H68,E70,C99,C102	4	4	238610

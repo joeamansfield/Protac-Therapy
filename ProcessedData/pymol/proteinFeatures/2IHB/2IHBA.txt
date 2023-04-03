@@ -1,0 +1,20 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-34439860CD67117E-3AC45D46D5CD8DC6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:52:06	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2IHBA	specific	GTP/Mg2+ binding site	G9,G14,K15,S16,T150,D169,G172,N238,K239,D241,C294,A295	12	12	206639
+Q#1 - 2IHBA	specific	adenylyl cyclase interaction site	I153,K178,I181,H182,E185	5	5	206639
+Q#1 - 2IHBA	specific	beta - gamma complex interaction site	T151,I153,E155,K166,F168,G172,Q173,R174,E176,K179,W180,H182,C183,F184,E185	15	15	206639
+Q#1 - 2IHBA	specific	GoLoco binding site	A10,G11,E12,V40,S44,Q48,I51,I54,R55,A73,L76,N118,R147,G172,W180,F184	16	16	206639
+Q#1 - 2IHBA	specific	putative receptor binding site	K286,E287,I288,Y289,T290,H291,F292,T293,C294,A295,T296,D297,K299,N300,V301,Q302	16	16	206639
+Q#1 - 2IHBA	specific	Switch I region	R145,T146,R147,V148,K149,T150,T151,G152,I153	9	9	206639
+Q#1 - 2IHBA	specific	Switch II region	V170,G171,G172,Q173,R174,S175,E176,R177,K178,K179,W180,I181,H182,C183,F184,E185,G186	17	17	206639
+Q#1 - 2IHBA	specific	G1 box	G9,A10,G11,E12,S13,G14,K15,S16	8	8	206639
+Q#1 - 2IHBA	specific	G2 box	T150	1	1	206639
+Q#1 - 2IHBA	specific	G3 box	D169,V170,G171,G172	4	4	206639
+Q#1 - 2IHBA	specific	G4 box	N238,K239,K240,D241	4	4	206639
+Q#1 - 2IHBA	specific	G5 box	C294,A295,T296	3	3	206639

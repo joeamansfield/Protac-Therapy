@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-309CBAA3AB05A73D-59BC319CB26F90D
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:54:29	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1NSKL	specific	active site	K12,Y52,F60,R88,T94,R105,N115,H118,S120,D121,E129	11	11	239876
+Q#1 - 1NSKL	specific	multimer interface	V16,V21,G22,E23,K26,E29,M38,K39,F40	9	9	239876

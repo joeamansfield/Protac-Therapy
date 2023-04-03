@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2D4039E94A36C216-1D5195688ECAFBBC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:27:39	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1IA8A	specific	ATP binding site	L15,G16,E17,G18,V23,A36,K38,V68,L84,E85,Y86,C87,E91,E134,N135,L137,S147,D148	18	18	270971
+Q#1 - 1IA8A	specific	allosteric inhibitor binding site	F93,D94,I96,E97,P98,P133,Y173,A200,G204,E205,L206	11	11	270971
+Q#1 - 1IA8A	specific	active site	L15,G16,E17,G18,A19,V23,A36,K38,V68,L84,E85,Y86,C87,E91,F93,R129,D130,K132,E134,N135,L137,S147,D148,L151,C168,G169,T170,L171,P172,V174	30	30	270971
+Q#1 - 1IA8A	specific	polypeptide substrate binding site	A19,E91,F93,R129,D130,K132,E134,L151,C168,G169,T170,L171,P172,V174	14	14	270971
+Q#1 - 1IA8A	specific	activation loop (A-loop)	S147,D148,F149,G150,L151,A152,T153,V154,F155,R156,Y157,N158,N159,R160,E161,R162,L163,L164,N165,K166,M167,C168,G169,T170,L171,P172	26	26	270971

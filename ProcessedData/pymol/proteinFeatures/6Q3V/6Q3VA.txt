@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-21350399AED9158A-1F99E9993697D207
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:41:32	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6Q3VA	specific	putative nucleic acid binding site	D81,H83,C84,I85,V87,G88,A89,E90,S91,L94,K95,I98,Q99,D104,L105,C106,I107	17	17	411904

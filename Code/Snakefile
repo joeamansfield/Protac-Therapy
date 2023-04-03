@@ -1,3 +1,5 @@
+import os
+
 cancerTypes = [
 'breast_cancer',
 'clear_cell_renal_cell_carcinoma_(kidney)',
@@ -45,56 +47,72 @@ rule cptac_download:
     script:
         "cptac_download.py"
     
-rule filter_E3Subs:
+rule file_setup:
     input:
-        "../Data/literature.E3.txt"
-    output:
-        "../Data/E3Subs_known.txt"
+        "../Data/literature.E3.txt",
+        "../Data/Protac.csv"
     shell:
         """
-        awk -F'\t' '/H.sapiens/{print $6, $7, $8, $9, $11, $14}' OFS='\t' ../Data/literature.E3.txt > ../Data/E3Subs_known.txt
+        bash file_setup.sh
         """
-
-rule get_E3_list:
-    input:
-        "../Data/E3Subs_known.txt"
     output:
-        "../ProcessedData/E3List.txt"
-    shell:
-        """
-        awk '{print $1}'../Data/ E3Subs_known.txt | sort -u > ../ProcessedData/E3List.txt
-        """
-
-rule get_target_protein_list:
-    input:
-        "../Data/E3Subs_known.txt"
-    output:
+        "../Data/E3Subs_known.txt", 
+        "../ProcessedData/existing_protacs.txt", 
+        "../ProcessedData/E3Sub_pairs_full.txt", 
+        "../ProcessedData/subset_list.txt", 
+        "../ProcessedData/E3List.txt", 
         "../ProcessedData/targetProteinList.txt"
-    shell:
-        """
-        awk '{print $2}' ../Data/E3Subs_known.txt | sort -u > ../ProcessedData/targetProteinList.txt
-        """
 
-rule get_subset_list:
-    input:
-        "../ProcessedData/E3List.txt",
-        "../ProcessedData/targetProteinList.txt"
-    output:
-        "../ProcessedData/subset_list.txt"
-    shell:
-        """
-        cat ../ProcessedData/E3List.txt ../ProcessedData/targetProteinList.txt > ../ProcessedData/subset_list.txt
-        """
+# rule filter_E3Subs:
+#     input:
+#         "../Data/literature.E3.txt"
+#     output:
+#         "../Data/E3Subs_known.txt"
+#     shell:
+#         """
+#         awk -F'\t' '/H.sapiens/{print $6, $7, $8, $9, $11, $14}' OFS='\t' ../Data/literature.E3.txt > ../Data/E3Subs_known.txt
+#         """
 
-rule get_pairs_list:
-    input:
-        "../Data/E3Subs_known.txt"
-    output:
-        "../ProcessedData/E3Sub_pairs.txt"
-    shell:
-        """
-        ./get_pairs.sh
-        """
+# rule get_E3_list:
+#     input:
+#         "../Data/E3Subs_known.txt"
+#     output:
+#         "../ProcessedData/E3List.txt"
+#     shell:
+#         """
+#         awk '{print $1}'../Data/ E3Subs_known.txt | sort -u > ../ProcessedData/E3List.txt
+#         """
+
+# rule get_target_protein_list:
+#     input:
+#         "../Data/E3Subs_known.txt"
+#     output:
+#         "../ProcessedData/targetProteinList.txt"
+#     shell:
+#         """
+#         awk '{print $2}' ../Data/E3Subs_known.txt | sort -u > ../ProcessedData/targetProteinList.txt
+#         """
+
+# rule get_subset_list:
+#     input:
+#         "../ProcessedData/E3List.txt",
+#         "../ProcessedData/targetProteinList.txt"
+#     output:
+#         "../ProcessedData/subset_list.txt"
+#     shell:
+#         """
+#         cat ../ProcessedData/E3List.txt ../ProcessedData/targetProteinList.txt > ../ProcessedData/subset_list.txt
+#         """
+
+# rule get_pairs_list:
+#     input:
+#         "../Data/E3Subs_known.txt"
+#     output:
+#         "../ProcessedData/E3Sub_pairs.txt"
+#     shell:
+#         """
+#         ./get_pairs.sh
+#         """
 
 rule subset_cptac:
     input:
@@ -117,15 +135,22 @@ rule t_test:
 rule find_sig_pairs:
     input:
         expand("../ProcessedData/pvalues/{type}.txt", type=cancerTypesSubset),
-        "../ProcessedData/E3Sub_pairs.txt"
+        "../ProcessedData/E3Sub_pairs_full.txt",
+        "../ProcessedData/existing_protacs.txt"
     output:
-        expand("../ProcessedData/sig_pairs/{type}.txt", type=cancerTypesSubset)
+        expand("../ProcessedData/sig_pairs/val_protacs/{type}", type=cancerTypesSubset),
+        expand("../ProcessedData/sig_pairs/potential_protacs/{type}", type=cancerTypesSubset)
     script:
         "sig_pairs.py"
 
 rule find_label_sets:
     input:
-        expand("../ProcessedData/sig_pairs/{type}_vals.txt", type=cancerTypesSubset)
+        expand("../ProcessedData/sig_pairs/val_protacs/{type}", type=cancerTypesSubset),
+        expand("../ProcessedData/sig_pairs/potential_protacs/{type}", type=cancerTypesSubset)
+    shell:
+        """
+        bash min.awk
+        """
     output:
         expand("../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt", type=cancerTypesSubset)
 
@@ -139,24 +164,89 @@ rule volcano:
     script:
         "volcano.R"
 
-rule validated_proteins_to_uniprot:
+rule merge_protac_types:
     input:
-        "../ProcessedData/val_protacs/merged_types.txt",
-        "../Data/literature.E3.txt"
+        expand("../ProcessedData/sig_pairs/val_protacs/{type}", type=cancerTypesSubset),
+        expand("../ProcessedData/sig_pairs/potential_protacs{type}", type=cancerTypesSubset)
+    script:
+        "merge_protac_types.py"
     output:
-        "../ProcessedData/pymol/val_uniprot.csv"
+        "../ProcessedData/merged_types_validated.txt",
+        "../ProcessedData/merged_types_potential.txt"
+
+rule single_multiple_cancer_protacs:
+    input:
+        "../ProcessedData/merged_types_validated.txt"
+    script:
+        "single_multiple_cancer_protacs.py"
+    output:
+        "../ProcessedData/single_cancer_protacs.txt",
+        "../ProcessedData/multiple_cancer_protacs.txt"
+
+rule single_cancer_protacs_pval:
+    input:
+        "../ProcessedData/single_cancer_protacs.txt"
+    script:
+        "single_cancer_protacs_pval.py"
+    output:
+        "../ProcessedData/single_cancer_protacs_pval.txt"
+
+rule find_table2_sets:
+    input:
+        expand("../ProcessedData/sig_pairs/potential_protacs/{file}", file=os.listdir("../ProcessedData/sig_pairs/potential_protacs/"))
     shell:
         """
-        bash validated_proteins_to_uniprot.sh
+        bash find_table2_sets.sh
+        """
+    output:
+        expand("../ProcessedData/sig_pairs/table2/{type}_most_sig.txt", type=cancerTypesSubset)
+
+rule sig_proteins_to_uniprot:
+    input:
+        "../ProcessedData/merged_types_validated.txt",
+        "../ProcessedData/merged_types_potential.txt",
+        "../Data/literature.E3.txt"
+    output:
+        "../ProcessedData/pymol/val_uniprot.csv",
+        "../ProcessedData/pymol/uniprot_to_hugo.tsv"
+    shell:
+        """
+        bash pymolAnalysis/sig_proteins_to_uniprot.sh
         """
 
 rule uniprot_to_pdb:
     input:
         "../ProcessedData/pymol/val_uniprot.csv"
     output:
-        "../ProcessedData/pymol/val_pdb.csv"
+        "../ProcessedData/pymol/val_pdb.tsv"
     shell:
         """
-        bash submitMapJob.sh
-        python getPDBResponse.py
+        bash pymolAnalysis/submitMapJob.sh
+        python pymolAnalysis/getPDBResponse.py
         """
+
+rule fetch_pdb_files:
+    input:
+        "../ProcessedData/pymol/val_pdb.tsv"
+    shell:
+        """
+        bash -c '
+            . $HOME/.bashrc
+            conda activate pymolv1
+            pymol -c pymolAnalysis/fetch.pml
+            conda activate E3v1'
+        """
+    output:
+        pdbIds = []
+        with open("../ProcessedData/pymol/val_pdb.tsv") as file:
+            for line in file:
+                split = line.split('\t')
+                pdbIds.append(split[1])
+        expand("../ProcessedData/pymol/pdbfiles/{id}.pdb", id=pdbIds)
+
+rule get_protein_features:
+    input:
+        expand("../ProcessedData/pymol/pdbfiles/{file}", file=os.listdir('../ProcessedData/pymol/pdbfiles'))
+    script:
+        "pymolAnalysis/getProteinFeatures.py"
+    

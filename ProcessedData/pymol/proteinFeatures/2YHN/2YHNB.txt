@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2BF46269B8366746-1043532EE5A7984A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:29:28	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2YHNB	generic	cross-brace motif	C21,C24,C36,H38,C42,C45,C52,C55	8	8	438186

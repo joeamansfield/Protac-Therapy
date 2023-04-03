@@ -1,0 +1,17 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-36991B287741A985-30325A46A8DE7B2F
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:43:02	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1FQVG	specific	Skp1/Cul1 binding site	W9,S11,L12,P13,D14,E15,L16,G19,I20,L24,E28,K31,V32,V35,W39,E46	16	16	438886
+Q#1 - 1FQVG	specific	leucine-rich repeat	V95-K119	20	25	-
+Q#1 - 1FQVG	specific	leucine-rich repeat	L120-N143	23	24	-
+Q#1 - 1FQVG	specific	leucine-rich repeat	L144-R169	20	26	-
+Q#1 - 1FQVG	specific	leucine-rich repeat	L170-T196	19	27	-
+Q#1 - 1FQVG	specific	leucine-rich repeat	I197-N223	22	27	-
+Q#1 - 1FQVG	specific	leucine-rich repeat	L224-Y248	23	25	-
+Q#1 - 1FQVG	specific	leucine-rich repeat	L249-L268	20	20	-
+Q#1 - 1FQVG	specific	leucine-rich repeat	L277-H304	19	28	-

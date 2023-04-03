@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-24C7FAA038F541B9-2EA60AB1B8ABD4BC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:11:29	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1UMOB	specific	heme binding site	F49,A56,Y59,F60,Q77,K80,H81,R84,V85,A88,L89,V109,A112,H113,K116,H117,V119,Y123,F124,L127	20	20	271275
+Q#1 - 1UMOB	specific	homodimer interface	R48,V51,N52,F53,P54,S55,Y123,K125,I126,G129,L132,E133,E137,R155	14	14	271275
+Q#1 - 1UMOB	specific	apolar cavity	L89,V105,F124,L127,I131,W151,L154,L157	8	8	271275

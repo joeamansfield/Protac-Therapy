@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3B038955C72388C5-CE5E2D519C52762
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:43:25	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6W7ZA	specific	active site cysteine 	C90	1	1	238117
+Q#1 - 6W7ZA	specific	Ub thioester intermediate interaction residues	R77,I78,N82,I83,S85,I89,C90,L91,I93,L94,W98,S99,L102,V107,S110,S113,S116,D117,N119,D121,D122	21	21	238117
+Q#1 - 6W7ZA	specific	E3 interaction residues	K9,P66,F67,P100,A101	5	5	238117

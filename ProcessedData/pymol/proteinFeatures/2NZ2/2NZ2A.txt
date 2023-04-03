@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-18C44BEF8E919EEB-3112F247E48780B6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:53:04	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2NZ2A	specific	ANP binding site	A11,T18,Y35,A37,Q41,R96,G118,F129,S181,M182	10	10	238957
+Q#1 - 2NZ2A	specific	Substrate Binding Site I	A119,T120,G123,N124,D125	5	5	238957
+Q#1 - 2NZ2A	specific	Substrate Binding Site II	Y88,T92,S93,N124,R128,S181,M182,D183,S190,E192,E271,Y283,Y323	13	13	238957

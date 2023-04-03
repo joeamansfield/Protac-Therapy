@@ -1,0 +1,1261 @@
+AHR	ESR1	glioblastoma
+ANAPC11	ANLN	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+ANAPC11	CCNB1	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+ANAPC11	GMNN	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+ANAPC11	PTTG1	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+ARIH2	APOBEC3G	glioblastoma
+ARIH2	ARIH2	glioblastoma
+ARIH2	NFKBIB	glioblastoma
+ASB2	FLNA	clear_cell_renal_cell_carcinoma_(kidney)
+ASB3	TNFRSF1B	clear_cell_renal_cell_carcinoma_(kidney)
+AURKA	SOD2	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BARD1	BRCA1	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BARD1	ESR1	glioblastoma
+BARD1	POLR2A	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+BARD1	POLR2H	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+BFAR	TGFA	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BFAR	TMBIM6	glioblastoma, endometrial_carcinoma_(uterine)
+BIRC2	BIRC2	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	CASP3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	CASP7	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	CASP8	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	CSE1L	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	DIABLO	glioblastoma, head_and_neck_squamous_cell_carcinoma
+BIRC2	IKBKE	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	IKBKG	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	MAD1L1	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	MAP3K14	glioblastoma
+BIRC2	MAP3K5	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	MXD1	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	PCSK9	head_and_neck_squamous_cell_carcinoma
+BIRC2	PGAM5	head_and_neck_squamous_cell_carcinoma
+BIRC2	RAC1	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	RIPK1	glioblastoma
+BIRC2	RIPK2	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	RIPK3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	TANK	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	TRAF1	glioblastoma, head_and_neck_squamous_cell_carcinoma
+BIRC2	TRAF2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC2	TRAF3	head_and_neck_squamous_cell_carcinoma
+BIRC2	TRAF6	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	BCL10	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	BIRC3	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	CASP3	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	CASP7	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	CASP8	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	DIABLO	head_and_neck_squamous_cell_carcinoma
+BIRC3	IKBKE	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	IRF1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	KRR1	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	MALT1	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	RIPK2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	RIPK3	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	TANK	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	TRAF1	head_and_neck_squamous_cell_carcinoma
+BIRC3	TRAF2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BIRC3	TRAF3	head_and_neck_squamous_cell_carcinoma
+BIRC3	TRAF6	clear_cell_renal_cell_carcinoma_(kidney)
+BIRC6	DIABLO	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+BIRC7	DIABLO	glioblastoma
+BMI1	H2AFX	clear_cell_renal_cell_carcinoma_(kidney)
+BMI1	H2AFZ	clear_cell_renal_cell_carcinoma_(kidney)
+BMI1	HIST1H2AH	clear_cell_renal_cell_carcinoma_(kidney)
+BMI1	HIST1H2AJ	clear_cell_renal_cell_carcinoma_(kidney)
+BMI1	HIST1H2AM	clear_cell_renal_cell_carcinoma_(kidney)
+BMI1	HIST2H2AB	clear_cell_renal_cell_carcinoma_(kidney)
+BMI1	HIST3H2A	clear_cell_renal_cell_carcinoma_(kidney)
+BMI1	RNF2	clear_cell_renal_cell_carcinoma_(kidney)
+BMI1	RRM1	clear_cell_renal_cell_carcinoma_(kidney)
+BRAP	BRAP	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRAP	USP15	clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	AKT1	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	BARD1	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	BRCA1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	CCNB1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	CDC25C	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	CLSPN	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	ESR1	glioblastoma
+BRCA1	FANCD2	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	H2AFX	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	HIST1H2AB	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	NF2	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+BRCA1	NPM1	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	NR1H3	clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	POLR2A	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+BRCA1	POLR2H	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+BRCA1	POU2F1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+BRCA1	PSMA7	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	RBBP8	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+BRCA1	TOP2A	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+BRCA1	TUBG1	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+C10ORF90	TP53	lung_squamous_cell_carcinoma
+CBL	ABL1	glioblastoma
+CBL	ALK	glioblastoma
+CBL	ARHGEF7	clear_cell_renal_cell_carcinoma_(kidney)
+CBL	BCL2L11	glioblastoma, head_and_neck_squamous_cell_carcinoma
+CBL	CD5	clear_cell_renal_cell_carcinoma_(kidney)
+CBL	CRKL	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	CSF1R	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	CTNNB1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	EGFR	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	EPHA8	head_and_neck_squamous_cell_carcinoma
+CBL	ERBB2	glioblastoma
+CBL	F2RL1	glioblastoma, head_and_neck_squamous_cell_carcinoma
+CBL	FCGR2A	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	FGFR1	glioblastoma
+CBL	FGFR4	head_and_neck_squamous_cell_carcinoma
+CBL	FGR	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	FLT1	clear_cell_renal_cell_carcinoma_(kidney)
+CBL	FRS2	head_and_neck_squamous_cell_carcinoma
+CBL	FYN	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	HGS	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	IGF1R	head_and_neck_squamous_cell_carcinoma
+CBL	IL2RG	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	IRF8	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	ITGA5	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	KDR	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	LCK	clear_cell_renal_cell_carcinoma_(kidney)
+CBL	LYN	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	MET	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	NFATC1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	NGFR	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	NLRP3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	PDGFA	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	PDGFRB	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	PIK3CG	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	PLCG1	head_and_neck_squamous_cell_carcinoma
+CBL	S100B	glioblastoma
+CBL	SH3KBP1	clear_cell_renal_cell_carcinoma_(kidney)
+CBL	SPRED2	head_and_neck_squamous_cell_carcinoma
+CBL	SPRY2	glioblastoma
+CBL	SRC	head_and_neck_squamous_cell_carcinoma
+CBL	STAP2	clear_cell_renal_cell_carcinoma_(kidney)
+CBL	STAT5A	glioblastoma
+CBL	STAT5B	glioblastoma
+CBL	SYK	glioblastoma
+CBL	VAV1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBL	YES1	glioblastoma, head_and_neck_squamous_cell_carcinoma
+CBL	ZAP70	clear_cell_renal_cell_carcinoma_(kidney)
+CBLB	CBLB	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBLB	CD247	clear_cell_renal_cell_carcinoma_(kidney)
+CBLB	EGFR	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBLB	IRS1	head_and_neck_squamous_cell_carcinoma
+CBLB	NLRP3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CBLB	PLCG1	head_and_neck_squamous_cell_carcinoma
+CBLB	SH3KBP1	clear_cell_renal_cell_carcinoma_(kidney)
+CBLB	SRC	head_and_neck_squamous_cell_carcinoma
+CBLB	SYK	glioblastoma
+CBLC	EGFR	lung_squamous_cell_carcinoma
+CBLC	SRC	lung_squamous_cell_carcinoma
+CBLL1	CDH1	lung_squamous_cell_carcinoma
+CBLL1	CTTN	lung_squamous_cell_carcinoma
+CCAR1	TP53	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+CCNF	CCP110	clear_cell_renal_cell_carcinoma_(kidney)
+CCNF	CDC6	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CCNF	RRM2	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	BUB1B	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	CCNA2	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	CCNB1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	CDKN1A	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	CDKN1B	clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	CENPF	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	MCL1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	NEK2	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	PHF8	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+CDC20	PTTG1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	RASSF1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	RUNX1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	SP100	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC20	TRRAP	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+CDC34	CDKN1B	clear_cell_renal_cell_carcinoma_(kidney)
+CDC34	CTNNB1	lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDC34	MYBL2	clear_cell_renal_cell_carcinoma_(kidney)
+CDC34	NFKBIA	clear_cell_renal_cell_carcinoma_(kidney)
+CDCA3	CDKN1A	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+CDCA3	WEE1	glioblastoma, lung_squamous_cell_carcinoma
+CDH1	AURKA	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+CHFR	AURKA	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+CHFR	CHD1L	clear_cell_renal_cell_carcinoma_(kidney)
+CHFR	CHFR	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+CHFR	HDAC1	endometrial_carcinoma_(uterine)
+CHFR	KIF22	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+CHFR	PARP1	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+CHFR	PBK	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+CHFR	PLK1	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+CHFR	SMARCA4	endometrial_carcinoma_(uterine)
+CHFR	SMARCD1	endometrial_carcinoma_(uterine)
+CISH	BCL2L11	glioblastoma
+CNOT4	CNOT4	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+CNOT4	KDM5C	clear_cell_renal_cell_carcinoma_(kidney)
+CNOT4	RBM15	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+COP1	ACACA	lung_squamous_cell_carcinoma
+COP1	CCT4	lung_squamous_cell_carcinoma
+COP1	COP1	lung_squamous_cell_carcinoma
+COP1	ETV4	lung_squamous_cell_carcinoma
+COP1	MMP1	lung_squamous_cell_carcinoma
+COP1	MTA1	lung_squamous_cell_carcinoma
+COP1	SFN	lung_squamous_cell_carcinoma
+COP1	SOX2	lung_squamous_cell_carcinoma
+COP1	TP53	lung_squamous_cell_carcinoma
+DCAF11	GEN1	endometrial_carcinoma_(uterine)
+DCAF11	TRIM28	endometrial_carcinoma_(uterine)
+DCAF12	MAGEA3	lung_squamous_cell_carcinoma
+DCAF12	MAGEA6	lung_squamous_cell_carcinoma
+DCAF15	RBM39	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+DDB1	COPS5	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+DDB1	TP73	lung_squamous_cell_carcinoma
+DDB2	DDB2	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+DDB2	DTL	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+DDB2	XPC	glioblastoma
+DET1	FOXO1	glioblastoma
+DET1	JUN	glioblastoma
+DET1	TP53	glioblastoma
+DTL	CDC6	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	CDKN1A	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	CDT1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	CHEK1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	CRY1	glioblastoma
+DTL	ERCC5	clear_cell_renal_cell_carcinoma_(kidney)
+DTL	FBH1	lung_squamous_cell_carcinoma
+DTL	KAT2A	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+DTL	KMT5A	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	PCNA	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	PDCD4	clear_cell_renal_cell_carcinoma_(kidney)
+DTL	POLD4	glioblastoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	POLH	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	SDE2	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	TDG	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTL	TP53	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTX2	DTX2	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTX3L	DTX3L	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DTX3L	HIST1H2BJ	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+DYRK2	TERT	lung_squamous_cell_carcinoma
+E4F1	TP53	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+F12	HIF1A	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+FAF2	NF1	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma
+FANCL	CTNNB1	clear_cell_renal_cell_carcinoma_(kidney)
+FANCL	FANCD2	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FANCL	FANCI	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBH1	RAD51	lung_squamous_cell_carcinoma
+FBXL12	CAMKK2	head_and_neck_squamous_cell_carcinoma
+FBXL14	CDCP1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXL19	CDC42	clear_cell_renal_cell_carcinoma_(kidney)
+FBXL19	NKX2-1	head_and_neck_squamous_cell_carcinoma
+FBXL19	RAC1	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXL19	RHOA	clear_cell_renal_cell_carcinoma_(kidney)
+FBXL2	APP	head_and_neck_squamous_cell_carcinoma
+FBXL2	AURKB	head_and_neck_squamous_cell_carcinoma
+FBXL2	FOXM1	head_and_neck_squamous_cell_carcinoma
+FBXL2	ITPR3	head_and_neck_squamous_cell_carcinoma
+FBXL2	PCYT1A	head_and_neck_squamous_cell_carcinoma
+FBXL5	DCTN1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXL5	NABP2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXL6	TP53	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXL7	AURKA	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXL7	BIRC5	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXL7	SNAI1	glioblastoma
+FBXO11	DTL	head_and_neck_squamous_cell_carcinoma
+FBXO11	SNAI1	head_and_neck_squamous_cell_carcinoma
+FBXO2	ITGB1	head_and_neck_squamous_cell_carcinoma
+FBXO2	SIRPA	head_and_neck_squamous_cell_carcinoma
+FBXO22	BAG3	lung_adenocarcinoma
+FBXO22	BSG	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma
+FBXO22	CDKN1A	head_and_neck_squamous_cell_carcinoma
+FBXO22	KDM4A	lung_squamous_cell_carcinoma
+FBXO22	PHLPP1	lung_squamous_cell_carcinoma
+FBXO22	SNAI1	head_and_neck_squamous_cell_carcinoma
+FBXO22	TP53	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+FBXO27	LAMP2	lung_squamous_cell_carcinoma
+FBXO28	FBXO28	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+FBXO32	ATR	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+FBXO32	DUSP1	glioblastoma
+FBXO32	EIF3F	glioblastoma
+FBXO32	FOXO1	glioblastoma
+FBXO32	KCNMB1	glioblastoma
+FBXO32	MYBPC3	glioblastoma
+FBXO32	MYC	glioblastoma
+FBXO4	CCND1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO4	FXR1	lung_squamous_cell_carcinoma
+FBXO4	ICAM1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO4	MCL1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO4	TERF1	lung_squamous_cell_carcinoma
+FBXO42	TP53	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO45	FBXW7	clear_cell_renal_cell_carcinoma_(kidney)
+FBXO45	PAWR	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FBXO45	SNAI1	head_and_neck_squamous_cell_carcinoma
+FBXO45	SNAI2	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FBXO45	TP73	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO45	TWIST1	lung_squamous_cell_carcinoma
+FBXO45	ZEB1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXO45	ZEB2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXO6	ATRN	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma
+FBXO6	CHEK1	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO6	ERO1A	endometrial_carcinoma_(uterine), lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO6	IRF3	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO6	RIOK1	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO6	RNASET2	endometrial_carcinoma_(uterine), lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+FBXO6	TFRC	head_and_neck_squamous_cell_carcinoma
+FBXO8	ARF6	glioblastoma
+FBXO8	GSTP1	glioblastoma
+FBXO8	MYC	glioblastoma
+FBXW11	CEP68	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	CLSPN	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	CTNNB1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	DDIT4	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	FBXO5	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	FBXW11	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	IFNAR1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	IKBKB	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	NFKB1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	NFKBIA	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	PDCD4	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	PER2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	PLK4	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW11	SIPA1L2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW5	EPS8	lung_adenocarcinoma
+FBXW5	SASS6	endometrial_carcinoma_(uterine), lung_adenocarcinoma
+FBXW5	TSC2	endometrial_carcinoma_(uterine), lung_adenocarcinoma
+FBXW7	AURKA	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	AURKB	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	BIRC2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	CCNE1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	CCNE2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	CEBPA	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	CEBPD	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	CSF3R	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	DEK	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	DISC1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	ENO1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	HDAC7	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	MCL1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	MED13L	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	MYB	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	MYC	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	NCOA3	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	NFKB2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	NONO	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	NR3C1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	RUNX2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	SPI1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	SREBF1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	STAT2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	TOP2A	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	TP53	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	XBP1	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW7	ZEB2	clear_cell_renal_cell_carcinoma_(kidney)
+FBXW8	CCND1	glioblastoma
+FBXW8	GORASP1	glioblastoma
+FBXW8	IGFBP2	glioblastoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+FBXW8	IRS1	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+FBXW8	MAP4K1	glioblastoma
+FZR1	ANLN	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	AURKA	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	AURKB	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	BUB1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	BUB1B	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	CCNA2	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	CCNB1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	CDC20	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	CDC25A	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	CDC6	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	CDH13	head_and_neck_squamous_cell_carcinoma
+FZR1	CKAP2	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	CLSPN	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	DCPS	lung_squamous_cell_carcinoma
+FZR1	DNM1L	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	DNMT1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	DTYMK	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	E2F1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	E2F3	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	FOXM1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	GMNN	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	MFN1	lung_squamous_cell_carcinoma
+FZR1	NDC80	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	NEK2	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	NUSAP1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	OPA1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	PAX3	lung_squamous_cell_carcinoma
+FZR1	PCLAF	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	PFKFB3	head_and_neck_squamous_cell_carcinoma
+FZR1	PLK1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	PTTG1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	RBBP8	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	RUNX1	head_and_neck_squamous_cell_carcinoma
+FZR1	SASS6	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	SKIL	head_and_neck_squamous_cell_carcinoma
+FZR1	SKP2	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	SOX2	lung_squamous_cell_carcinoma
+FZR1	STIL	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	TFAM	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	TK1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	TPX2	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	TRRAP	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	USP1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+FZR1	ZC3HC1	lung_squamous_cell_carcinoma
+GAN	ATG16L1	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+GAN	GFAP	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+GAN	MAP1B	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+GAN	MAP1S	lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+GAN	TBCB	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+HDAC6	CHEK1	glioblastoma
+HECTD2	PIAS1	clear_cell_renal_cell_carcinoma_(kidney)
+HECTD3	CASP8	glioblastoma
+HECTD3	MALT1	glioblastoma
+HECTD3	RAF1	glioblastoma
+HECTD3	TRIOBP	glioblastoma
+HECW2	LMNB1	clear_cell_renal_cell_carcinoma_(kidney)
+HECW2	PCNA	clear_cell_renal_cell_carcinoma_(kidney)
+HECW2	TP73	clear_cell_renal_cell_carcinoma_(kidney)
+HERC5	NME2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+HLTF	PCNA	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+HUWE1	BRCA1	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+HUWE1	CDC6	lung_squamous_cell_carcinoma
+HUWE1	CHEK1	lung_squamous_cell_carcinoma
+HUWE1	DUSP4	lung_adenocarcinoma
+HUWE1	HDAC2	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+HUWE1	HK2	lung_squamous_cell_carcinoma
+HUWE1	HUWE1	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+HUWE1	KDM3A	lung_squamous_cell_carcinoma
+HUWE1	MUTYH	lung_squamous_cell_carcinoma
+HUWE1	MYCN	lung_squamous_cell_carcinoma
+HUWE1	NR1D1	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+HUWE1	OGT	lung_adenocarcinoma
+HUWE1	PA2G4	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+HUWE1	PCNA	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+HUWE1	PIAS2	lung_squamous_cell_carcinoma
+HUWE1	POLB	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+HUWE1	PPARA	lung_squamous_cell_carcinoma
+HUWE1	SS18	lung_squamous_cell_carcinoma
+HUWE1	TP53	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+HUWE1	WIPI2	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+IRAK1	PELI1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+IRAK4	PELI1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+ITCH	BCL10	lung_adenocarcinoma
+ITCH	BID	lung_squamous_cell_carcinoma
+ITCH	BRAT1	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+ITCH	CPSF6	lung_squamous_cell_carcinoma
+ITCH	DVL2	lung_squamous_cell_carcinoma
+ITCH	EGFR	lung_squamous_cell_carcinoma
+ITCH	ERBB3	lung_adenocarcinoma
+ITCH	HGS	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+ITCH	INPPL1	lung_adenocarcinoma
+ITCH	ITCH	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+ITCH	MAP3K7	lung_squamous_cell_carcinoma
+ITCH	NOTCH3	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+ITCH	SNX9	lung_adenocarcinoma
+ITCH	TGIF1	lung_squamous_cell_carcinoma
+ITCH	TP63	lung_squamous_cell_carcinoma
+ITCH	TP73	lung_squamous_cell_carcinoma
+ITCH	TRPV4	lung_squamous_cell_carcinoma
+KCTD11	HDAC1	glioblastoma, lung_squamous_cell_carcinoma
+KCTD13	RHOA	clear_cell_renal_cell_carcinoma_(kidney)
+KEAP1	EGLN1	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+KEAP1	IKBKB	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+KEAP1	MCM3	glioblastoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+KEAP1	NFE2L2	glioblastoma, lung_squamous_cell_carcinoma
+KEAP1	PALB2	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+KEAP1	PGAM5	lung_squamous_cell_carcinoma
+KEAP1	SOX9	lung_squamous_cell_carcinoma
+KEAP1	SQSTM1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+KLHL11	CCNB1	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+KLHL12	CCNB1	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+KLHL12	DRD4	lung_squamous_cell_carcinoma
+KLHL12	DVL3	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+KLHL12	KHSRP	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+KLHL12	LNPK	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+KLHL12	SEC31A	lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+KLHL13	AURKB	glioblastoma, lung_squamous_cell_carcinoma
+KLHL13	BORA	glioblastoma, lung_squamous_cell_carcinoma
+KLHL13	CCNB1	glioblastoma, lung_squamous_cell_carcinoma
+KLHL20	CORO7	glioblastoma
+KLHL21	AURKB	lung_squamous_cell_carcinoma
+KLHL22	DEPDC5	lung_squamous_cell_carcinoma
+KLHL22	PLK1	lung_squamous_cell_carcinoma
+KLHL25	EIF4EBP1	glioblastoma
+KLHL42	PPP2R5E	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+KLHL6	CDK2	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+KLHL6	RC3H2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+LHX1	LIMK1	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+LNX1	GIPR	endometrial_carcinoma_(uterine)
+LNX1	GRIN1	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+LNX1	PBK	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+LNX1	PQBP1	lung_squamous_cell_carcinoma
+LNX1	RSL1D1	lung_squamous_cell_carcinoma
+LNX1	SRC	lung_squamous_cell_carcinoma
+MALT1	IKBKG	clear_cell_renal_cell_carcinoma_(kidney)
+MAP3K1	JUN	glioblastoma
+MDM2	AQP2	endometrial_carcinoma_(uterine)
+MDM2	ARPC3	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	ARRB1	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	ARRB2	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	BAIAP2L1	endometrial_carcinoma_(uterine)
+MDM2	CCNE1	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	CDH1	endometrial_carcinoma_(uterine)
+MDM2	CDKN1A	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	DAXX	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	DHFR	endometrial_carcinoma_(uterine)
+MDM2	DYRK2	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	E2F1	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	FOXP3	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	GNL3	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	HBP1	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	HIF1A	endometrial_carcinoma_(uterine)
+MDM2	HIPK2	endometrial_carcinoma_(uterine)
+MDM2	IRF1	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	IRF2	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	MRPS7	endometrial_carcinoma_(uterine)
+MDM2	NFATC2	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	NOL3	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	NR3C1	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	PER2	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	POLQ	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	PSMD4	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	RARA	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	RB1	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	RPL26	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	RPS2	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	RPS27A	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	RRM2B	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	RUNX3	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	SUV39H1	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	TERT	endometrial_carcinoma_(uterine)
+MDM2	TP53	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	TP73	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	TTF1	clear_cell_renal_cell_carcinoma_(kidney)
+MDM2	XRCC6	clear_cell_renal_cell_carcinoma_(kidney)
+MEX3B	SNUPN	lung_squamous_cell_carcinoma
+MEX3C	DDX58	glioblastoma, head_and_neck_squamous_cell_carcinoma
+MIB1	BLM	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+MIB1	CEP131	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+MIB1	CEP290	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+MIB1	DLL3	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+MIB1	EDAR	lung_squamous_cell_carcinoma
+MIB1	JAG1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+MIB1	MIB1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+MIB1	SMN1	head_and_neck_squamous_cell_carcinoma
+MIB1	TBK1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+MID1	IGBP1	clear_cell_renal_cell_carcinoma_(kidney)
+MID1	IRF3	glioblastoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+MID1	STK36	glioblastoma
+MID1	UBE2D1	clear_cell_renal_cell_carcinoma_(kidney)
+MKRN1	CDKN1A	clear_cell_renal_cell_carcinoma_(kidney)
+MKRN1	CDKN2A	clear_cell_renal_cell_carcinoma_(kidney)
+MKRN1	FILIP1	clear_cell_renal_cell_carcinoma_(kidney)
+MKRN1	POLG	clear_cell_renal_cell_carcinoma_(kidney)
+MKRN1	RPS10	clear_cell_renal_cell_carcinoma_(kidney)
+MKRN1	TP53	clear_cell_renal_cell_carcinoma_(kidney)
+MKRN3	PABPC1	glioblastoma, lung_squamous_cell_carcinoma
+MPG	HMG20B	lung_adenocarcinoma
+MPG	IGBP1	lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+MPG	PTPA	lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+MPG	STK36	lung_adenocarcinoma
+MPG	UBE2D1	clear_cell_renal_cell_carcinoma_(kidney)
+MSL2	TP53	lung_squamous_cell_carcinoma
+MUL1	AKT1	glioblastoma
+MUL1	HSPA5	glioblastoma
+MUL1	MUL1	glioblastoma
+MUL1	TP53	glioblastoma
+MYLIP	MYLIP	clear_cell_renal_cell_carcinoma_(kidney)
+MYLIP	VLDLR	clear_cell_renal_cell_carcinoma_(kidney)
+NAT10	MDM2	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	ADRB2	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	AKT1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	ANXA13	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	APOBEC3G	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	AR	glioblastoma
+NEDD4	BCL10	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	BRAT1	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	CDKN1A	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	DCUN1D1	head_and_neck_squamous_cell_carcinoma
+NEDD4	EGFR	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	EPS15	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	ERRFI1	glioblastoma
+NEDD4	F2R	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	FGFR1	glioblastoma
+NEDD4	GJA1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	GRIN2D	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	GUCD1	glioblastoma
+NEDD4	HGS	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	HRAS	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	IFITM3	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	IGF1R	head_and_neck_squamous_cell_carcinoma
+NEDD4	KDR	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	KIF26B	head_and_neck_squamous_cell_carcinoma
+NEDD4	LAPTM4A	glioblastoma
+NEDD4	LAPTM5	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	LATS1	head_and_neck_squamous_cell_carcinoma
+NEDD4	LGR5	head_and_neck_squamous_cell_carcinoma
+NEDD4	LYN	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	MAF	glioblastoma
+NEDD4	MDM2	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	MYC	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	N4BP1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	NEDD4	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	NOTCH1	glioblastoma
+NEDD4	NRAS	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	NTRK1	glioblastoma, head_and_neck_squamous_cell_carcinoma
+NEDD4	PIP5K1A	glioblastoma, head_and_neck_squamous_cell_carcinoma
+NEDD4	POLR2A	head_and_neck_squamous_cell_carcinoma
+NEDD4	PROM1	glioblastoma
+NEDD4	PSMD4	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	RAP2A	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	RAPGEF2	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	RNF7	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	SCNN1B	glioblastoma
+NEDD4	SLC31A1	glioblastoma
+NEDD4	SLC6A3	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	SLC9A1	head_and_neck_squamous_cell_carcinoma
+NEDD4	SPDYA	glioblastoma, head_and_neck_squamous_cell_carcinoma
+NEDD4	SPRY2	glioblastoma
+NEDD4	SQSTM1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	SRC	head_and_neck_squamous_cell_carcinoma
+NEDD4	SYK	glioblastoma
+NEDD4	TBK1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	TFG	glioblastoma, head_and_neck_squamous_cell_carcinoma
+NEDD4	THOC1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	TMIGD2	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	TNFRSF18	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	TNK2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	TTYH2	clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4	XPO1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+NEDD4L	ABCC1	endometrial_carcinoma_(uterine)
+NEDD4L	AKT1	endometrial_carcinoma_(uterine)
+NEDD4L	HGS	endometrial_carcinoma_(uterine)
+NEDD4L	LGR4	endometrial_carcinoma_(uterine)
+NEDD4L	NDFIP2	endometrial_carcinoma_(uterine)
+NEDD4L	NEDD4L	endometrial_carcinoma_(uterine)
+NEDD4L	NF2	endometrial_carcinoma_(uterine)
+NEDD4L	OCLN	endometrial_carcinoma_(uterine)
+NEDD4L	ORAI1	endometrial_carcinoma_(uterine)
+NEDD4L	SCNN1A	endometrial_carcinoma_(uterine)
+NEDD4L	SCNN1B	endometrial_carcinoma_(uterine)
+NEDD4L	SLC11A2	endometrial_carcinoma_(uterine)
+NEDD4L	SPHK2	endometrial_carcinoma_(uterine)
+NEDD4L	STK35	endometrial_carcinoma_(uterine)
+NEDD4L	TP53	endometrial_carcinoma_(uterine)
+NEDD4L	TRAF3	endometrial_carcinoma_(uterine)
+NEURL1B	DLL1	clear_cell_renal_cell_carcinoma_(kidney)
+NEURL1B	DLL4	clear_cell_renal_cell_carcinoma_(kidney)
+NEURL2	CTNNB1	glioblastoma, lung_adenocarcinoma
+NHLRC1	AGL	lung_squamous_cell_carcinoma
+NHLRC1	DVL2	lung_squamous_cell_carcinoma
+NHLRC1	PPP1R3C	clear_cell_renal_cell_carcinoma_(kidney)
+OSTM1	GNAI3	clear_cell_renal_cell_carcinoma_(kidney)
+PARP1	SIAH1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+PAXIP1	PCNA	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+PELI1	BCL6	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+PELI1	IRAK1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+PELI1	MAP3K14	glioblastoma
+PELI1	RIPK1	glioblastoma
+PELI1	RIPK3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+PELI3	IRAK1	clear_cell_renal_cell_carcinoma_(kidney)
+PELI3	RIPK2	clear_cell_renal_cell_carcinoma_(kidney)
+PELI3	TRAF6	clear_cell_renal_cell_carcinoma_(kidney)
+PIAS2	STAT1	lung_squamous_cell_carcinoma
+PIAS4	ETS1	head_and_neck_squamous_cell_carcinoma
+PIAS4	YY1	head_and_neck_squamous_cell_carcinoma
+PJA1	EZH2	head_and_neck_squamous_cell_carcinoma
+PJA1	SUZ12	head_and_neck_squamous_cell_carcinoma
+PJA2	KSR1	clear_cell_renal_cell_carcinoma_(kidney)
+PJA2	PJA2	clear_cell_renal_cell_carcinoma_(kidney)
+PRC1	RNF2	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+PRPF19	PRPF3	lung_adenocarcinoma
+PRPF19	RPA1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+PRPF19	RPA2	lung_adenocarcinoma
+PRPF19	YBX1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+PTPA	BMI1	clear_cell_renal_cell_carcinoma_(kidney)
+RAB40C	RACK1	lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RACK1	CLEC1B	clear_cell_renal_cell_carcinoma_(kidney)
+RACK1	HIF1A	lung_adenocarcinoma
+RAD18	FANCD2	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RAD18	PCNA	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RAD18	RAD18	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RAD18	RFC2	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RAD18	TP53	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RAD23A	TWIST1	lung_squamous_cell_carcinoma
+RAG1	KPNA1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+RAG1	KPNA2	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+RAG1	RAG1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+RBBP6	GRB2	clear_cell_renal_cell_carcinoma_(kidney)
+RBBP6	YBX1	clear_cell_renal_cell_carcinoma_(kidney)
+RBBP6	ZBTB38	clear_cell_renal_cell_carcinoma_(kidney)
+RBCK1	BACH1	clear_cell_renal_cell_carcinoma_(kidney)
+RBCK1	IKBKG	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RBCK1	IRF3	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RBCK1	PRKCA	head_and_neck_squamous_cell_carcinoma
+RBCK1	RBCK1	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RBCK1	TAB2	head_and_neck_squamous_cell_carcinoma
+RBCK1	TRIM25	clear_cell_renal_cell_carcinoma_(kidney)
+RBX1	NFE2L2	lung_squamous_cell_carcinoma
+RBX1	POLR2A	lung_squamous_cell_carcinoma
+RBX1	RPS6KB1	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RFFL	CASP8	glioblastoma, endometrial_carcinoma_(uterine)
+RFFL	PRR5L	glioblastoma, endometrial_carcinoma_(uterine)
+RFFL	RFFL	glioblastoma, endometrial_carcinoma_(uterine)
+RFFL	RIPK1	glioblastoma
+RFFL	SFN	endometrial_carcinoma_(uterine)
+RFFL	TP53	glioblastoma, endometrial_carcinoma_(uterine)
+RFWD3	RAD51	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+RFWD3	TP53	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+RICTOR	SGK1	head_and_neck_squamous_cell_carcinoma
+RING1	SMARCAD1	glioblastoma
+RLIM	HDAC2	head_and_neck_squamous_cell_carcinoma
+RLIM	LHX2	head_and_neck_squamous_cell_carcinoma
+RLIM	LHX3	head_and_neck_squamous_cell_carcinoma
+RLIM	LIMK1	head_and_neck_squamous_cell_carcinoma
+RLIM	RLIM	head_and_neck_squamous_cell_carcinoma
+RLIM	STMN1	head_and_neck_squamous_cell_carcinoma
+RLIM	TERF1	head_and_neck_squamous_cell_carcinoma
+RNF115	CXCR4	clear_cell_renal_cell_carcinoma_(kidney)
+RNF115	EGFR	clear_cell_renal_cell_carcinoma_(kidney)
+RNF115	MET	clear_cell_renal_cell_carcinoma_(kidney)
+RNF115	RNF115	clear_cell_renal_cell_carcinoma_(kidney)
+RNF123	CBX5	endometrial_carcinoma_(uterine)
+RNF125	DDX58	clear_cell_renal_cell_carcinoma_(kidney)
+RNF125	IFIH1	clear_cell_renal_cell_carcinoma_(kidney)
+RNF125	JAK1	clear_cell_renal_cell_carcinoma_(kidney)
+RNF125	NLRP3	clear_cell_renal_cell_carcinoma_(kidney)
+RNF125	RNF125	clear_cell_renal_cell_carcinoma_(kidney)
+RNF125	TP53	clear_cell_renal_cell_carcinoma_(kidney)
+RNF126	CDKN1A	clear_cell_renal_cell_carcinoma_(kidney)
+RNF126	CXCR4	clear_cell_renal_cell_carcinoma_(kidney)
+RNF126	EGFR	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF126	MET	clear_cell_renal_cell_carcinoma_(kidney)
+RNF126	TP53	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF128	ARHGDIB	clear_cell_renal_cell_carcinoma_(kidney)
+RNF128	ARPC5	clear_cell_renal_cell_carcinoma_(kidney)
+RNF128	CD40LG	clear_cell_renal_cell_carcinoma_(kidney)
+RNF128	CD44	clear_cell_renal_cell_carcinoma_(kidney)
+RNF128	CORO1A	clear_cell_renal_cell_carcinoma_(kidney)
+RNF128	TP53	clear_cell_renal_cell_carcinoma_(kidney)
+RNF13	RNF13	clear_cell_renal_cell_carcinoma_(kidney)
+RNF13	SNAPIN	clear_cell_renal_cell_carcinoma_(kidney)
+RNF130	VAMP3	clear_cell_renal_cell_carcinoma_(kidney)
+RNF135	DDX58	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF138	RNF138	clear_cell_renal_cell_carcinoma_(kidney)
+RNF138	XRCC5	clear_cell_renal_cell_carcinoma_(kidney)
+RNF14	RNF14	clear_cell_renal_cell_carcinoma_(kidney)
+RNF144A	EGFR	head_and_neck_squamous_cell_carcinoma
+RNF144A	PRKDC	head_and_neck_squamous_cell_carcinoma
+RNF144B	BAX	endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+RNF144B	CDKN1A	clear_cell_renal_cell_carcinoma_(kidney)
+RNF144B	NPM1	clear_cell_renal_cell_carcinoma_(kidney)
+RNF168	KDM4A	lung_squamous_cell_carcinoma
+RNF168	RHOC	head_and_neck_squamous_cell_carcinoma
+RNF168	RNF168	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF180	RHOC	glioblastoma
+RNF181	ESR1	glioblastoma
+RNF181	RNF181	glioblastoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF183	BCL2L1	endometrial_carcinoma_(uterine)
+RNF183	TNFRSF10B	endometrial_carcinoma_(uterine)
+RNF185	BNIP1	glioblastoma
+RNF19A	RNF19A	glioblastoma, head_and_neck_squamous_cell_carcinoma
+RNF19A	SNCAIP	glioblastoma
+RNF19A	TP53	glioblastoma
+RNF2	GMNN	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+RNF2	RNF2	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF2	RRM1	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF216	RIPK1	glioblastoma
+RNF216	RNF216	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF216	TLR4	clear_cell_renal_cell_carcinoma_(kidney)
+RNF216	TLR8	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF216	TRAF3	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+RNF220	RNF220	clear_cell_renal_cell_carcinoma_(kidney)
+RNF26	IRF3	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+RNF26	SQSTM1	lung_adenocarcinoma
+RNF31	CASP1	glioblastoma
+RNF31	DDX58	glioblastoma
+RNF31	IKBKG	lung_adenocarcinoma
+RNF31	RIPK1	glioblastoma
+RNF31	TRAF1	glioblastoma
+RNF31	TRIM25	glioblastoma
+RNF34	CASP10	clear_cell_renal_cell_carcinoma_(kidney)
+RNF34	CASP8	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF34	NOD1	clear_cell_renal_cell_carcinoma_(kidney)
+RNF34	TP53	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	ATXN1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	CENPI	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	DAND5	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	EPAS1	clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	ETV4	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+RNF4	PARP1	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	PML	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	RBBP8	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+RNF4	RNF4	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	SP1	glioblastoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	SUMO2	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF4	ZNF746	head_and_neck_squamous_cell_carcinoma
+RNF40	PA2G4	lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+RNF40	STX1A	lung_adenocarcinoma
+RNF43	AKAP8L	endometrial_carcinoma_(uterine)
+RNF43	FZD5	endometrial_carcinoma_(uterine)
+RNF43	RNF43	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+RNF5	IRF3	lung_adenocarcinoma
+RNF5	JKAMP	lung_adenocarcinoma
+RNF6	LIMK1	clear_cell_renal_cell_carcinoma_(kidney)
+RNF6	LIMS1	clear_cell_renal_cell_carcinoma_(kidney)
+RNF6	MXD1	clear_cell_renal_cell_carcinoma_(kidney)
+RNF8	BLM	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+RNF8	CHEK2	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+RNF8	H2AFX	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+RNF8	KDM4A	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+RNF8	KMT5A	lung_squamous_cell_carcinoma
+RNF8	NONO	lung_squamous_cell_carcinoma
+RNF8	OTUB1	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+RNF8	PCNA	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+RNF8	RECQL4	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+RNF8	RNF8	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+RNF8	XRCC5	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+RSAD2	IRAK1	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	CTNNB1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	EGLN1	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	EGLN2	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	EGLN3	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	ELL2	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	HIF1A	glioblastoma
+SIAH1	IFI27	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	KIF22	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	KLF10	glioblastoma
+SIAH1	MYB	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	PKD1	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	PLCE1	glioblastoma
+SIAH1	PML	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	RBBP8	glioblastoma
+SIAH1	S100A10	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	SNCAIP	glioblastoma
+SIAH1	TNK2	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	TRIB3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH1	ZEB1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	AKAP1	lung_adenocarcinoma
+SIAH2	CDKN1B	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	CHEK2	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	DYRK2	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	EGLN1	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	EGLN2	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	EGLN3	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	HDAC3	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	HIF1A	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+SIAH2	KIF15	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	NRF1	lung_squamous_cell_carcinoma
+SIAH2	PIAS1	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	PML	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	POU2AF1	lung_squamous_cell_carcinoma
+SIAH2	PPP1R12A	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	PSMD4	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	SH3KBP1	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	SNCAIP	lung_squamous_cell_carcinoma
+SIAH2	TANK	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	TINF2	clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	TP53	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	TRAF2	lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIAH2	ZEB1	clear_cell_renal_cell_carcinoma_(kidney)
+SIVA1	CDKN2A	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SIVA1	XIAP	lung_adenocarcinoma
+SKP2	ACE2	endometrial_carcinoma_(uterine)
+SKP2	AKT1	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	AKT2	lung_squamous_cell_carcinoma
+SKP2	BORA	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	BRCA1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	BRCA2	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	BTG2	glioblastoma
+SKP2	CARM1	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+SKP2	CCNA2	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	CCND1	glioblastoma, endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	CCNE1	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	CDH1	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+SKP2	CDK8	lung_squamous_cell_carcinoma
+SKP2	CDKN1A	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	CDKN1B	clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	CDT1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	CEBPA	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	CTNNB1	glioblastoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	CYGB	clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	DCTN6	clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	DUSP1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	E2F1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	ELF4	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	ESR1	glioblastoma
+SKP2	FGD1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+SKP2	FOXO1	glioblastoma
+SKP2	ICAM1	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	ING3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	JAK3	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	MEFV	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	MYBL2	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	MYC	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	NBN	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	NFKBIA	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	NFKBIE	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	NUDT1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	ORC1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	PDCD4	clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	PHB	glioblastoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+SKP2	PSMD9	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+SKP2	RASSF1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	RB1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	RND3	glioblastoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	RRAGA	clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	SIPA1	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	SKP2	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	SPDYA	glioblastoma, head_and_neck_squamous_cell_carcinoma
+SKP2	TAL1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	TCF3	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	TCF7L1	glioblastoma
+SKP2	TP53	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SKP2	TWIST1	glioblastoma, lung_squamous_cell_carcinoma
+SKP2	USP18	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	ACVR1	head_and_neck_squamous_cell_carcinoma
+SMURF1	ADRM1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	ANKRD13A	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	ANKRD13D	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	ANKRD50	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	ANXA6	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	AXIN1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	BMPR1B	head_and_neck_squamous_cell_carcinoma
+SMURF1	BMPR2	head_and_neck_squamous_cell_carcinoma
+SMURF1	BTK	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	C6ORF106	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	CCDC69	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	CSNK2A2	head_and_neck_squamous_cell_carcinoma
+SMURF1	CTTN	head_and_neck_squamous_cell_carcinoma
+SMURF1	ELOF1	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	FAF2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	FES	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	FGR	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	GDF15	head_and_neck_squamous_cell_carcinoma
+SMURF1	HIP1	head_and_neck_squamous_cell_carcinoma
+SMURF1	ITK	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	KRT36	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	LCK	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	MAP3K10	head_and_neck_squamous_cell_carcinoma
+SMURF1	MAP3K2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	MAP4K5	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	MATK	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	MSN	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	NEK2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	ODF2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	OTUD6B	head_and_neck_squamous_cell_carcinoma
+SMURF1	PICALM	head_and_neck_squamous_cell_carcinoma
+SMURF1	PRKCA	head_and_neck_squamous_cell_carcinoma
+SMURF1	PRKCI	head_and_neck_squamous_cell_carcinoma
+SMURF1	PRR16	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	PSMD4	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	RAC1	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	RAD23A	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	RBCK1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	RHOA	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	RIOK3	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	RNF114	head_and_neck_squamous_cell_carcinoma
+SMURF1	RUNX2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	SCYL1	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	SMAD1	head_and_neck_squamous_cell_carcinoma
+SMURF1	SMAD5	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	SMAD7	head_and_neck_squamous_cell_carcinoma
+SMURF1	TAOK3	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	TBK1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	TBX6	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	TGFBR1	head_and_neck_squamous_cell_carcinoma
+SMURF1	TNIK	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	TNIP2	head_and_neck_squamous_cell_carcinoma
+SMURF1	TPM4	head_and_neck_squamous_cell_carcinoma
+SMURF1	TRIB2	head_and_neck_squamous_cell_carcinoma
+SMURF1	TRIP10	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	UBE2D1	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	UBE2V1	head_and_neck_squamous_cell_carcinoma
+SMURF1	UBQLN1	head_and_neck_squamous_cell_carcinoma
+SMURF1	USP5	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF1	UVRAG	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	AXIN1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	CTNNB1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	EGFR	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	EZH2	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	GSK3B	head_and_neck_squamous_cell_carcinoma
+SMURF2	ID1	glioblastoma
+SMURF2	ID3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	MAD2L1	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	PARP1	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	RAP1B	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	RHOA	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	RNF20	glioblastoma
+SMURF2	RUNX2	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	SKIL	head_and_neck_squamous_cell_carcinoma
+SMURF2	SMAD1	glioblastoma, head_and_neck_squamous_cell_carcinoma
+SMURF2	SMAD5	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	SMAD7	head_and_neck_squamous_cell_carcinoma
+SMURF2	SMURF1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	STAMBP	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	STAMBPL1	clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	TGFBR1	glioblastoma, head_and_neck_squamous_cell_carcinoma
+SMURF2	TGFBR2	glioblastoma
+SMURF2	TNFRSF1B	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	TOP2A	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+SMURF2	TRAF4	glioblastoma
+SOCS1	IRS1	head_and_neck_squamous_cell_carcinoma
+SOCS1	JAK1	glioblastoma
+SOCS1	LYN	glioblastoma, head_and_neck_squamous_cell_carcinoma
+SOCS1	RELA	glioblastoma, head_and_neck_squamous_cell_carcinoma
+SOCS1	VAV1	glioblastoma
+SOCS2	SOCS1	glioblastoma
+SOCS2	SOCS3	glioblastoma
+SOCS3	SIGLEC7	glioblastoma
+SOCS5	EGFR	head_and_neck_squamous_cell_carcinoma
+SOCS5	STAT1	head_and_neck_squamous_cell_carcinoma
+SPOP	BMI1	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	BRMS1	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	CAPRIN1	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	CCNE1	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	CD274	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	CDC20	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	DAXX	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	DEK	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	DUSP7	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	ERG	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	FADD	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	INF2	clear_cell_renal_cell_carcinoma_(kidney)
+SPOP	NCOA3	clear_cell_renal_cell_carcinoma_(kidney)
+SQSTM1	LDHA	glioblastoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+STAMBP	NLRP3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+STUB1	AKT1	lung_adenocarcinoma
+STUB1	DPM1	lung_adenocarcinoma
+STUB1	EIF5A	lung_adenocarcinoma
+STUB1	ERBB2	lung_adenocarcinoma
+STUB1	HIF1A	lung_adenocarcinoma
+STUB1	HSF1	lung_adenocarcinoma
+STUB1	HSP90AA1	lung_adenocarcinoma
+STUB1	HSPA4	lung_adenocarcinoma
+STUB1	HSPA8	lung_adenocarcinoma
+STUB1	MST1R	lung_adenocarcinoma
+STUB1	NFS1	lung_adenocarcinoma
+STUB1	NPM1	lung_adenocarcinoma
+STUB1	NQO1	lung_adenocarcinoma
+STUB1	PGK1	lung_adenocarcinoma
+STUB1	POLB	lung_adenocarcinoma
+STUB1	PSMD4	lung_adenocarcinoma
+STUB1	RUNX1	lung_adenocarcinoma
+STUB1	RUNX2	lung_adenocarcinoma
+STUB1	S100A2	lung_adenocarcinoma
+STUB1	S100P	lung_adenocarcinoma
+STUB1	SIRT6	lung_adenocarcinoma
+STUB1	SMAD1	lung_adenocarcinoma
+STUB1	SMG5	lung_adenocarcinoma
+STUB1	SOD1	lung_adenocarcinoma
+STUB1	SRC	lung_adenocarcinoma
+STUB1	STUB1	lung_adenocarcinoma
+STUB1	TP53	lung_adenocarcinoma
+STUB1	TRAF2	lung_adenocarcinoma
+STUB1	TRAF3	lung_adenocarcinoma
+SYVN1	GPR37	lung_squamous_cell_carcinoma
+SYVN1	HTT	endometrial_carcinoma_(uterine)
+SYVN1	NCSTN	endometrial_carcinoma_(uterine), lung_adenocarcinoma
+SYVN1	SERPINA1	endometrial_carcinoma_(uterine)
+SYVN1	SYVN1	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+SYVN1	TP53	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TANK	BIRC3	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TANK	DUSP14	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TANK	IKBKE	glioblastoma, endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+TANK	KRR1	clear_cell_renal_cell_carcinoma_(kidney)
+TANK	MAPK11	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TANK	MLST8	endometrial_carcinoma_(uterine)
+TANK	RIPK1	glioblastoma
+TANK	TICAM1	clear_cell_renal_cell_carcinoma_(kidney)
+TANK	TRAF3	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma
+TBL1X	CTNNB1	lung_adenocarcinoma
+TNFAIP3	RIPK1	glioblastoma
+TNFAIP3	TNFAIP3	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TOM1	CDC6	endometrial_carcinoma_(uterine)
+TOPORS	TP53	glioblastoma
+TRAF1	MAP3K14	glioblastoma
+TRAF2	ASS1	lung_adenocarcinoma
+TRAF2	BIRC3	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRAF2	DUSP14	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRAF2	IKBKE	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRAF2	KRR1	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF2	MAPK11	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRAF2	TICAM1	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF2	TRAF2	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRAF2	ZBTB17	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF3	IKBKE	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRAF3	MAP3K7	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+TRAF3	TBK1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+TRAF3	UBE2I	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRAF3	ULK1	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRAF3IP2	TRAF6	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF4	AKT1	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma
+TRAF4	CHEK1	glioblastoma, endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+TRAF4	IRS1	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRAF4	NTRK1	glioblastoma
+TRAF4	SMURF2	glioblastoma
+TRAF6	AKT1	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	CTNNB1	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	HK2	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	IKBKG	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	IRAK1	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	IRF5	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	IRF7	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	ITGB3BP	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	LAT	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	LGALS3BP	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	MALT1	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	MAP3K11	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	NGFR	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	PIK3CA	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	RIPK2	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	STAT6	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	TICAM1	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF6	TRAF6	clear_cell_renal_cell_carcinoma_(kidney)
+TRAF7	TP53	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRAF7	TRAF7	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRAIP	KANK1	glioblastoma
+TRIB3	PPARA	lung_squamous_cell_carcinoma
+TRIM11	AXIN1	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM11	CCDC88C	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma
+TRIM11	DUSP6	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma
+TRIM11	HTT	endometrial_carcinoma_(uterine)
+TRIM11	MED15	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM11	PAX6	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma
+TRIM11	PHLPP1	lung_squamous_cell_carcinoma
+TRIM13	AKT1	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM13	CD3D	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM13	MDM2	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM13	TRIM13	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM17	IRF3	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRIM17	TRIM17	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRIM17	ZSCAN21	lung_squamous_cell_carcinoma
+TRIM2	BCL2L11	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRIM2	NEFL	lung_squamous_cell_carcinoma
+TRIM21	CDKN1A	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	CDKN1B	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	CDT1	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	GMPS	head_and_neck_squamous_cell_carcinoma
+TRIM21	IFI16	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	IKBKB	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	IRF3	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	IRF7	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	IRF8	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	NUP62	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	PHB	glioblastoma
+TRIM21	RELA	glioblastoma, head_and_neck_squamous_cell_carcinoma
+TRIM21	SHMT2	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	SNAI1	glioblastoma, head_and_neck_squamous_cell_carcinoma
+TRIM21	TRIM21	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM21	TRIM5	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM22	IRF3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM22	NFKB1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM22	TRIM22	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM23	IKBKG	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM23	TP53	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM23	TRAF6	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM23	TRIM23	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM24	TP53	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRIM24	TRAF3	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRIM25	DDX58	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM25	ESR1	glioblastoma
+TRIM25	KEAP1	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM25	MAVS	glioblastoma
+TRIM25	RIPK3	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM25	TRAF2	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM25	TRIM25	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM26	IRF3	glioblastoma
+TRIM26	ZEB1	glioblastoma
+TRIM27	CDKN1A	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM27	PIAS3	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM27	TBK1	head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM27	TEAD4	glioblastoma, head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM28	FBP1	glioblastoma
+TRIM28	GPX1	glioblastoma, endometrial_carcinoma_(uterine)
+TRIM28	IRF7	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma
+TRIM28	PRKAA1	glioblastoma
+TRIM28	TP53	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRIM31	MAP3K7	lung_squamous_cell_carcinoma
+TRIM31	NLRP3	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM31	TIGAR	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM31	TRIM31	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM32	DTNBP1	head_and_neck_squamous_cell_carcinoma
+TRIM32	OTULIN	head_and_neck_squamous_cell_carcinoma
+TRIM32	PIAS4	head_and_neck_squamous_cell_carcinoma
+TRIM32	TBK1	head_and_neck_squamous_cell_carcinoma
+TRIM32	TRAF2	head_and_neck_squamous_cell_carcinoma
+TRIM32	TRIM32	head_and_neck_squamous_cell_carcinoma
+TRIM36	IRF3	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM37	SMAD7	head_and_neck_squamous_cell_carcinoma
+TRIM37	TRAF2	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRIM37	TRIM37	endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRIM38	TRAF6	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM38	TRIM38	glioblastoma, endometrial_carcinoma_(uterine), clear_cell_renal_cell_carcinoma_(kidney)
+TRIM39	TP53	glioblastoma
+TRIM4	DDX58	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM41	BCL10	endometrial_carcinoma_(uterine)
+TRIM41	CGAS	endometrial_carcinoma_(uterine)
+TRIM46	PPARA	lung_squamous_cell_carcinoma
+TRIM47	ILF3	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma
+TRIM47	TP53	glioblastoma, lung_adenocarcinoma
+TRIM5	TRIM5	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM50	TRIM50	glioblastoma
+TRIM52	TRAF2	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM56	VIM	glioblastoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM59	TP53	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM6	BTG2	glioblastoma
+TRIM62	TRIM62	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+TRIM65	ANXA2	glioblastoma
+TRIM65	VCAM1	glioblastoma, lung_adenocarcinoma
+TRIM69	TP53	clear_cell_renal_cell_carcinoma_(kidney)
+TRIM7	BRMS1	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM9	TRIM9	lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+TRIM9	VASP	clear_cell_renal_cell_carcinoma_(kidney)
+TRIP12	CDKN2A	endometrial_carcinoma_(uterine)
+TRIP12	SOX6	endometrial_carcinoma_(uterine)
+TRPC4AP	MYC	glioblastoma
+TRPC4AP	NFKB1	glioblastoma
+TTC3	AKT1	lung_adenocarcinoma
+TTC3	AKT2	lung_squamous_cell_carcinoma
+UBE3C	AXIN1	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma
+UBE3C	UBE3C	glioblastoma, head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+UBE4A	UBE4A	lung_adenocarcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+UBE4B	PTTG1	lung_squamous_cell_carcinoma
+UBE4B	TP53	lung_squamous_cell_carcinoma
+UBL4A	TRAF6	clear_cell_renal_cell_carcinoma_(kidney)
+UBR4	PTPN14	head_and_neck_squamous_cell_carcinoma
+UBR5	AGR2	lung_adenocarcinoma
+UBR5	ATMIN	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+UBR5	SOX2	lung_squamous_cell_carcinoma
+UBR5	TOPBP1	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+UBR5	UBR5	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+UBR7	PRPSAP1	lung_squamous_cell_carcinoma
+UCHL1	CTTN	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+UCHL1	HSPA5	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+UCHL1	SMN1	head_and_neck_squamous_cell_carcinoma
+UHRF1	DNMT1	glioblastoma, endometrial_carcinoma_(uterine), head_and_neck_squamous_cell_carcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+UHRF1	PML	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+UHRF1	TP53	glioblastoma, endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+UHRF2	CCND1	clear_cell_renal_cell_carcinoma_(kidney)
+UHRF2	CCNE1	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+UHRF2	CDKN1A	head_and_neck_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+UHRF2	PCNP	clear_cell_renal_cell_carcinoma_(kidney)
+VHL	CLU	glioblastoma
+VHL	DVL2	lung_squamous_cell_carcinoma
+VHL	FN1	glioblastoma
+VHL	HIF1A	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+VHL	HNRNPD	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+VHL	IREB2	lung_squamous_cell_carcinoma
+VHL	POLR2G	glioblastoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
+VHL	PRKCI	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+VHL	RPTOR	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+VHL	SKP2	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+VHL	TGFBR1	glioblastoma
+WDHD1	MAPRE2	clear_cell_renal_cell_carcinoma_(kidney)
+XIAP	AIFM1	lung_adenocarcinoma
+XIAP	CASP3	lung_adenocarcinoma
+XIAP	CCS	lung_adenocarcinoma
+XIAP	DIABLO	lung_adenocarcinoma
+XIAP	NUP62	lung_adenocarcinoma
+XIAP	PGAM5	lung_adenocarcinoma
+XIAP	RIPK4	lung_adenocarcinoma
+XIAP	TLE3	lung_adenocarcinoma
+XIAP	XIAP	lung_adenocarcinoma
+ZC3HC1	CCNB1	glioblastoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+ZFP91	BECN1	lung_adenocarcinoma, lung_squamous_cell_carcinoma
+ZFP91	HNRNPF	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma, clear_cell_renal_cell_carcinoma_(kidney)
+ZNRF1	AKT1	endometrial_carcinoma_(uterine)
+ZNRF1	EGFR	lung_squamous_cell_carcinoma
+ZNRF1	ZNRF1	endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
+ZNRF2	ZNRF2	head_and_neck_squamous_cell_carcinoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma

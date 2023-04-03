@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-ABFE83513783447-3BBCA6B0D7D6D47D
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:56:38	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2JAVA	specific	ATP binding site	I14,G15,G17,S18,C22,V35,K37,V68,E87,Y88,C89,D93,N146,F148,R164	15	15	270857
+Q#1 - 2JAVA	specific	active site	I14,G15,T16,G17,S18,C22,V35,K37,V68,M86,E87,Y88,C89,D93,A95,D141,K143,A145,N146,F148,D159,L162,R164,G178,T179,P180,Y181	27	27	270857
+Q#1 - 2JAVA	specific	polypeptide substrate binding site	S18,D93,A95,D141,K143,A145,L162,G178,T179,P180,Y181	11	11	270857
+Q#1 - 2JAVA	specific	activation loop (A-loop)	G158,D159,F160,G161,L162,A163,R164,I165,L166,N167,H168,D169,T170,A173,K174,A175,F176,V177,G178,T179,P180,Y181	22	22	270857

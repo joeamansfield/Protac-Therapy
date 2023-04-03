@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-C9DA3E7278A158A-22FCBED63BCC6397
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:39:07	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2RVQC	specific	DNA binding site	R33,R36,R39,K40,R46,K78,R81	7	7	238029
+Q#1 - 2RVQC	specific	homodimerization interface	N42,Y43,S44,E45	4	4	238029
+Q#1 - 2RVQC	specific	acetylation sites	K9,K13	2	2	238029
+Q#1 - 2RVQC	specific	ubiquitination site	K123	1	1	238029
+Q#1 - 2RVQC	specific	H2A-H2B dimerization interface	L55,V58,L59,L62,T63,I66,L67	7	7	238029

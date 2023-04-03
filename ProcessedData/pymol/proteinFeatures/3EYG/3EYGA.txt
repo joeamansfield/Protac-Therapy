@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-321A9A172E50D689-19D5D3491D19AB46
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:05:11	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3EYGA	specific	ATP binding site	L17,G18,E19,G20,G23,K24,V25,A42,K44,M92,E93,F94,L95,S99,R143,N144,L146,G156,D157	19	19	173644
+Q#1 - 3EYGA	specific	active site	L17,G18,E19,G20,G23,K24,V25,A42,K44,M92,E93,F94,L95,S99,D139,R143,N144,L146,G156,D157,D176,R177,D178,S179,P180,L189,V237	27	27	173644
+Q#1 - 3EYGA	specific	polypeptide substrate binding site	D139,R143,D176,R177,D178,S179,P180,L189,V237	9	9	173644
+Q#1 - 3EYGA	specific	activation loop (A-loop)	G156,D157,F158,G159,L160,T161,K162,A163,I164,E165,T166,D167,K168,E169,X170,X171,T172,V173,K174,D175,D176,R177,D178,S179,P180,V181,F182	27	27	173644

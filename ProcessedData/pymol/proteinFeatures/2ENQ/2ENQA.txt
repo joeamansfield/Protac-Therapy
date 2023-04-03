@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-287A62C72DA287F0-B29896624B5CA43
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:48:20	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2ENQA	specific	p110alpha-p85alpha complex	N22,V23,K87,P124,V125,P126,H127,L129,E146	9	9	176043

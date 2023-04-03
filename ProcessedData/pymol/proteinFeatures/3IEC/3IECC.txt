@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2814A99E8EC9472C-1F5413DC90E30A2F
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:44:15	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3IECC	specific	polypeptide substrate binding site	N19,E92,F94,R130,D131,K133,E135,F152,C166,G167,S168,P169,P170,A172	14	14	270974
+Q#1 - 3IECC	specific	active site	I15,G16,K17,G18,N19,V23,A36,K38,V69,M85,E86,Y87,A88,E92,F94,D95,L97,R130,D131,K133,E135,N136,L138,A148,D149,F152,F165,C166,G167,S168,P169,P170,A172,G202,S203,L204,P205,D207	38	38	270974
+Q#1 - 3IECC	specific	ATP binding site	I15,G16,K17,G18,V23,A36,K38,V69,M85,E86,Y87,A88,E92,E135,N136,L138,A148,D149	18	18	270974
+Q#1 - 3IECC	specific	activation loop (A-loop)	A148,D149,F150,G151,F152,S153,N154,E155,F156,T157,F158,G159,N160,K161,L162,D163,T164,F165,C166,G167,S168,P169,P170	23	23	270974

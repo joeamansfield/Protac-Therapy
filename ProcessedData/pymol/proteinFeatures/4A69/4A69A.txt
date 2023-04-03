@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-18F4B1175AEACA27-450C894E77C9A61
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:01:04	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4A69A	specific	active site	H134,H135,G143,F144,D170,H172,D259,L266,G296,Y298	10	10	212529
+Q#1 - 4A69A	specific	Zn binding site	D170,H172,D259	3	3	212529

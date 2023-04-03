@@ -1,0 +1,17 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-D42A2CD22579AD9-2AF97959FE779BC5
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:05:41	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6JTGA	specific	GTP/Mg2+ binding site	D34,S36,A37,G38,K39,T40,S41,R54,G55,T61,D136,K206,D208,L209,V240,T241,G242,K243,G244	20	19	206738
+Q#1 - 6JTGA	specific	homodimer interface	Q35,S36,V140,K153,S178,D180,E182,R183,S184,I185,T187,D188,L209,E211,K212,N213,V214,K243,G244	20	19	206738
+Q#1 - 6JTGA	specific	Switch I region	V65,K66,V67	3	3	206738
+Q#1 - 6JTGA	specific	Switch II region	P138,G139,A169,I170	4	4	206738
+Q#1 - 6JTGA	specific	G1 box	G33,D34,Q35,S36,A37,G38,K39,T40	8	8	206738
+Q#1 - 6JTGA	specific	G2 box	T61	1	1	206738
+Q#1 - 6JTGA	specific	G3 box	D136,L137,P138,G139	4	4	206738
+Q#1 - 6JTGA	specific	G4 box	T205,K206,V207,D208	4	4	206738
+Q#1 - 6JTGA	specific	G5 box	V240,T241,G242	3	3	206738

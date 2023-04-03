@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-26A02D6EFB670420-10291EBBE07A144B
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:57:09	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3QRFM	specific	DNA binding site	R29,Y32,T34,E35,S37,R38,G39,I87,K128,R130,N131,R145,K146,T148,Q179	15	15	143641
+Q#1 - 3QRFM	specific	DNA binding sites	Q209,R273	2	2	238583

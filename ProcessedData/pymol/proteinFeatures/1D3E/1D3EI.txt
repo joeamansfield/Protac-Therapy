@@ -1,0 +1,22 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2818B594C43EDF68-421DE49E7FD476A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:02:39	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1D3EI	generic	Ig strand B	L104-C108	5	5	409413
+Q#1 - 1D3EI	generic	Ig strand C	T120-L124	5	5	409413
+Q#1 - 1D3EI	generic	Ig strand E	V142-V146	5	5	409413
+Q#1 - 1D3EI	generic	Ig strand F	N156-T161	6	6	409413
+Q#1 - 1D3EI	generic	Ig strand G	T176-P179	4	4	409413
+Q#1 - 1D3EI	specific	Ig strand A	T2-S5	4	4	409588
+Q#1 - 1D3EI	specific	Ig strand A'	K8-L11	4	4	409588
+Q#1 - 1D3EI	specific	Ig strand B	S16-S22	7	7	409588
+Q#1 - 1D3EI	specific	Ig strand C	K29-E34	6	6	409588
+Q#1 - 1D3EI	specific	Ig strand C'	P36-L37	2	2	409588
+Q#1 - 1D3EI	specific	Ig strand D	K39-P45	7	7	409588
+Q#1 - 1D3EI	specific	Ig strand E	R49-L54	6	6	409588
+Q#1 - 1D3EI	specific	Ig strand F	D60-N68	9	9	409588
+Q#1 - 1D3EI	specific	Ig strand G	G72-V82	11	11	409588

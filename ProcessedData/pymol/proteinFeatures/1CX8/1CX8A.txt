@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-37D37BAF4A891BC6-19FB7D22FCB5415F
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:04:27	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1CX8A	specific	dimer interface	V256,N258,V259,K261,V271,K273,V276,P278,D279,Y281,S326,I328,W345,G348,Y349,L350,S351,S352,L353,H354,L355,K356	22	22	349946
+Q#1 - 1CX8A	specific	PA/protease-like domain interface	K166,L174,S175,F176,F177,H179,G183,T184,G185,D186,T189,G191,F192,P193	14	14	239043
+Q#1 - 1CX8A	specific	PA/helical domain interface	T184,P190	2	2	239043
+Q#1 - 1CX8A	specific	dimer interface	P193,F195,Q199,F200	4	4	239043
+Q#1 - 1CX8A	specific	Ca2+ binding	T189,F192	2	2	239043

@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2E213C83E6B8E8A3-327D5D790335EE33
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:06:35	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1I7GA	specific	ligand binding site	C94,C95,S99,Y133,F137,L140,M149,V151,M174,H259	10	10	132730
+Q#1 - 1I7GA	specific	coactivator recognition site	T104,T107,K111,F116,L121,N122,Q124,V125,L128,K129	10	10	132730
+Q#1 - 1I7GA	specific	heterodimer interface	K183,G205,P208,E217,F240,K244,Q247,M249,A250,R253,Q254,Q261	12	12	132730

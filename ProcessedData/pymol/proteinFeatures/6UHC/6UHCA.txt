@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-32381EA67795B4B-10C2C7DEC30DA283
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:02:37	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6UHCA	specific	nucleotide binding site	D11,C12,G13,T14,Y16,K18,Q144,D169,S170,G171,D172	12	11	212657

@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3CD93DF017156282-1F817B0066BFBE58
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:52:04	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2NZTB	specific	nucleotide binding site	D518,L519,G520,G521,N523,R525,D643,I663,V664,G665,T666	12	11	212657
+Q#1 - 2NZTB	specific	nucleotide binding site	D70,L71,G72,G73,N75,R77,D195,I215,V216,G217,T218	12	11	212657

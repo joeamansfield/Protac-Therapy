@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1C0D0482B031EBA-3F178509BA18A517
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:46:16	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 7P54A	specific	putative pore region	R368,H371	2	2	143653

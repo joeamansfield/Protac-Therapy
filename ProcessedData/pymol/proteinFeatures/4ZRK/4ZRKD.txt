@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2AB74748D50EEA86-35849AE6B893271
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:43:51	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4ZRKD	specific	phosphoinositide binding site	K298,Q302	2	2	270015
+Q#1 - 4ZRKD	specific	peptide binding site	W262,I265,R266,N267,I268,S269,Y270,S271,D272,L280,L301,C304,I305,H308	14	14	270015
+Q#1 - 4ZRKD	specific	actin binding site 2	L301,Q302,L303,C304,I305,G306,N307,H308,D309,L310,F311,M312,R313,R314,R315,K316	16	16	270015
+Q#1 - 4ZRKD	specific	homodimer interface	W262,N263,I265,R266,N267,I268,S269,Y270,S271,L280,L301,C304,I305,H308	14	14	270015
+Q#1 - 4ZRKD	specific	homodimer interface	D34,A35,E36,M37,E38,F39,E42,W45,K48,D49,D52,R56,T57,L58,G59,L60,R61,T63,W64	19	19	340706

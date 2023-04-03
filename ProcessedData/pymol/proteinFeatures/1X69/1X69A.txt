@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-37198F23386B03DD-68275771C884C57
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:36:23	Run time	0:00:00:02
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1X69A	specific	peptide ligand binding site	Y24,Y26,A29,D32,E33,G51,W52,L63,P65,N67,Y68	11	11	212892

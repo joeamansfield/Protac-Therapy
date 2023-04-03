@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-20DDE0FD2C75DA9A-2C04B14FF4B13915
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:03:59	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1LM8B	specific	elongin C interaction site	F4,M6,R8,K11,T12,T13,I14,F15,T16,D17,I34,R43,Y45,D47,D48,Q49,E59,G61,T66,R68,P69,Q70,A71,P72,A73,T74,R80,F85,E86,L88,E91,P92,F93,S94,S95,P96,P97,E98,L99	39	39	340486
+Q#1 - 1LM8B	specific	oligomer interface	F4,M6,R8,K11,T12,T13,I14,F15,T16,D17,I34,R43,Y45,D47,D48,Q49,E59,G61,T66,R68,P69,Q70,A71,P72,A73,T74,R80,F85,E86,L88,E91,P92,F93,S94,S95,P96,P97,E98,L99	39	39	340486
+Q#1 - 1LM8B	specific	key conserved lysine K27	K28	1	1	340486
+Q#1 - 1LM8B	specific	key conserved lysines	R8,K28	2	2	340486

@@ -1,0 +1,14 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1DF3F18308A62C94-208676642253B5C7
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:24:32	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 10GSA	specific	dimer interface	Q83,A87,D90,M91,D94,D98,P128	7	7	198319
+Q#1 - 10GSA	specific	substrate binding pocket (H-site)	E97,R100,C101,I104,S105,Y108,L158,I161,N204,G205	10	10	198319
+Q#1 - 10GSA	specific	N-terminal domain interface	D90,N93,D94,E97,Y153,D157,R186,K188,L189,F192,Y198,L201,P202,I203	14	14	198319
+Q#1 - 10GSA	specific	GSH binding site (G-site)	Y7,R13,W38,K44,Q51,L52,Q64,S65	8	8	239374
+Q#1 - 10GSA	specific	dimer interface	L48,Y49,Y63,Q64,T67,R70,R74	7	7	239374
+Q#1 - 10GSA	specific	C-terminal domain interface	V10,R11,G12,A15,D23,Q24,N66,L69,R70	9	9	239374

@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2713E159DB6F7403-140E86114825019
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:28:00	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3S95B	specific	active site	L18,G19,K20,G21,C22,A26,V39,K41,E57,L70,T86,E87,Y88,I89,G92,T93,R95,D133,N135,H137,N138,L140,D151,L154,G184,N185,P186,Y187	28	28	271123
+Q#1 - 3S95B	specific	ATP binding site	L18,G19,K20,G21,C22,A26,V39,K41,E57,L70,T86,E87,Y88,I89,G92,T93,D133,N135,H137,N138,L140,D151	22	22	271123
+Q#1 - 3S95B	specific	polypeptide substrate binding site	C22,T93,R95,D133,N135,H137,L154,G184,N185,P186,Y187	11	11	271123
+Q#1 - 3S95B	specific	activation loop (A-loop)	A150,D151,F152,G153,L154,A155,R156,L157,M158,V159,D160,E161,K162,S170,L171,K172,K173,P174,D175,R176,K177,K178,R179,Y180,T181,V182,V183,G184,N185,P186,Y187	31	31	271123

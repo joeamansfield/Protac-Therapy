@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-16B70CDFDAFB291B-34C6B36AED295CAD
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:19:30	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3C0YC	specific	active site	P62,D146,H189,H190,G198,F199,D227,H229,F258,D321,P329,L330,G361	13	13	212532
+Q#1 - 3C0YC	specific	Zn binding site 1	D227,H229,D321	3	3	212532
+Q#1 - 3C0YC	specific	Zn binding site 2	C53,C55,H61,C138	4	4	212532

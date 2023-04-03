@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-37095DFCAB981EAD-984993997244FF7
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:51:22	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1BHFA	specific	phosphotyrosine binding pocket	R16,R36,S38,E39,S40,S46,H62,Y63,K64	9	9	198225
+Q#1 - 1BHFA	specific	hydrophobic binding pocket	Y63,I75,S76,R78,Y91,D96,G97,L98	8	8	198225
+Q#1 - 1BHFA	specific	autoinhibitory site	R16,R36,S38,E39,S40,T41,S46,H62,K64,G97	10	10	198225

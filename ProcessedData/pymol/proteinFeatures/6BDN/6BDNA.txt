@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-39CA7DEE65B32167-364D9E919F38ECE3
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:07:16	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6BDNA	specific	active site	I34,G35,H36,G37,S38,V42,A55,K57,I89,M105,E106,Y107,C108,G110,S111,D114,D151,K153,A154,G155,N156,L158,A168,D169,S172,F182,V183,G184,T185,Y187,E217,F226	32	32	270803
+Q#1 - 6BDNA	specific	ATP binding site	I34,G35,H36,G37,S38,V42,A55,K57,I89,M105,E106,Y107,C108,G110,S111,D114,G155,N156,L158,D169,K314	21	21	270803
+Q#1 - 6BDNA	specific	polypeptide substrate binding site	G37,S38,D151,K153,A154,G155,S172,F182,V183,G184,T185,Y187,E217,F226	14	14	270803
+Q#1 - 6BDNA	specific	activation loop (A-loop)	A168,D169,F170,G171,S172,A173,S174,M175,A176,S177,P178,A179,N180,S181,F182,V183,G184,T185,P186,Y187	20	20	270803

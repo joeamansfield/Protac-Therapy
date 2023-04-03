@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-22DBBAA9430B8918-3B3A978E10E9D987
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:30:53	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1AAPA	specific	serine protease binding site	T11,G12,P13,C14,R15,A16,M17,I18,S19,F34,G36,C38	12	12	438650

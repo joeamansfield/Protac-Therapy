@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-776EE92B654BF63-28ECCDF5F8F5915C
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:50:56	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2F8AA	specific	catalytic residues	G59,Q94,W172	3	3	238207
+Q#1 - 2F8AA	specific	dimer interface	H93,N96,K98,E101,N104,Y108	6	6	238207

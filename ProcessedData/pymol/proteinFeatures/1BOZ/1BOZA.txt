@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3A2B4DAE0F4C0356-935A60D56002F73
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:01:38	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1BOZA	specific	folate binding site	I7,W24,E30,R70,V115,Y121,T136	7	7	238127
+Q#1 - 1BOZA	specific	NADP+ binding site	A9,I16,K54,K55,T56,R77,G116,G117,S118,S119	10	10	238127

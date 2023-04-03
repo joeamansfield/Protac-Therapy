@@ -1,0 +1,15 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3614965C1322E5D6-33F518C94143E36A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:33:35	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5HQGA	generic	structural tetrad	I69,T73,Y79,E80,I91,H92,A118,E123,W129,D130,E142,H143,A161,D166,W172,S173,K186,A203,D208,Y214,D215,G228,H229,S246,D250,W256,N257,G269,H270,A287,N292,Y298,Y299,D326,T327,A349,Q353	40	37	238121
+Q#1 - 5HQGA	specific	WD40 repeat	S56-T99	24	44	-
+Q#1 - 5HQGA	specific	WD40 repeat	I104-Q141	25	38	-
+Q#1 - 5HQGA	specific	WD40 repeat	W148-E184	25	37	-
+Q#1 - 5HQGA	specific	WD40 repeat	V189-K227	26	39	-
+Q#1 - 5HQGA	specific	WD40 repeat	V233-N272	24	40	-
+Q#1 - 5HQGA	specific	WD40 repeat	F276-Y298	16	23	-

@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2410DDFB16596BE2-123198C95BD51446
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:51:10	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2EL8A	specific	phosphotyrosine binding pocket	R30,R49,S59,K76	4	4	198267
+Q#1 - 2EL8A	specific	hydrophobic binding pocket	Q64,H66,Y75,I86,V88,Y103,F104,H107,L112	9	9	198267

@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-28C847E2F6B76EFB-283981D849B54543
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:14:05	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1YWTB	specific	dimer interface	S5,K9,L12,A13,Q15,R18,F25,A58,V61,I65,E80,V81,E83,Y84,K87,V88,E91	17	17	206756
+Q#1 - 1YWTB	specific	peptide binding site	K49,N50,R56,K122,R129,Y130,L174,N175,V178,E182,N226,W230	12	12	206756
+Q#1 - 1YWTB	specific	putative phospho-independent ligand binding site	M202,D204,H206	3	3	206756

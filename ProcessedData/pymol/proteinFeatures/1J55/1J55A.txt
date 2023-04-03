@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2C4AB3DA9F23410B-9C035F96A9B0EC6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:24:31	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1J55A	specific	Ca2+ binding site	S19,S24,T27,E32,L33,D62,N64,D66,Q68,D70,E73	11	11	238131
+Q#1 - 1J55A	specific	dimerization interface	T2,E3,L4,E5,T6,A7,M8,G9,M10,I11,I12,D13,V14,F15,S16,R17,Y18,S19,T25,Q26,T27,L36,M37,K39,E40,L41,V69,D70,F71,S72,F74,I75,F77,V78,A79,A80,T82,S83,A84,C85,H86,K87,Y88,F89	44	44	238131

@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-34687F10AB493DBC-37F93D792630B412
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:28:04	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2A4DA	generic	active site cysteine 	A117	1	1	238117
+Q#1 - 2A4DA	generic	Ub thioester intermediate interaction residues	K100,I101,V106,N107,S109,V113,A117,I118,V120,L121,W124,Q125,Y128,V133,E136,R139,M142,S143,E145	21	19	238117
+Q#1 - 2A4DA	generic	E3 interaction residues	P89,E90,N126,S127	5	4	238117

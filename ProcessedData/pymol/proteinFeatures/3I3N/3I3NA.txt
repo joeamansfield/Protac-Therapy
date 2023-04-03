@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3DF561A1294A71C3-3CCECA82E00328A9
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:38:42	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3I3NA	specific	homodimer interface	F10,E11,C12,H15,C16,S17,E18,L19,S20,R22,Q23,Q26,L31,F32,H50,R51,S52,V53,A55,A56,A57,Y99,X100,Y101,T102,G103,R104,I105,R106,V107,S108,T109,R126,F130,F134,K137,K138	37	37	349550
+Q#1 - 3I3NA	specific	cullin binding site	E59,Y60,P63,L64,Q68,F69,S70,E71,E78,X79,R80,K81,T109,V112,H113,D120,R121,L123,L135,N143	20	20	349550

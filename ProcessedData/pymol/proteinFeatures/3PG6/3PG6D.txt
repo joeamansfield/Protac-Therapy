@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-B40FC21AACC8482-18E8D77ADA3A3B96
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:56:47	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3PG6D	specific	putative dimer interface	V35,F36,T37,V38,S39,D41,V53,T55,S57,M58,K59,Q78,R79,T80,Y82,V116,T129,S130,Y138	19	19	193607

@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-37B3D64217F10CB0-13B03679ADA5587
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:06:14	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2OB4A	specific	active site cysteine 	C89	1	1	238117
+Q#1 - 2OB4A	specific	Ub thioester intermediate interaction residues	K76,M77,N81,I82,E84,V88,C89,I90,I92,L93,W110,N111,Q114,I119,S122,S125,N128,E129,N131,F133,S134	21	21	238117
+Q#1 - 2OB4A	specific	E3 interaction residues	K7,P65,Y66,P112,T113	5	5	238117

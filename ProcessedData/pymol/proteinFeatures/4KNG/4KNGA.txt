@@ -1,0 +1,22 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-95B3A13D3815CB6-220012E698F5512F
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:13:21	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4KNGA	specific	leucine-rich repeat	T39-F62	21	24	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L63-S86	22	24	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L87-S110	21	24	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L111-S134	17	24	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L135-A158	18	24	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L159-S182	21	24	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L183-S206	18	24	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L207-N229	21	23	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L230-S253	22	24	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L254-L275	19	22	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L278-N324	17	47	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L325-K346	18	22	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L347-I360	14	14	-
+Q#1 - 4KNGA	specific	leucine-rich repeat	L371-S394	17	24	-

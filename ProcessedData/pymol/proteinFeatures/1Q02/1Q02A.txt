@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-353E14D54106A7C3-3EC998BAF5CBA3A0
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:56:27	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1Q02A	specific	polypeptide substrate binding site	M20,G21,F22,E25,G26,G27,W28,R31,L32,T35,T46,I47,Q48	13	13	270505

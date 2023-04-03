@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-249D08AB1BD99CFD-505A52028BF0B39
+#datatype	feats
+#status	0
+#Start time	2023-04-01T19:16:36	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2WGHA	specific	active site	S129,P130,S144,C145,G174,N354,C356,E358,L373,M529,P530,T531,A532,S533,T534	15	15	153088
+Q#1 - 2WGHA	specific	catalytic residues	C145,N354,C356,E358,C371,Y664,Y665	7	7	153088
+Q#1 - 2WGHA	specific	effector binding site	D153,S154,I155,I158,K170,R183,N197,M202	8	8	153088
+Q#1 - 2WGHA	specific	R2 peptide binding site	D263,M266,K267,V269,E270,Q314,Y318,T325,N643,Y644,G645,L647,T648,F652,Y653,W655,K656	17	17	153088
+Q#1 - 2WGHA	specific	dimer interface	Q141,I155,E156,Y159,L162,K163,A166,L167,K170,T185,N197,P201,M202,R204,V205,N208,T209,Y212,V213,D214,Q215,G216	22	22	153088

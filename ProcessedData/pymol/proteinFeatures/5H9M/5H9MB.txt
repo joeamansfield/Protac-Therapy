@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-362FD6F8EC35830B-3C290EFBEB2683B
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:17:55	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5H9MB	specific	substrate binding site	D73,I74,V75,L77,T79,D88,W89	7	7	239753
+Q#1 - 5H9MB	specific	dimer interface	E130,R142,R143,R144,L145,T146,W147,E148,T150,S165,D166,A173,L177	13	13	239753

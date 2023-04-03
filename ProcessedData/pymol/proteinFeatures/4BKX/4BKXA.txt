@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3D1BADC65BBD772A-33D112F159B0FDBB
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:23:09	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4BKXA	specific	putative DNA binding site	W129,K159,S160,T162,S163,I165,E166,Y167,Y169,M170,W171	11	11	212559

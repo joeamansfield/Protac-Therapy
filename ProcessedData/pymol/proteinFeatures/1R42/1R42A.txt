@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-E8819F7764627B2-B7B3FC31000F88D
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:43:31	Run time	0:00:00:02
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1R42A	specific	Zn binding site	H374,H378,E402	3	3	341055
+Q#1 - 1R42A	specific	active site	H345,P346,T347,A348,D368,H374,E375,H378,D382,H401,E402,E406,T449,L503,F504,H505,Y510,F512,Y515	19	19	341055

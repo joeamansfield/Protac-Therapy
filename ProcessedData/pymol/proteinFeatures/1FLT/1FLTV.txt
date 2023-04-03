@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1F5337B0D34E8A71-2F271B5F89D73A11
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:36:56	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1FLTV	specific	cysteine knot motif	C15,C46,C50,C57,C91,C93	6	6	238079
+Q#1 - 1FLTV	specific	receptor binding interface	S13,Y14,C15,H16,C50,D52,E53,G54,L55,M70,R71,I72,K73	13	13	238079
+Q#1 - 1FLTV	specific	dimerization interface	C40,C49	2	2	238079

@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2C5D4676D7E003A-26421D943E549F4A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:46:04	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2G62A	specific	peptide binding pocket	V211,W212,N275,Q276,N279,I280,V283,G292,L293,E303,K304,F305,P306	13	13	239754
+Q#1 - 2G62A	specific	peptide-induced dimer interface	V96,N104,R150,R202,M203,P205,S208,Q209,V211,F217,M265,T267,G268,E272,Q309	15	15	239754
+Q#1 - 2G62A	specific	ATP binding site	R150,D152,G154,T155,G156,H157,A206,G207,S208,P306,V307,Q309,H310	13	13	239754
+Q#1 - 2G62A	specific	putative PP2A binding surface	V211,E272,V283,G292,M296,K304	6	6	239754
+Q#1 - 2G62A	specific	putative interaction site	R150,D152,G154,T155,G156,H157,P205,A206,D215,D216,F217,F219,I280,V283,V289,L293,M296,E300,K304,P306,V307,Q309,H310	23	23	239754

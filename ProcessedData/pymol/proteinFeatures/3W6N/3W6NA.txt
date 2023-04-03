@@ -1,0 +1,17 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-E272A5B9F261D72-3C86B91D8F4AF50A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:42:30	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3W6NA	specific	GTP/Mg2+ binding site	T35,S37,S38,G39,K40,S41,S42,R55,G56,T61,D148,K218,D220,L221,V247,N248,R249,S250,Q251,I254	20	20	206738
+Q#1 - 3W6NA	specific	homodimer interface	Q36,S37,M152,E165,N190,D192,A194,T195,S196,E197,L199,K200,L221,D223,A224,G225,T226,S250,Q251,L252	20	20	206738
+Q#1 - 3W6NA	specific	Switch I region	L65,I66,L67	3	3	206738
+Q#1 - 3W6NA	specific	Switch II region	P150,G151,S181,I182	4	4	206738
+Q#1 - 3W6NA	specific	G1 box	G34,T35,Q36,S37,S38,G39,K40,S41	8	8	206738
+Q#1 - 3W6NA	specific	G2 box	T61	1	1	206738
+Q#1 - 3W6NA	specific	G3 box	D148,L149,P150,G151	4	4	206738
+Q#1 - 3W6NA	specific	G4 box	T217,K218,L219,D220	4	4	206738
+Q#1 - 3W6NA	specific	G5 box	V247,N248,R249	3	3	206738

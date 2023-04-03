@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1AC27A1B5EF379A5-B7A99D32D7EDBC0
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:01:29	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6CQDB	specific	active site	L24,G25,G26,G27,T28,V32,A45,K47,V76,M92,E93,F94,C95,G98,S99,D102,D138,K140,G141,A142,N143,L145,A155,D156,I159,F173,I174,G175,T176,Y178,E208,F217	32	32	270788
+Q#1 - 6CQDB	specific	ATP binding site	L24,G25,G26,G27,T28,V32,A45,K47,V76,M92,E93,F94,C95,G98,S99,D102,A142,N143,L145,D156	20	20	270788
+Q#1 - 6CQDB	specific	polypeptide substrate binding site	G27,T28,D138,K140,G141,A142,I159,F173,I174,G175,T176,Y178,E208,F217	14	14	270788
+Q#1 - 6CQDB	specific	activation loop (A-loop)	A155,D156,F157,G158,I159,S160,A161,Q162,I163,G164,A165,E166,R169,R170,L171,E172,F173,I174,G175,T176,P177,Y178	22	22	270788

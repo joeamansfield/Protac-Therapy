@@ -1,0 +1,20 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-31F9652B3312F59A-B8E61B5A33450DD
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:31:51	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5H07A	specific	E1 interaction site	L84,T85,G86,K87,T88,Q107,D108,K109,E110,G111,Q116,R118,I120,A122,G123,K124,Q125,H144,V146,L147,R148,L149,R150,G151,G152	25	25	340501
+Q#1 - 5H07A	specific	oligomer interface	K82,T83,L84,T85,K87,E110,G111,I112,P113,Q116,R118,I120,A122,G123,K124,Q125,H144,L145,V146,L147,R148,L149,R150,G151,G152	25	25	340501
+Q#1 - 5H07A	specific	key conserved lysine K27	K103	1	1	340501
+Q#1 - 5H07A	specific	key conserved lysines	K82,K87,K103,K105,K109,K124,K139	7	7	340501
+Q#1 - 5H07A	specific	E1 interaction site	L8,T9,G10,K11,T12,Q31,D32,K33,E34,G35,Q40,R42,I44,A46,G47,K48,Q49,H68,V70,L71,R72,L73,R74,G75,G76	25	25	340501
+Q#1 - 5H07A	specific	oligomer interface	K6,T7,L8,T9,K11,E34,G35,I36,P37,Q40,R42,I44,A46,G47,K48,Q49,H68,L69,V70,L71,R72,L73,R74,G75,G76	25	25	340501
+Q#1 - 5H07A	specific	key conserved lysine K27	K27	1	1	340501
+Q#1 - 5H07A	specific	key conserved lysines	K6,K11,K27,K29,K33,K48,K63	7	7	340501
+Q#1 - 5H07A	specific	E1 interaction site	L160,T161,G162,K163,T164,Q183,D184,K185,E186,G187,Q192,R194,I196,A198,G199,K200,Q201,H220,V222,L223,R224,L225,R226,G227,G228	25	25	340501
+Q#1 - 5H07A	specific	oligomer interface	K158,T159,L160,T161,K163,E186,G187,I188,P189,Q192,R194,I196,A198,G199,K200,Q201,H220,L221,V222,L223,R224,L225,R226,G227,G228	25	25	340501
+Q#1 - 5H07A	specific	key conserved lysine K27	K179	1	1	340501
+Q#1 - 5H07A	specific	key conserved lysines	K158,K163,K179,K181,K185,K200,K215	7	7	340501

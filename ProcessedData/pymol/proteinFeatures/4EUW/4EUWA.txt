@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-32542CCD170C7C36-168706C82D6F5725
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:18:45	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4EUWA	specific	DNA binding site	H29,V30,K31,R32,M34,N35,F37,M38,Q42,R45,H56,N57,A58,S61,G65,W68,R87,Y97,Y99	19	19	438840

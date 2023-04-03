@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-204098F4B45A7B62-9875125BFA17D3A
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:24:49	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1OL5A	specific	ATP binding site	L18,G19,K20,G21,K22,V26,A39,K41,L73,E90,A92,T96,E139,N140,L142,D153	16	16	271018
+Q#1 - 1OL5A	specific	TPX2 binding site	Q6,W7,D11,E31,Q33,S34,F36,L38,K45,E49,E54,L57,R58,V61,E62,I63,S65,H66,L67,R68,Y76,G77,Y78,H80,V85,Y125,K129,V131,H159,P161	30	30	271018
+Q#1 - 1OL5A	specific	active site	L18,G19,K20,G21,K22,V26,A39,K41,L73,L89,E90,Y91,A92,T96,Y98,D135,K137,E139,N140,L142,D153,W156,G170,T171,L172,D173	26	26	271018
+Q#1 - 1OL5A	specific	polypeptide substrate binding site	K22,T96,Y98,D135,K137,E139,W156,G170,T171,L172,D173	11	11	271018
+Q#1 - 1OL5A	specific	activation loop (A-loop)	A152,D153,F154,G155,W156,S157,V158,H159,A160,P161,S162,S163,R164,R165,X166,X167,L168,C169,G170,T171,L172,D173	22	22	271018

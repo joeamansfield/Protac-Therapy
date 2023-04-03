@@ -1,0 +1,22 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-A1E085E897E5DAD-1AA69B4BFEA9E89D
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:28:41	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2IWGD	specific	receptor binding site	E146,S190,L196,H197,H199,Y200,Q202	7	7	409425
+Q#1 - 2IWGD	specific	dimer interface	L115,T130,K134,Y171,T175	5	5	409425
+Q#1 - 2IWGD	specific	Ig strand A	P110-P116	7	7	409425
+Q#1 - 2IWGD	specific	Ig strand B	V127-G135	9	9	409425
+Q#1 - 2IWGD	specific	Ig strand C	D140-E146	7	7	409425
+Q#1 - 2IWGD	specific	Ig strand D	Y155-V161	7	7	409425
+Q#1 - 2IWGD	specific	Ig strand E	F168-V176	9	9	409425
+Q#1 - 2IWGD	specific	Ig strand F	V186-H193	8	8	409425
+Q#1 - 2IWGD	specific	Ig strand G	H199-S206	8	8	409425
+Q#1 - 2IWGD	generic	Ig strand B	P21-C25	5	5	409493
+Q#1 - 2IWGD	generic	Ig strand C	K38-Y42	5	5	409493
+Q#1 - 2IWGD	generic	Ig strand E	S68-V72	5	5	409493
+Q#1 - 2IWGD	generic	Ig strand F	E82-V87	6	6	409493
+Q#1 - 2IWGD	generic	Ig strand G	E97-I100	4	4	409493

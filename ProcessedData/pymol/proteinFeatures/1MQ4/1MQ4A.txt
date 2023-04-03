@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3CC0E6D949374C0D-EA64DCD7B0D77B0
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:37:02	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1MQ4A	specific	ATP binding site	L20,G21,K22,G23,K24,V28,A41,K43,L75,E92,A94,T98,E141,N142,L144,D155	16	16	271018
+Q#1 - 1MQ4A	specific	TPX2 binding site	Q8,W9,D13,E33,Q35,S36,F38,L40,K47,E51,E56,L59,R60,V63,E64,I65,S67,H68,L69,R70,Y78,G79,Y80,H82,V87,Y127,K131,V133,H161,P163	30	30	271018
+Q#1 - 1MQ4A	specific	active site	L20,G21,K22,G23,K24,V28,A41,K43,L75,L91,E92,Y93,A94,T98,Y100,D137,K139,E141,N142,L144,D155,W158,G172,T173,L174,D175	26	26	271018
+Q#1 - 1MQ4A	specific	polypeptide substrate binding site	K24,T98,Y100,D137,K139,E141,W158,G172,T173,L174,D175	11	11	271018
+Q#1 - 1MQ4A	specific	activation loop (A-loop)	A154,D155,F156,G157,W158,S159,V160,H161,A162,P163,S164,S165,R166,R167,T168,T169,L170,C171,G172,T173,L174,D175	22	22	271018

@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-6936E5997C37EDD-1EDF8B0B06DB3453
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:09:10	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4ZTDC	specific	trimer interface	K76,K79,C80,A81,V110,S111,D112,Y113,E114,M115,K116,E142,R145,I146,R148,D149,G172,G175,N176,N178,I179,K180,L181,S182	24	24	238322
+Q#1 - 4ZTDC	specific	putative DNA binding site	K12,K13,K19,K76,K79,R145,R148,R209,K216	9	9	238322
+Q#1 - 4ZTDC	specific	PCNA/WAF1-CIP1 protein binding site	C26,D28,M39,A66,G68,M118,D119,L120,D121,A251,P252,K253	13	12	238322
+Q#1 - 4ZTDC	specific	PCNA/RFCL protein interaction site	A207,A251,P252,K253	4	4	238322
+Q#1 - 4ZTDC	specific	PCNA/FEN-1 protein interaction site	M39,L46,Y249	3	3	238322

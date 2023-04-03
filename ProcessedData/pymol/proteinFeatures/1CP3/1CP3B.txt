@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3313D77516797A18-389C86C9472DE1C8
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:37:11	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1CP3B	specific	active site	H121,C163	2	2	237997
+Q#1 - 1CP3B	specific	substrate pocket	R64,G122,Q161,L168,Y204,S205,W206,R207,N208,S209,S213,W214	12	12	237997
+Q#1 - 1CP3B	specific	proteolytic cleavage site	C170,P188	2	2	237997
+Q#1 - 1CP3B	specific	dimer interface	D169,V189,D190,Y197,A200,Y203,Y226,H234,N240,K260,I265,V266,M268,K271,E272	15	15	237997

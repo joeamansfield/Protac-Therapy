@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2694427C41EF3B5B-104C1AF6ECA4834
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:57:52	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6MBWB	specific	dimer interface	Q214,N230,V231,H232,M233,N234,P235,Q237,N267,N268,V271,R286,N287,K291,S318,N322,E323	17	17	341087
+Q#1 - 6MBWB	generic	phosphotyrosine binding pocket	K469,R487,N511,M513	4	4	198283
+Q#1 - 6MBWB	generic	hydrophobic binding pocket	L512,R528	2	2	198283
+Q#1 - 6MBWB	specific	coiled-coil motif	L11,Q12,I13,N14,Q15,T16,F17,E18,E19,L20,R21,L22,V23,T24,Q25,D26,T27,E28,N29,E30,L31,K32,K33,L34,Y94,R95,V96,E97,L98,A99,E100,K101,H102,Q103,K104,T105,L106,Q107,L108,L109,R110,K111,Q112,Q113,T114,I115,I116,L117,D118,D119,E120,L144,Q145,S146,W147,C148,E149,K150,L151,A152,E153,I154,I155,W156,Q157,N158,R159,Q160,Q161,I162,R163,R164,A165	73	73	341080
+Q#1 - 6MBWB	specific	dimer interface	Q36,E39,I43,Q46,R50,W156,Q160,H167	8	8	341080

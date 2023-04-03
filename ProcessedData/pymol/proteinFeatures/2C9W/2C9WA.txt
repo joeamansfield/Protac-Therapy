@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2D2B9A2E1C9229D4-2E55F6538A96C281
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:05:19	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2C9WA	specific	phosphotyrosine binding pocket	V26,R44,S46,T54,R67	5	5	198246
+Q#1 - 2C9WA	specific	hydrophobic binding pocket	L77,S79,Y100	3	3	198246
+Q#1 - 2C9WA	specific	elongin B/C interaction	S130,A131,P132,S133,L134,Q135,T141,T146,L152,R157	10	10	239705

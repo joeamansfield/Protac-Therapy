@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2E275C48E6F68913-39E0EC691FF81CED
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:02:35	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6XTX2	specific	ATP binding site	I485,G526,T527,A528,K529,S530,Q531,E588,R656,L675,V764,R765	12	12	350659
+Q#1 - 6XTX2	specific	oligomer interface	K505,K510,H511,D524,P525,G526,R542,A558,H563,P564,V565,E568,W569,T570,L571,E572,V577,L578,T598,H601,E602,E605,Q606,I609,S610,I611,S612,K613,A614,G615,I616,V617,T618,L620,Q621,G634,G635,R636,T666,V667,P669,D672,E673,L675,A676,V679,V680,S682,H683,V684,R685,H686,L735,Q737,A744,Y747,R751,K752,I760,T763,V764,E768,I771	63	63	350659
+Q#1 - 6XTX2	specific	nucleic acid binding site	V554,Y559,Q561,K613,A614	5	5	350659

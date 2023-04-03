@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-20398B4EBBA86AA2-24DBF6450B88668F
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:27:02	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1B47C	specific	phosphotyrosine binding pocket	Y228,R248,S250,C251,T252,R253,A258,Q270,I272	9	9	198176
+Q#1 - 1B47C	specific	hydrophobic binding pocket	P273,H274,N275,K276,G289,F290,Y291	7	7	198176

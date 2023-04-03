@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2763405C3E10C0E3-199B23B84CEC99FB
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:17:39	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2B1WA	specific	homodimer interface	N15,L18,L19,H22,I23,R24,N25,Q27,C28,L29,D31,K35,L76,L79,Q80,L82,A83,D84,A85,Y86,V87,D88,L89,R90,W92,L93	26	26	260035

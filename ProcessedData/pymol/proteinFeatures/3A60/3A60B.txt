@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3F7355957ADD2FD1-203089B682053DC3
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:00:41	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3A60B	specific	active site	L25,G26,K27,G28,G29,V33,A49,K51,V84,L100,E101,L103,E107,F109,D146,K148,E150,N151,M153,T163,D164,L167,F181,C182,G183,T184,I185,E186,D213,P219,T222	31	31	270736
+Q#1 - 3A60B	specific	ATP binding site	L25,G26,K27,G28,G29,V33,A49,K51,V84,E101,Y102,L103,E107,D146,K148,E150,N151,M153,T163,D164	20	20	270736
+Q#1 - 3A60B	specific	polypeptide substrate binding site	G29,E107,F109,D146,K148,E150,L167,F181,C182,G183,T184,I185,E186,D213,P219,T222	16	16	270736
+Q#1 - 3A60B	specific	activation loop (A-loop)	T163,D164,F165,G166,L167,C168,K169,E170,S171,I172,H173,D174,G175,T176,V177,T178,H179,T180,F181,C182,G183,T184,I185,E186	24	24	270736
+Q#1 - 3A60B	specific	turn motif phosphorylation site	S322	1	1	270736

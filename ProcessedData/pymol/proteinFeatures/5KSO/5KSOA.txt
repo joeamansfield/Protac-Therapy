@@ -1,0 +1,16 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3F09CB320D5ADFEB-13BB780252773E6B
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:57:36	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5KSOA	specific	GTP/Mg2+ binding site	N18,C19,G20,K21,S22,G23,H64,D65,S67,K118,D120,C149,N150	13	13	206679
+Q#1 - 5KSOA	specific	Switch I region	I39,R40,E41,D42,H43,K44,S45,Y46,Y47	9	9	206679
+Q#1 - 5KSOA	specific	Switch II region	I66,S67,E68,S69,E70,F71,L72,T73,E74,A75,E76,I77,C79,D80,V81	15	15	206679
+Q#1 - 5KSOA	specific	G1 box	G15,V16,K17,N18,C19,G20,K21,S22	8	8	206679
+Q#1 - 5KSOA	specific	G2 box	R40	1	1	206679
+Q#1 - 5KSOA	specific	G3 box	H64,D65,I66,S67	4	4	206679
+Q#1 - 5KSOA	specific	G4 box	A117,K118,S119,D120	4	4	206679
+Q#1 - 5KSOA	specific	G5 box	T148,C149,N150	3	3	206679

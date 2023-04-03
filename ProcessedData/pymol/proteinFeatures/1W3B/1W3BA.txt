@@ -1,0 +1,21 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-209238D4E4210717-2C6F5294D362CB1F
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:00:26	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 1W3BA	specific	putative protein binding surface	D272-Q351	19	80	-
+Q#1 - 1W3BA	specific	TPR repeat	P271-R299	27	29	-
+Q#1 - 1W3BA	specific	TPR repeat	H304-V334	30	31	-
+Q#1 - 1W3BA	specific	TPR repeat	A339-R367	28	29	-
+Q#1 - 1W3BA	specific	TPR repeat	A237-E265	27	29	-
+Q#1 - 1W3BA	specific	TPR repeat	D204-S231	27	28	-
+Q#1 - 1W3BA	specific	putative protein binding surface	E68-A147	19	80	-
+Q#1 - 1W3BA	specific	TPR repeat	A67-R95	27	29	-
+Q#1 - 1W3BA	specific	TPR repeat	F100-Y130	30	31	-
+Q#1 - 1W3BA	specific	TPR repeat	Y135-E163	28	29	-
+Q#1 - 1W3BA	specific	TPR repeat	A169-T197	27	29	-
+Q#1 - 1W3BA	specific	TPR repeat	V35-K61	27	27	-
+Q#1 - 1W3BA	specific	TPR repeat	E4-R27	27	24	-

@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2B6B4D5FAD1D936A-3EF09F0D401BED69
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:34:31	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3CEGB	specific	active site cysteine 	C169	1	1	238117
+Q#1 - 3CEGB	specific	Ub thioester intermediate interaction residues	T151,R157,N161,L162,N164,V168,C169,L170,I172,L173,W184,N185,T188,V194,S197,S200,L203,E206,Y208,N210,E211	21	21	238117
+Q#1 - 3CEGB	specific	E3 interaction residues	P140,S141,P186,Q187	5	4	238117

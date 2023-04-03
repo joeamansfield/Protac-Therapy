@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-20734A423876D5D8-32B3578630EA61F6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:32:38	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 4JSNB	specific	ATP binding site	I788,S790,K791,Q792,P794,L810,K812,E815,Y850,I862,G863,W864,V865,T870,N968,M970,I981,D982	18	18	270713
+Q#1 - 4JSNB	specific	catalytic loop	G960,L961,G962,D963,R964,H965,P966,S967,N968	9	9	270713
+Q#1 - 4JSNB	specific	activation loop (A-loop)	D982,F983,G984,D985,C986,F987,E988,V989,A990,M991,T992,R993,E994,K995,F996,P997,E998,K999,I1000,P1001,F1002,R1003,L1004,T1005	24	24	270713
+Q#1 - 4JSNB	specific	mLST8 interface	A897,P898,D899,H902,L903,T904,L905,Q907,V909,E910,E913	11	11	270713

@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-18FCA7E9A1EC5035-36D358C324D260E3
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:43:21	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2CRHA	specific	phosphotyrosine binding pocket	R35,R53,H74,K76	4	4	198268
+Q#1 - 2CRHA	specific	hydrophobic binding pocket	I75,Y102	2	2	198268

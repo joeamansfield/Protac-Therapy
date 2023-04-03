@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-18C8C2A6C1371130-5503F3F538EA9AB
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:47:35	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3P5TC	generic	nudix motif	G76,E77,L78,L88,K89,R90,L91,M92,T93,E94,I95,L96	12	12	240046

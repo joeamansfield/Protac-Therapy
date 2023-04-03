@@ -1,0 +1,30 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2968C6D70D3970C1-27D4590208AD4FF4
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:46:40	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3W3GB	specific	leucine-rich repeat	L464-D484	21	21	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	I485-H509	22	25	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	V510-D533	21	24	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L534-N563	17	30	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L564-N618	18	55	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L619-S643	21	25	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L644-R667	18	24	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L668-S690	21	23	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L692-S715	22	24	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L716-E735	19	20	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	V43-N66	21	24	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L67-N104	22	38	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L105-S125	21	21	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L126-N149	17	24	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L150-N180	18	31	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L202-N225	21	24	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L226-Q266	18	41	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L267-H290	21	24	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L291-R316	22	26	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L181-S201	18	21	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L347-N373	21	27	-
+Q#1 - 3W3GB	specific	leucine-rich repeat	L374-N397	22	24	-

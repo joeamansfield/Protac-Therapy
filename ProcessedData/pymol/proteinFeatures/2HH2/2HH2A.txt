@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-332980D0B18A7D5E-2E4C2E772EB340E4
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:06:17	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2HH2A	specific	putative DNA binding site	T15,H16,C18,G19,L20,I22,G23,G25,G26,V29,K30,Q34,F39,E41,I42,R44,K55	17	17	411916
+Q#1 - 2HH2A	specific	GXXG motif	G23,R24,G25,G26	4	4	411916

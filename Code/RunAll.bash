@@ -16,5 +16,9 @@ export OMP_NUM_THREADS=$SLURM_CPUS_ON_NODE
 
 # LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
 
-source activate E3v1
-snakemake --cores 1
+# source activate E3v1
+# snakemake --cores 1
+
+source activate pymolv1
+
+pymol -c pymolAnalysis/cealign.pml 

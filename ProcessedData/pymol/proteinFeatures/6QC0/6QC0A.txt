@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-20071B268B01AD39-11079071ACC8A132
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:48:33	Run time	0:00:00:01
+#status	success
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6QC0A	specific	trimer interface	K79,K82,C83,A84,V113,S114,D115,Y116,E117,M118,K119,E145,R148,I149,R151,D152,G175,G178,N179,N181,I182,K183,L184,S185	24	24	238322
+Q#1 - 6QC0A	specific	putative DNA binding site	K15,K16,K22,K79,K82,R148,R151,R212,K219	9	9	238322
+Q#1 - 6QC0A	specific	PCNA/WAF1-CIP1 protein binding site	C29,D31,M42,A69,G71,M121,D122,L123,D124,A254,P255,K256,I257	13	13	238322
+Q#1 - 6QC0A	specific	PCNA/RFCL protein interaction site	A210,A254,P255,K256	4	4	238322
+Q#1 - 6QC0A	specific	PCNA/FEN-1 protein interaction site	M42,L49,Y252	3	3	238322

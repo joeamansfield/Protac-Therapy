@@ -1,0 +1,13 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1D1E4C3067FA2C20-212DC91D607281D2
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:49:23	Run time	0:00:00:01
+#status	success
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6LTHI	specific	ATP binding site	M781,G782,L783,G784,K785,T786,I787,E821,D881,E882	10	10	350820
+Q#1 - 6LTHI	specific	DEAD box helicase motif	D881,E882,G883,H884	4	4	350820
+Q#1 - 6LTHI	specific	acetyllysine binding site	P1489,L1494,Y1497,A1536,N1540,I1546	6	6	99947
+Q#1 - 6LTHI	specific	ATP binding site	L1163,N1164,Q1166,R1189,R1192	5	5	350180
+Q#1 - 6LTHI	specific	DNA binding site	M1105,T1106,D1114,R1157,W1178,N1179	6	6	350180

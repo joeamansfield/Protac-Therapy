@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-34E3FAC02A7D71FB-18D6B516343A7A9D
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:23:36	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 2X7FA	specific	ATP binding site	V32,G33,N34,G35,T36,V40,A53,K55,A84,M106,E107,F108,C109,G112,S113,D116,Q158,N159,L161,D172	20	20	270807
+Q#1 - 2X7FA	specific	active site	V32,G33,N34,G35,T36,V40,A53,K55,A84,M106,E107,F108,C109,G112,S113,D116,D154,K156,G157,Q158,N159,L161,V171,D172,V175,F189,I190,G191,T192,Y194,E226,C235	32	32	270807
+Q#1 - 2X7FA	specific	polypeptide substrate binding site	G35,T36,D154,K156,G157,Q158,V175,F189,I190,G191,T192,Y194,E226,C235	14	14	270807
+Q#1 - 2X7FA	specific	activation loop (A-loop)	V171,D172,F173,G174,V175,S176,A177,Q178,L179,D180,R181,T182,V183,G184,R185,R186,N187,T188,F189,I190,G191,T192,P193,Y194	24	24	270807

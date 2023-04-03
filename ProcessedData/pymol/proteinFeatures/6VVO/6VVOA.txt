@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-D3C016EDD37EB07-1481924C2A1812C1
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:01:41	Run time	0:00:00:00
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 6VVOA	specific	ATP binding site	P99,P100,G101,V102,G103,K104,T105,T106,D167,N200	10	10	99707
+Q#1 - 6VVOA	specific	Walker A motif	G98,P99,P100,G101,V102,G103,K104,T105	8	8	99707
+Q#1 - 6VVOA	specific	Walker B motif	T160,L164,I165,M166,D167,E168	6	6	99707
+Q#1 - 6VVOA	specific	arginine finger	C214	1	1	99707

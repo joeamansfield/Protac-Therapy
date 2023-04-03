@@ -1,0 +1,16 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-10E2B535245594FD-C97BAF6E9947CDC
+#datatype	feats
+#status	0
+#Start time	2023-04-01T03:51:12	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 5WIUA	specific	putative ligand binding site	L115,D119,V120,C123,V197,S200,S201,F365,F366,H369,V385,T389,Y393	13	13	320434
+Q#1 - 5WIUA	specific	TM helix 1	L42-E66	27	25	320434
+Q#1 - 5WIUA	specific	TM helix 2	T73-E99	27	27	320434
+Q#1 - 5WIUA	specific	TM helix 3	C112-A142	31	31	320434
+Q#1 - 5WIUA	specific	TM helix 4	R154-G177	24	24	320434
+Q#1 - 5WIUA	specific	TM helix 5	D193-G222	30	30	320434
+Q#1 - 5WIUA	specific	TM helix 6	G342-Q372	31	31	320434
+Q#1 - 5WIUA	specific	TM helix 7	P382-N407	26	26	320434

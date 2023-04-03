@@ -1,0 +1,9 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1C618EBF5025F5E1-A36CBF505392CB6
+#datatype	feats
+#status	0
+#Start time	2023-04-01T04:42:29	Run time	0:00:00:01
+#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - 3CPFA	specific	RNA binding site	R96,T123,E130,E131	4	4	239914
