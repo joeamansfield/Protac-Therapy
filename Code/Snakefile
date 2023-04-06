@@ -73,7 +73,11 @@ pdbIds = ['2HLQ', '1IA8', '2JAV', '2LLH', '6BFN', '1SXE', '6VCD', '6LTH', '5TRB'
 
 rule all:
     input:
-        expand("../Figures/VolcanoPlots/{type}_volcano.pdf", type=cancerTypesSubset)
+        expand("../Figures/VolcanoPlots/{type}_volcano.pdf", type=cancerTypesSubset),
+        "../ProcessedData/merged_types_validated.txt",
+        "../ProcessedData/merged_types_potential.txt",
+        expand("../Figures/Pymol/{proteins}_cealign.png", proteins=outputProteins)
+        
 
 rule E3Sub_download:
     output:
@@ -245,6 +249,28 @@ rule get_protein_features:
         expand("../ProcessedData/pymol/proteinFeatures/{id}", id=pdbIds)
     script:
         "pymolAnalysis/getProteinFeatures.py"
+
+rule compare_protein_features:
+    input:
+        rules.get_protein_features.output
+    output:
+        "../ProcessedData/pymol/protein_features_table.tsv"
+    script:
+        "pymolAnalysis/compareProteinFeatures.py"
+
+rule cealign:
+    input:
+        "../ProcessedData/pymol/protein_features_table.tsv"
+    output:
+        expand("../Figures/Pymol/{proteins}_cealign.png", proteins=outputProteins)
+    shell:
+        """
+        bash -c '
+            . $HOME/.bashrc
+            conda activate pymolv1
+            pymol -c pymolAnalysis/cealign.pml
+            conda activate E3v1'
+        """
 
 rule merge_cancer_tier:
     input:
