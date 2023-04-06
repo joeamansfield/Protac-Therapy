@@ -21,6 +21,56 @@ cancerTypesSubset = [
 'lung_squamous_cell_carcinoma',
 'lung_adenocarcinoma']
 
+outputProteins = ["BARD1_FANCD2","NF2_NR1H3","SUZ12_WEE1","SMAD7_SMURF1","KMT5A_TDG","ESR1_NR1H3","FANCD2_FANCI","FOXM1_PAX3","FGFR4_PIK3CG",
+"MAP3K7_ULK1","BARD1_NR1H3","ACE2_BRCA1","KDR_PIK3CG","CHEK2_RNF8","CCS_XIAP","BRCA1_PPARA","CDK1_CDK2","RBBP8_RNF4","FGFR1_KDR","CDKN1B_RND3"
+,"NONO_XRCC5","MFN1_OPA1","LATS1_RAPGEF2","ACE2_ING3","RUNX3_XRCC6","FGFR1_FGFR4","AURKA_CCNE1","PAX3_TFAM","AR_IREB2","CDC42_RAC1",
+"TNIK_UBQLN1","OPA1_STIL","ERRFI1_RAPGEF2","VAV1_ZAP70","DLL1_DLL4","BRCA1_RBBP8","S100A2_S100P","SUZ12_ULK1","FOXM1_TFAM","UBE2D1_UBE2V1",
+"SMARCA4_SMARCD1","FES_LCK","NBN_TAL1","BRD3_BRD4","SYK_VAV1","BRCA1_ING3","FGFR4_KDR","CCNA2_NEK2","RNF4_SP1","AURKA_TPX2","FANCD2_NR1H3",
+"CDC6_CHEK1","ERBB2_PDGFRB","HDAC2_PA2G4","DNM1L_STIL","CHEK1_RIOK1","RAC1_RHOA","KLF10_RBBP8","CDC42_RHOA","E2F1_HIPK2","HSP90AA1_MST1R",
+"KMT5A_OTUB1","BRCA1_FANCD2","BARD1_RBBP8","TRAF3_TRAF6","CDKN1A_HBP1","NR3C1_RARA","SYK_ZAP70","BARD1_BRCA1","MAP3K10_TRIP10","FGFR1_PIK3CG",
+"SUZ12_VHL","RBBP8_SP1","BRCA1_NR1H3","E2F1_NEK2","CHEK1_MYCN","SPDYA_SQSTM1","DNM1L_MFN1","NEK2_TPX2","SH3KBP1_YES1","LCK_MATK","DNM1L_OPA1",
+"ORC1_TAL1","E2F1_TPX2","POLQ_XRCC6","HRAS_RAP2A","BRCA1_BRCA2","NEDD4L_SCNN1A","AURKA_PBK","ULK1_WEE1","FES_MATK","CDC6_MYCN"]
+
+pdbIds = ['2HLQ', '1IA8', '2JAV', '2LLH', '6BFN', '1SXE', '6VCD', '6LTH', '5TRB', '1NFI', '1I7G', '1E3G', '7QS1', '3TV0', '3DSH', '1IJ9', 
+'1M9I', '1POZ', '1DS6', '1D4A', '2REY', '4DN5', '3DJU', '6OF7', '1IVO', '1ST0', '1A07', '1ZVD', '1A3Q', '2CLQ', '2RGI', '1CMO', '3FGH', '2EKK', 
+'1O6S', '4D2G', '4QYL', '3CEG', '2NZT', '2RF9', '1KTZ', '2MH0', '1MDI', '2ETL', '7BL1', '6B3I', '2DAG', '5H9M', '2GGF', '2KB9', '1F66', '1ALY', 
+'1UMO', '5KZ5', '1KBH', '1ZY3', '7JT9', '6ASB', '2LAJ', '2B1W', '6BDN', '2EA6', '1BOZ', '1D3E', '2LFE', '2UVL', '2DID', '1COK', '2IHB', '2NZ2', 
+'2CR2', '2D9Q', '3SQD', '1T6F', '2LK2', '3CMY', '1A66', '6WHB', '1A6Y', '4OWT', '1A2B', '4WNO', '2VUX', '7QF7', '2JVX', '2C4P', '1Q4K', '1UBD', 
+'7MQ8', '2GF7', '4UG0', '5X6V', '1EFX', '2C35', '2DAE', '2CBZ', '2MRE', '1HZM', '1X8B', '1LM8', '3UYS', '2YHN', '1W1F', '3K2L', '4GDK', '7P54', 
+'5UQ1', '1GXC', '7Z8B', '6CVZ', '2W18', '1H95', '3J9M', '5K26', '4JSN', '7PB4', '1HSQ', '1KZZ', '2KZU', '5HQG', '1E31', '1FQV', '1D0G', '2KPZ', 
+'2JP2', '1A1W', '4EUW', '2YL2', '1DV0', '1WPA', '3BUM', '1Q02', '5H07', '1OXN', '1GQ5', '1F68', '1A81', '1CQT', '5YBJ', '2JRS', '1DPU', '2AAV', 
+'1SO8', '2G19', '2IV8', '3AGY', '3AHQ', '3P5T', '2XTC', '1WM2', '2P1L', '1U6D', '2ZNR', '2HGL', '2RVQ', '2MZN', '1G3J', '4X0P', '2JY5', '4KT1', 
+'3I3N', '1WYW', '2KRE', '2E7N', '4EFO', '2EQE', '2OB4', '3PG6', '5VT2', '3I7P', '3CPF', '2KBW', '1AAP', '2LDU', '2Y48', '2ASQ', '2CT7', '5DKA', 
+'1CP3', '4REY', '2VPI', '2N7Z', '2IWG', '6VG8', '2CU1', '1KAO', '2DZI', '3L11', '1BHF', '6UMA', '1I2T', '2JYW', '3C5K', '1V66', '1W4R', '6DO5', 
+'3B5H', '1F16', '7JL1', '1AGW', '1X69', '2PSN', '6K2C', '6FZS', '2JDQ', '1OL5', '4BDW', '1FP0', '2ENQ', '4XBM', '1NSK', '5G1X', '1Z5V', '2M6N', 
+'3ZNV', '1BXL', '6UHC', '2LS2', '1J2F', '5YWR', '2EPA', '4RED', '2KQS', '1TCE', '1B6C', '1WXP', '3L2O', '5GNR', '1GO4', '1DUJ', '2L0B', '1GK5', 
+'1IRY', '1I10', '5WQD', '6BQN', '5UJ7', '1H10', '1MQ1', '2PPI', '1XIW', '2WGH', '7BXU', '2GUT', '3LRQ', '1GXE', '2BZX', '3BRT', '2OJX', '1X4Q', 
+'3SDE', '2MPC', '4AF3', '2YPA', '1X51', '1A4R', '1KHU', '3C0Y', '3GC8', '6P5S', '3PLS', '1BNK', '4BKX', '3IEC', '4MI0', '1J55', '7OD1', '6WNX', 
+'1FYR', '2CSW', '4NEF', '3WXA', '2DJY', '2MJV', '2E5N', '5VZV', '1AZV', '1B22', '2P4E', '1BY2', '1M6B', '1MQ4', '1TXQ', '2M9A', '1QBH', '2MB9', 
+'7JL0', '6QDV', '3VI3', '1BA5', '2WWU', '2NO2', '5F0L', '1W3B', '1N0W', '2MAK', '1ZKK', '1BOR', '2CCH', '1UHL', '4ZTD', '1W7B', '2ELI', '5JW7', 
+'2W96', '2LL2', '5YQ4', '1E88', '5V7Z', '2KA4', '6CES', '2LD0', '5J0A', '2YYN', '2KMU', '5V1B', '1CVJ', '6YS4', '7KTR', '6JTG', '5NJ8', '1BPX', 
+'1IGR', '1Y02', '2B5I', '1W98', '2CT2', '3MXO', '1ZXM', '4W2R', '2EGM', '1G47', '4Y72', '2L33', '4CO8', '1A93', '2C7H', '6E93', '4KM5', '6NR8', 
+'1A0N', '2WVI', '6H3A', '2IGP', '1V9U', '3S95', '1UK0', '1GQ4', '4OTP', '5H64', '2KUP', '2LE8', '2FLU', '1OA8', '2NRU', '2Q8K', '1EGX', '1FTA', 
+'5ZCS', '2C9W', '2B5L', '5W69', '1BY1', '2G7R', '6QC0', '5GZB', '2DAM', '1M6I', '2K1K', '1WF6', '2CPQ', '2KV2', '1E5W', '2XZE', '5KSO', '1KWP', 
+'1H2K', '2JK9', '1YWT', '2JRZ', '3EPZ', '1A52', '4KBQ', '1DKF', '7DL2', '1C07', '2RAI', '1JWO', '1E0S', '2JJS', '2F8A', '1AYK', '5WIU', '1SM2', 
+'2QKH', '2WZB', '6HVO', '5LUQ', '2KHW', '6MBW', '3A60', '1BF5', '3G9W', '2I8N', '1Q1V', '3FDT', '1QEW', '2R5T', '1P9C', '3EI4', '4UI9', '5V4B', 
+'6A3Z', '1Y4E', '4ITH', '1C9Q', '1JEQ', '2KPW', '2DB8', '2EOD', '4TSE', '2A25', '1NF1', '1LGP', '1AWW', '2C4K', '5YZ0', '4KNG', '2MOF', '2CRC', 
+'2MS7', '1FEW', '2LVR', '1VD2', '2H0D', '4BN2', '2M3O', '1BMQ', '3T0O', '1WGM', '1E4U', '1E8Y', '4A69', '2FAZ', '2LAH', '1NRN', '1AD6', '6V7O', 
+'2N7Q', '2ZFY', '2B9R', '4UZ0', '1YVJ', '1CA9', '4R3O', '1E91', '6Q3V', '6XTX', '3BRW', '1XR0', '1AP5', '1B4R', '6DC0', '3S98', '1HD0', '1D8D', 
+'1EJ4', '1YDP', '2M1X', '6QDT', '1IRS', '1PB5', '3ZQS', '2Y1W', '1WQU', '1FLT', '2DA7', '3MJK', '2ECL', '6A9P', '7MU2', '1Z2C', '1H5P', '2HDA', 
+'2EVA', '2G62', '3E7O', '3U9J', '2E8M', '3LQ9', '6PAI', '1NKO', '2KXC', '7B2R', '3TDU', '3IUC', '2HH2', '4DX1', '1RG6', '7NJ0', '2L4Z', '2KJY', 
+'2C6U', '1F1J', '7AKO', '4ZLP', '4NQJ', '1WY8', '3W6N', '6VLA', '1C1Y', '1ATU', '1R28', '4ZRK', '1IKN', '3E3B', '4IYP', '3W3G', '2Z62', '5T9J', 
+'2BCK', '5NDD', '2BZL', '3H9R', '2CT4', '7M4M', '4IFI', '3K35', '1AM9', '7UPM', '5VYK', '5WWW', '4AOW', '2IHC', '2E19', '4QQ5', '5MVX', '1FCG', 
+'1W9C', '1A1U', '2N19', '2K03', '4MVT', '1SP1', '3M0D', '2VPJ', '7KHD', '2OQ0', '2CUE', '3EYG', '2H7T', '2N80', '1OJ5', '2LFH', '2EDU', '1HE7', 
+'6VAA', '2MA6', '1LB4', '4Y2E', '1JM7', '1CA4', '1FLK', '1BYQ', '5ZBU', '2JA4', '2A4D', '6W7Z', '1M7B', '2Y7B', '2D7L', '1G5V', '2UW2', '3OP0', 
+'2HQW', '1E9H', '1E96', '1M2Z', '1A3S', '3CO6', '3NRX', '2D3G', '2NAQ', '3RGF', '1DO5', '2I0V', '1GZK', '2KQZ', '2DMV', '6VVO', '3J8B', '2I5O', 
+'1R42', '1W6V', '6APX', '1C25', '2N9C', '7PB8', '4CFG', '2CRH', '1CF4', '1H24', '1P97', '2ECV', '1VR2', '2ZV2', '1F9E', '6R5Q', '1AB2', '2BZ8', 
+'2GHQ', '1AZE', '1ELK', '2XUS', '2AK5', '5EKF', '4PVF', '1LDJ', '2O61', '5IJN', '2RF0', '1MFG', '4LG8', '1EWI', '2BYE', '1UCV', '1O4X', '3MTS', 
+'2RQB', '1XK5', '6DQJ', '3EQ5', '3MAX', '1AQ1', '4BSR', '3BQO', '5URY', '6C48', '1DK8', '2KES', '1X4I', '1A4P', '2WGP', '2EL8', '1H27', '2F3I', 
+'1GNG', '2V37', '1AXC', '1H4R', '6CQD', '6O60', '4D10', '3QRF', '3BIK', '1GK4', '2N9O', '4BWQ', '5VMD', '2E6O', '4GGA', '2MT5', '3IKM', '2HWY', 
+'1RV1', '2LAZ', '1GVJ', '2AXN', '3MDY', '10GS', '121P', '1B47', '1WIM', '1FBV', '6IR0', '6K2K', '2OVP', '2K4P', '2LNS', '3DCY', '3EZZ', '4Z30', 
+'3ICU', '1A02', '2GRC', '3B76', '2DQ5', '2X7F', '4UIJ', '6ZHX', '4WBE', '1E2D', '2A4J', '2YSJ', '1CX8', '4YYP', '1F95', '7RMA', '3G73', '4B7Y']
+
 rule all:
     input:
         expand("../Figures/VolcanoPlots/{type}_volcano.pdf", type=cancerTypesSubset)
@@ -62,57 +112,6 @@ rule file_setup:
         "../ProcessedData/subset_list.txt", 
         "../ProcessedData/E3List.txt", 
         "../ProcessedData/targetProteinList.txt"
-
-# rule filter_E3Subs:
-#     input:
-#         "../Data/literature.E3.txt"
-#     output:
-#         "../Data/E3Subs_known.txt"
-#     shell:
-#         """
-#         awk -F'\t' '/H.sapiens/{print $6, $7, $8, $9, $11, $14}' OFS='\t' ../Data/literature.E3.txt > ../Data/E3Subs_known.txt
-#         """
-
-# rule get_E3_list:
-#     input:
-#         "../Data/E3Subs_known.txt"
-#     output:
-#         "../ProcessedData/E3List.txt"
-#     shell:
-#         """
-#         awk '{print $1}'../Data/ E3Subs_known.txt | sort -u > ../ProcessedData/E3List.txt
-#         """
-
-# rule get_target_protein_list:
-#     input:
-#         "../Data/E3Subs_known.txt"
-#     output:
-#         "../ProcessedData/targetProteinList.txt"
-#     shell:
-#         """
-#         awk '{print $2}' ../Data/E3Subs_known.txt | sort -u > ../ProcessedData/targetProteinList.txt
-#         """
-
-# rule get_subset_list:
-#     input:
-#         "../ProcessedData/E3List.txt",
-#         "../ProcessedData/targetProteinList.txt"
-#     output:
-#         "../ProcessedData/subset_list.txt"
-#     shell:
-#         """
-#         cat ../ProcessedData/E3List.txt ../ProcessedData/targetProteinList.txt > ../ProcessedData/subset_list.txt
-#         """
-
-# rule get_pairs_list:
-#     input:
-#         "../Data/E3Subs_known.txt"
-#     output:
-#         "../ProcessedData/E3Sub_pairs.txt"
-#     shell:
-#         """
-#         ./get_pairs.sh
-#         """
 
 rule subset_cptac:
     input:
@@ -228,6 +227,8 @@ rule uniprot_to_pdb:
 rule fetch_pdb_files:
     input:
         "../ProcessedData/pymol/val_pdb.tsv"
+    output:
+        expand("../ProcessedData/pymol/pdbfiles/{id}.pdb", id=pdbIds)
     shell:
         """
         bash -c '
@@ -236,17 +237,21 @@ rule fetch_pdb_files:
             pymol -c pymolAnalysis/fetch.pml
             conda activate E3v1'
         """
-    output:
-        pdbIds = []
-        with open("../ProcessedData/pymol/val_pdb.tsv") as file:
-            for line in file:
-                split = line.split('\t')
-                pdbIds.append(split[1])
-        expand("../ProcessedData/pymol/pdbfiles/{id}.pdb", id=pdbIds)
 
 rule get_protein_features:
     input:
         expand("../ProcessedData/pymol/pdbfiles/{file}", file=os.listdir('../ProcessedData/pymol/pdbfiles'))
+    output:
+        expand("../ProcessedData/pymol/proteinFeatures/{id}", id=pdbIds)
     script:
         "pymolAnalysis/getProteinFeatures.py"
-    
+
+rule merge_cancer_tier:
+    input:
+        "../Data/cancer_gene_census_COSMIC.csv",
+        "../ProcessedData/merged_types_validated.txt",
+        "../ProcessedData/merged_types_potential.txt"
+    output:
+        "../ProcessedData/tieredpairs.tsv"
+    script:
+        "cancer_tier_merge.R"

@@ -39,8 +39,8 @@ with open('../protein_features_table.tsv') as file:
 
 for item in compareList:
     for prot1, prot2 in itertools.combinations(item, 2):
-        if [prot1, prot2] not in alreadyDone:
-            alreadyDone.add([prot1, prot2])
+        if (prot1, prot2) not in alreadyDone:
+            alreadyDone.add((prot1, prot2))
             if hugo_to_pdb.keys().__contains__(prot1) and hugo_to_pdb.keys().__contains__(prot2):
                 print(prot1 + ' ' + prot2)
                 cmd.fetch(hugo_to_pdb[prot1], type='pdb')
@@ -52,4 +52,5 @@ for item in compareList:
                 cmd.delete('all')
                 cmd.reinitialize
 
+print(alreadyDone)
 python end
