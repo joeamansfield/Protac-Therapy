@@ -127,10 +127,6 @@ rule file_setup:
     input:
         "../Data/literature.E3.txt",
         "../Data/Protac.csv"
-    shell:
-        """
-        bash file_setup.sh
-        """
     output:
         "../Data/E3Subs_known.txt", 
         "../ProcessedData/existing_protacs.txt", 
@@ -138,6 +134,10 @@ rule file_setup:
         "../ProcessedData/subset_list.txt", 
         "../ProcessedData/E3List.txt", 
         "../ProcessedData/targetProteinList.txt"
+    shell:
+        """
+        bash file_setup.sh
+        """
 
 rule subset_cptac:
     input:
@@ -172,12 +172,12 @@ rule find_label_sets:
     input:
         expand("../ProcessedData/sig_pairs/val_protacs/{type}", type=cancerTypesSubset),
         expand("../ProcessedData/sig_pairs/potential_protacs/{type}", type=cancerTypesSubset)
+    output:
+        expand("../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt", type=cancerTypesSubset)
     shell:
         """
         bash min.awk
         """
-    output:
-        expand("../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt", type=cancerTypesSubset)
 
 rule volcano:
     input:
@@ -193,38 +193,38 @@ rule merge_protac_types:
     input:
         expand("../ProcessedData/sig_pairs/val_protacs/{type}", type=cancerTypesSubset),
         expand("../ProcessedData/sig_pairs/potential_protacs{type}", type=cancerTypesSubset)
-    script:
-        "merge_protac_types.py"
     output:
         "../ProcessedData/merged_types_validated.txt",
         "../ProcessedData/merged_types_potential.txt"
+    script:
+        "merge_protac_types.py"
 
 rule single_multiple_cancer_protacs:
     input:
         "../ProcessedData/merged_types_validated.txt"
-    script:
-        "single_multiple_cancer_protacs.py"
     output:
         "../ProcessedData/single_cancer_protacs.txt",
         "../ProcessedData/multiple_cancer_protacs.txt"
+    script:
+        "single_multiple_cancer_protacs.py"
 
 rule single_cancer_protacs_pval:
     input:
         "../ProcessedData/single_cancer_protacs.txt"
-    script:
-        "single_cancer_protacs_pval.py"
     output:
         "../ProcessedData/single_cancer_protacs_pval.txt"
+    script:
+        "single_cancer_protacs_pval.py"
 
 rule find_table2_sets:
     input:
         expand("../ProcessedData/sig_pairs/potential_protacs/{file}", file=os.listdir("../ProcessedData/sig_pairs/potential_protacs/"))
+    output:
+        expand("../ProcessedData/sig_pairs/table2/{type}_most_sig.txt", type=cancerTypesSubset)
     shell:
         """
         bash find_table2_sets.sh
         """
-    output:
-        expand("../ProcessedData/sig_pairs/table2/{type}_most_sig.txt", type=cancerTypesSubset)
 
 rule sig_proteins_to_uniprot:
     input:
