@@ -1,7 +1,7 @@
 Here are the instructions for making sure we are all using the same programming environments (via conda)
 
 Any time you install a new package, follow these steps:
-    Make sure your terminal is in this directory: cd /home/stoned4/Capstone/ProcessedData/packageManaging
+    Make sure your terminal is in this directory: cd ProcessedData/packageManaging
     Activate the environment to export: conda activate myenv
     Export your active environment to a new file: conda env export > environment.yml
 

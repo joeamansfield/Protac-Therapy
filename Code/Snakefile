@@ -77,7 +77,29 @@ rule all:
         "../ProcessedData/merged_types_validated.txt",
         "../ProcessedData/merged_types_potential.txt",
         expand("../Figures/Pymol/{proteins}_cealign.png", proteins=outputProteins)
-        
+
+rule download_all:
+    input:
+        "../Data/literature.E3.txt",
+        "../Data/Protac.csv",
+        expand("../Data/CPTAC/{type}.csv", type=cancerTypes)
+
+rule all_volcanos:
+    input:
+        expand("../Figures/VolcanoPlots/{type}_volcano.pdf", type=cancerTypesSubset)
+
+rule significant_protacs:
+    input:
+        "../ProcessedData/merged_types_validated.txt",
+        "../ProcessedData/merged_types_potential.txt"
+
+rule protein_models:
+    input:
+        expand("../Figures/Pymol/{proteins}_cealign.png", proteins=outputProteins)
+
+rule cancer_tiers:
+    input:
+        "../ProcessedData/tieredpairs.tsv"
 
 rule E3Sub_download:
     output:
@@ -274,7 +296,7 @@ rule cealign:
 
 rule merge_cancer_tier:
     input:
-        "../Data/cancer_gene_census_COSMIC.csv",
+        "../ProcessedData/cancer_gene_census_COSMIC.csv",
         "../ProcessedData/merged_types_validated.txt",
         "../ProcessedData/merged_types_potential.txt"
     output:
