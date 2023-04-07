@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-159CBB59A991A8D8-1C3982ECC4F41143
+#cdsid	QM3-qcdsearch-3E8F75377138551D-3EA38BDEEBD2A54C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:16:28	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:11:52	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1D0GR	specific	polypeptide ligand binding site	F59,R62,D67,E98,M99,C100,R101,K102	8	8	276906

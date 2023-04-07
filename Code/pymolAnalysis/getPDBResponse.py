@@ -1,12 +1,12 @@
 import json
 import requests
 
-id = json.load(open('../Data/PDB/jobid.json'))
+id = json.load(open('../ProcessedData/pymol/jobid.json'))
 
 status = requests.get('https://rest.uniprot.org/idmapping/status/' + id['jobId'])
 status_dict = json.loads(status.text)
 
-while len(status_dict['results']) == 0 and status.status_code == 200:
+while (not status_dict.keys().__contains__('results')) or (len(status_dict['results']) == 0 and status.status_code == 200):
     status = requests.get('https://rest.uniprot.org/idmapping/status/' + id['jobId'])
     status_dict = json.loads(status.text)
 

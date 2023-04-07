@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2ADDADD7918CFD35-24DD6C9AE609521C
+#cdsid	QM3-qcdsearch-1A04AC7553766452-58DF461CD3E33C0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:18:59	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:13:12	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1G3JC	specific	putative peptide binding site	T286-N384	9	99	-

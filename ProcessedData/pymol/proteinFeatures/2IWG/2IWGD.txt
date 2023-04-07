@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-A1E085E897E5DAD-1AA69B4BFEA9E89D
+#cdsid	QM3-qcdsearch-38B9A0D04DD2981D-6DB63F753A6AD90
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:28:41	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:17:55	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2IWGD	specific	receptor binding site	E146,S190,L196,H197,H199,Y200,Q202	7	7	409425

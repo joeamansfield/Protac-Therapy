@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-544E754EAB92D88-14283C8780B144FD
+#cdsid	QM3-qcdsearch-3A632304A5EF0B6D-3771BD4963AF321C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:57:39	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:59:00	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1XK5A	specific	m3G-cap binding site	L8,S9,E10,W11,G31,K32,R33,K48,D159,L162,W180	11	11	185717

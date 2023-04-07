@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2F9F1215DD33BD88-28634AC9F04505E9
+#cdsid	QM3-qcdsearch-1AAF0829544E3DD4-1995CC7509A22AEC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:45:33	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:25:38	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2KUPA	specific	phosphopeptide binding site	N25,V26,D27,D28,L33,G36,L47,L49,H50,V55,W57,L60,L62,R63,R64,Y65,G66,Y67,D68,S69,L71,S73,F74,T82,G85,I86,F87,A88,F89,F98,Q102,M105	32	32	269913

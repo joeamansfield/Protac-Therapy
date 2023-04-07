@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-58B06EEA5B92879-22B56EE1567ED0C0
+#cdsid	QM3-qcdsearch-36C4229AB9681B90-3F87C5E39CC4AD56
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:05:23	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:03:57	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3MXOA	specific	catalytic core	R17,H18,R65,H143,A144	5	5	132718

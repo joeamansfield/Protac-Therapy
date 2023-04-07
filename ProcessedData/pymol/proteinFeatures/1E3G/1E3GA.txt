@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3F8A89E404C771F3-1F9ABE22B14580FE
+#cdsid	QM3-qcdsearch-2812539ABE58FE17-3E058E9941188F7D
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:27:15	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:16:55	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1E3GA	specific	ligand binding site	L45,L48,N49,L51,G52,Q55,W85,M86,M89,V90,M93,R96,F108,M124,M131,L217,T221	17	17	132758

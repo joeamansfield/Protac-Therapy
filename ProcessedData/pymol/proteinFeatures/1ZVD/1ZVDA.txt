@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1139888C1915CF72-121ADAB9F57E45CE
+#cdsid	QM3-qcdsearch-1F6F33A6E96653D8-3016E987E276D8B2
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:34:04	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:21:01	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1ZVDA	specific	E2 interaction site	L161,S164,L165,W167,I168,N171,L177,H179,V183,E184,N186,I191,L196,Y213,Y217	15	15	238033

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-100B66D5BB00A5E4-A7B08550EDF0534
+#cdsid	QM3-qcdsearch-1239FFE1D0E27762-29FE2E67F6C25AAA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:40:29	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:23:30	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4AOWC	specific	structural tetrad	H37,S56,D60,W66,K67,G84,H85,S103,D107,W113,D114,G126,H127,V144,D149,W155,N156,H170,V189,D194,W200,N201,G213,H214,S232,D236,W242,D243,G255,C272,W282,D283,A304,E305,A323,D327,W333,Q334	40	38	238121

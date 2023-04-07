@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-28132235DEFBF5A5-BFFAED0EB92C7DD
+#cdsid	QM3-qcdsearch-3985C77361628B80-1A66F97739BD548
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:33:56	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:20:57	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1NFIA	specific	DNA binding site	R14,R16,Y17,C19,E20,R22,S23,A24,G25,K103,K104,R105,R168	13	13	143645

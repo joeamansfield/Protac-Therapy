@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-DE8640F84B09B39-9F779B0395861AB
+#cdsid	QM3-qcdsearch-2EDE47885FCAC39B-325361A7D3953D94
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:08:40	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:06:16	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4BWQC	specific	first critical site	E26,D28,R29,R91,N92,K93	6	6	239252

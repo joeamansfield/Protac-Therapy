@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-304492E9E5655D49-304A76097F1720CB
+#cdsid	QM3-qcdsearch-3C2E2904B46E4AC7-1E3D3F19F6F70037
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:09:09	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:07:02	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4ZTDB	specific	trimer interface	K76,K79,C80,A81,V110,S111,D112,Y113,E114,M115,K116,E142,R145,I146,R148,D149,G172,G175,N176,N178,I179,K180,L181,S182	24	24	238322

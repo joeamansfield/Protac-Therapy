@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3016A1207CE993E6-3054AC0D6D6B1290
+#cdsid	QM3-qcdsearch-27D6F8767772B388-394BA9196A624EA1
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:24:30	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:15:54	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2OVPA	specific	F-box protein binding site	Q83,F87,L91,N94,K99,D103,C106,K107,V109,A110,I113	11	11	349631

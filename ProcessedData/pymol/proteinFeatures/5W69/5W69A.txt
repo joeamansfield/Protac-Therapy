@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-DBD3C3A28804953-2B81A2A4EE2EB9A5
+#cdsid	QM3-qcdsearch-197C0CD3F69611BB-228FB4F170622FE3
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:53:30	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:56:05	Run time	0:00:00:02
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5W69A	specific	heterodimer interface	R202,W204,V231,E232,R234,P235,A236,Q242,W244	9	9	409495

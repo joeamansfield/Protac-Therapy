@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-E8E5E6F5BF8B41-1D2002B26E719916
+#cdsid	QM3-qcdsearch-E4A36474760529C-12ACCD635EBACFCC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:07:55	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:05:54	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4BN2C	specific	ATP binding site	R20,G95,G98,G100,K101,T102,F103,D251	8	8	276824

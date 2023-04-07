@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3BBE91514D1D4EC0-1DED51D889A3B3D4
+#cdsid	QM3-qcdsearch-11EDDB6093F4980C-377697F3273EFB0E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:06:25	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:04:47	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2E7NA	specific	acetyllysine binding site	V40,L47,Y50,C89,N93,V99	6	6	99930

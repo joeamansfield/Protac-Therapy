@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-190D8384A89337F9-23F136072ECD46B2
+#cdsid	QM3-qcdsearch-363784AAC18CD494-38942D007DDF4C90
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:41:06	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:23:36	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1WYWA	specific	active site	I30,N31,G33,P46,G47,N48,G122,K123,C124,F143,P161,S162,S164,A165,R166,C167,A168	17	17	381679

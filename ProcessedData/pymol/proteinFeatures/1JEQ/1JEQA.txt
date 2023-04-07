@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-19D88134A1AFC455-3C33F8CADFF901E8
+#cdsid	QM3-qcdsearch-AC0CAC0D030B444-F9DF085B646AFC0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:43:27	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:50:27	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1JEQA	specific	DNA binding site	R254,A255,L256,S257,R258,N275,Q278,K282,P285,T300,K338,R403	12	12	238407

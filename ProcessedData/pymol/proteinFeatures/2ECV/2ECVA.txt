@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-30255F1281AEF772-340848F77B90F9FA
+#cdsid	QM3-qcdsearch-2BCD26CE3EC44050-29C7CB623D9E9A13
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:56:47	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:57:54	Run time	0:00:00:02
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2ECVA	specific	Zn binding site	C22,C25,C37,H39,C42,C45,C62,V64,C65	9	9	438253

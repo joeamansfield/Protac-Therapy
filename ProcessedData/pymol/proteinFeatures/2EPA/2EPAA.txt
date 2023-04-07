@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2006CEA4C01DD430-22CCCDD100336784
+#cdsid	QM3-qcdsearch-1D8710AE1A345350-21D13707D0BB5A73
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:52:40	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:28:21	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2EPAA	specific	Zn binding site	C50-H72	4	23	-

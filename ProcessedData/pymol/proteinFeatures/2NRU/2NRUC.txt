@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-17D35704628B3484-13C2BDCBB65F77CB
+#cdsid	QM3-qcdsearch-220435B791959700-2FF92D99D5789852
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:56:23	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:57:31	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2NRUC	specific	ATP binding site	M39,G40,E41,G42,G43,V47,A58,K60,V93,Y109,V110,Y111,M112,S116,D158,K160,A162,N163,L165,D176	20	20	271060

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-10E2B535245594FD-C97BAF6E9947CDC
+#cdsid	QM3-qcdsearch-12B2D31437FB984D-361101C70E612207
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:12	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:53:55	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5WIUA	specific	putative ligand binding site	L115,D119,V120,C123,V197,S200,S201,F365,F366,H369,V385,T389,Y393	13	13	320434

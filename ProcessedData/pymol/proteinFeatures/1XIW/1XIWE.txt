@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-137F4589F2D0BAF8-3599A8B3A5FC4865
+#cdsid	QM3-qcdsearch-7A3FE821627C496-35F021360DF08CAC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:43:14	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:24:59	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1XIWE	specific	heterodimer interface	Y15,I19,Y74,Y90,L91,Y92,R94,A95,R96	9	9	409489

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3A2BFE8CA73A1EBF-204D46FC51A4B2C2
+#cdsid	QM3-qcdsearch-32E0A09B776A8732-150551D4FEFEFD6
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:32:45	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:19:42	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5ZBUC	specific	active site cysteine 	K86	1	1	238117

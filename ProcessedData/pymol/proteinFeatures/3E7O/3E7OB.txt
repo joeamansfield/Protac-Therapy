@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-21C938D54C71D34C-1FD7D6F415430D22
+#cdsid	QM3-qcdsearch-3EDDC803B2EA8F44-3927AD28F429D2DA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:25:28	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:16:10	Run time	0:00:00:02
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3E7OB	specific	ATP binding site	I30,G31,S32,G33,A34,Q35,G36,V38,A51,K53,I84,M106,E107,L108,M109,D110,A111,N112,V156,L166	20	20	270840

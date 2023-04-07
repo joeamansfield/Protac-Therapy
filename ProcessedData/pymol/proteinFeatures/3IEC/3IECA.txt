@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-142C347B6ADD15F2-18888468A090EC30
+#cdsid	QM3-qcdsearch-36FE5A6FBA0411F7-11398BBC80091BAC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:44:11	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:25:21	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3IECA	specific	polypeptide substrate binding site	N19,E92,F94,R130,D131,K133,E135,F152,C166,G167,S168,P169,P170,A172	14	14	270974

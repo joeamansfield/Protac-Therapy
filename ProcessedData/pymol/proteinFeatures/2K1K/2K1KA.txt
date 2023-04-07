@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-302182061177118E-347300D50687ABDA
+#cdsid	QM3-qcdsearch-277F1EEEC3AE10AB-1B2EE44B15724A87
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:19:50	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:13:38	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2K1KA	specific	dimer interface	T9,G11,E12,A15,V16,F18,G19,L20,G23,A24,L27,L28,L31,R36	14	14	214014

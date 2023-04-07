@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-174FB31049901C59-2C50F5815ED2765C
+#cdsid	QM3-qcdsearch-1E7C25CA3A72911B-1B08005524A437A0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:49:32	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:53:06	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3FDTA	generic	putative peptide binding site	Y4,V5,V6,E7,K8,L23,W25,K26,G27,F28,H32,T34,W35,E36,P37,K39,N40,L46,E49,F50	20	20	349298

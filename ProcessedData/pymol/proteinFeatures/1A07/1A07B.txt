@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-21E12A9D92D15584-1D3C24D6F88070B2
+#cdsid	QM3-qcdsearch-2BD8161DFAEE180F-10E1982DCEC6C120
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:55:43	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:57:07	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1A07B	generic	phosphotyrosine binding pocket	R16,R36,H62,K64	4	4	198228

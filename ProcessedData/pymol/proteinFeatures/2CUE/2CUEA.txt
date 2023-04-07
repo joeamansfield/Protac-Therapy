@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2DECB93101DC3005-1F3462BAAFC6ECA4
+#cdsid	QM3-qcdsearch-30EA7EC5B2C9690A-21E582DE87883931
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:24:00	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:15:22	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2CUEA	specific	specific DNA base contacts	N10,S13,V53,S56,N57,A60	6	6	238039

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-631709756B3BC1B-14F7359D0A555AA4
+#cdsid	QM3-qcdsearch-19CA571C73A3A151-1837002481BCC768
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:24:17	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:15:37	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2ZV2A	specific	ATP binding site	I21,G22,K23,G24,S25,V29,A42,K44,V99,F117,E118,L119,V120,P124,D162,K164,S166,N167,L169,D180	20	20	271101

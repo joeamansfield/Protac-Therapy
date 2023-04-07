@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1B8258380DB355C0-3DAD3BC7435110F3
+#cdsid	QM3-qcdsearch-5B3A5FA8648039C-83DA47F36604027
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:46:43	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:26:19	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1HSQA	specific	peptide ligand binding site	F13,R19,D21,E22,W41,W53,N57,Y58	8	8	212903

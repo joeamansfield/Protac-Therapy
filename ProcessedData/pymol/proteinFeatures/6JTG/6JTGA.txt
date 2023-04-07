@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-D42A2CD22579AD9-2AF97959FE779BC5
+#cdsid	QM3-qcdsearch-25F6D9A3B36C39E4-249157EEFC283FA1
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:05:41	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:04:13	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6JTGA	specific	GTP/Mg2+ binding site	D34,S36,A37,G38,K39,T40,S41,R54,G55,T61,D136,K206,D208,L209,V240,T241,G242,K243,G244	20	19	206738

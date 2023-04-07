@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-14BFEC19F0B4B083-1CA920AD4B0C91A
+#cdsid	QM3-qcdsearch-38A4936D34E7C697-23742BE06575B660
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:23:32	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:14:58	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2D3GB	specific	E1 interaction site	L8,T9,G10,K11,T12,Q31,D32,K33,E34,G35,Q40,R42,I44,A46,G47,K48,Q49,H68,V70,L71,R72,L73,R74,G75,G76	25	25	340501

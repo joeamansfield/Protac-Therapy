@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3614965C1322E5D6-33F518C94143E36A
+#cdsid	QM3-qcdsearch-1BD98870261586D9-334C26CDAC30EF15
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:33:35	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:20:37	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5HQGA	generic	structural tetrad	I69,T73,Y79,E80,I91,H92,A118,E123,W129,D130,E142,H143,A161,D166,W172,S173,K186,A203,D208,Y214,D215,G228,H229,S246,D250,W256,N257,G269,H270,A287,N292,Y298,Y299,D326,T327,A349,Q353	40	37	238121

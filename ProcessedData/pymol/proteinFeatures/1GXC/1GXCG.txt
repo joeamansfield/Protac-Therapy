@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2B98B0B631781CD2-3DFBCC25EAF0F81C
+#cdsid	QM3-qcdsearch-109A115C1F2FF424-3EF15A67567433A0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:47:31	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:51:52	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1GXCG	specific	phosphopeptide binding site	R54,D55,K56,Y73,R74,T75,Y76,S77,K78,N103,S129	11	11	438718

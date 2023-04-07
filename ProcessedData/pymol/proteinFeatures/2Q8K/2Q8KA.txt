@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-827A17F325014A3-178B755AF04391BF
+#cdsid	QM3-qcdsearch-3648FCBE3E3E639-1BD15010970AF80
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:38	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:14:22	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2Q8KA	specific	active site	H95,D116,N127,E241,Q310,K327	6	6	238522

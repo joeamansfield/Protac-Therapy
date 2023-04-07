@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-227C348A8AC17C3-39AE9E251113B3DE
+#cdsid	QM3-qcdsearch-34EA2B8355D093C2-1B0CB6BC94914EFE
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:48:03	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:27:14	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6FZSB	specific	DNA binding site	K27,A31,S65,L66,R69,L70,Q71,V72,S73,K76,H95	11	11	199814

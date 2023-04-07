@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-128EDD9228BF2B6A-3D334A947A97E8EB
+#cdsid	QM3-qcdsearch-7151C7B56F5B043-2969E9FF4F08B832
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:42:48	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:49:42	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1YDPA	specific	Ig strand A	D182-P192	11	11	409613

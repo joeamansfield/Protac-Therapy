@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-27DAA5A46120AD2-F6873121FE0F16A
+#cdsid	QM3-qcdsearch-3EF5AD07CA0B5705-3B46728FB31EC79
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:17:50	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:12:16	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4XBMA	specific	Ca2+ binding site	N423,D426,D440	3	3	238011

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-DA507905DEBFC06-275F3DBB0533BF97
+#cdsid	QM3-qcdsearch-24C05B16E10AD415-1ACE136B4D5D51C6
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:00:28	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:00:19	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1W3BB	specific	putative protein binding surface	D272-Q351	19	80	-

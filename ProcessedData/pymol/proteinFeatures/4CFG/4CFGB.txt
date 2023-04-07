@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3466230739537FCB-278CF87EA9B178A3
+#cdsid	QM3-qcdsearch-247C2ACAFB835EE0-3BF79EB5A43565B8
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:45	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:54:22	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4CFGB	specific	putative heterodimer interface	C506,K508,K509,E609,Y612	5	5	293971

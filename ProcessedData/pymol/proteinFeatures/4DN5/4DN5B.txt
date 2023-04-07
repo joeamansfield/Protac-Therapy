@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1715415CBA4E14CF-1B399978785A0E54
+#cdsid	QM3-qcdsearch-217736BA8B102F7A-13252603128D2E0F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:01:58	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:01:40	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4DN5B	specific	active site	L82,G83,R84,G85,S86,V90,A103,K105,V129,M145,E146,L147,L148,S152,G154,Q155,D191,K193,D195,N196,L198,D210,H213,G234,T235,E236,T237	27	27	270893

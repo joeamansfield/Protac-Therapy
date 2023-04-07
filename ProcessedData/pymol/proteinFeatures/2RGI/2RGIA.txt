@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-A4D07DB76AFAFB3-3969A56A70A30FDA
+#cdsid	QM3-qcdsearch-95F2A958E55C3AF-19890A8C495C315
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:15:23	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:11:25	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2RGIA	specific	Ca2+ binding site	S21,D26,K29,E34,M35,D64,N66,D68,Q70,D72,E75	11	11	238131

@@ -27,3 +27,15 @@ rm ../ProcessedData/existing_protacs.txt
 rm ../ProcessedData/subset_data/*
 rm ../ProcessedData/subset_list.txt
 rm ../ProcessedData/targetProteinList.txt
+rm ../ProcessedData/merged_types_validated.txt
+rm ../ProcessedData/merged_types_potential.txt
+rm ../ProcessedData/tieredpairs.tsv
+rm ../ProcessedData/pymol/merged_types_uniprot.tsv
+rm ../ProcessedData/pymol/protein_features_table.tsv
+rm ../ProcessedData/pymol/uniprot_to_hugo_pot.tsv
+rm ../ProcessedData/pymol/uniprot_to_hugo_val.tsv
+rm ../ProcessedData/pymol/uniprot_to_hugo.tsv
+rm ../ProcessedData/pymol/val_pdb.tsv
+rm ../ProcessedData/pymol/val_uniprot.csv
+rm ../ProcessedData/pymol/pdbfiles/*
+rm ../ProcessedData/pymol/proteinFeatures/*/*

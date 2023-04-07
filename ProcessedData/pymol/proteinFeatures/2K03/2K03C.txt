@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-BADE44DF67B8216-2BAA6C342090AE25
+#cdsid	QM3-qcdsearch-159B75EFBAFF1452-1DE852DD75E77DF
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:31:34	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:19:02	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2K03C	generic	putative receptor binding site	P12,C13,R14,F15,F16,V20,A21,R22,A23,N24,V25,W59,I60,Q61,E62,Y63,L64,E65,K66,C67,L68	21	21	238171

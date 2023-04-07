@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-A72693B6B6AA74-2BCFCD2EE9598744
+#cdsid	QM3-qcdsearch-30AC93D6AFAB2AF1-81F38A18DFF7970
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:00	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:14:05	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1IJ9A	specific	Ig strand A	K93-L99	7	7	409486

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-EF6C45E80E4D537-3D74584EAB9D1FE9
+#cdsid	QM3-qcdsearch-2D3FA089CB5C6FD0-1802AF69F408FA47
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:47:10	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:26:34	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4QYLA	specific	acetyllysine binding site	V32,V37,Y40,C79,N83,F89	6	6	99944

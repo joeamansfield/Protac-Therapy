@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-31F9652B3312F59A-B8E61B5A33450DD
+#cdsid	QM3-qcdsearch-717FACC29F5FA57-E3D487494776B76
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:31:51	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:19:09	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5H07A	specific	E1 interaction site	L84,T85,G86,K87,T88,Q107,D108,K109,E110,G111,Q116,R118,I120,A122,G123,K124,Q125,H144,V146,L147,R148,L149,R150,G151,G152	25	25	340501

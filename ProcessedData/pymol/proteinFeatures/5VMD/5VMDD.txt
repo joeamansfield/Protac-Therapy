@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1BDE939F66C71D89-185CE5231EB610FB
+#cdsid	QM3-qcdsearch-2E851AB9970D3E26-3FBB04CBC3E9444F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:47:26	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:26:53	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5VMDD	specific	Zn binding site	H21,C26,C29,C38,C41,C45,H46,H49,H56,C61,C63,C72	12	12	439074

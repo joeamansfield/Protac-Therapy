@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-22E2EA95BF948AFF-102B7C2CE23344DC
+#cdsid	QM3-qcdsearch-338293BD71E7E900-2A0A3487BBF790FA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:23:24	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:14:54	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2KREA	specific	E2 binding site	T40,K85,E86,Q89,M92,R93,Q96	7	7	438320

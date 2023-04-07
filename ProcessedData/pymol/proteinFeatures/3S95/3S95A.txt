@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1CAC17B536DEDD18-2308625F0321D497
+#cdsid	QM3-qcdsearch-1F96812F1B4944F8-20FF50CE8D85A654
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:27:53	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:17:19	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3S95A	specific	active site	L18,G19,K20,G21,C22,A26,V39,K41,E57,L70,T86,E87,Y88,I89,G92,T93,R95,D133,N135,H137,N138,L140,D151,L154,G184,N185,P186,Y187	28	28	271123

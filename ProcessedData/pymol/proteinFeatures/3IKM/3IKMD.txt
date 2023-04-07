@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-304B8A0E6E5830B7-407E7DFC7280BC8
+#cdsid	QM3-qcdsearch-190A805C10B7560-16E868FD358B9760
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:59:33	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:59:47	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3IKMD	specific	active site	N728,S732,R735,N736,T782,I783,T784,R786,V788,E789,P790,T791,D823,V824,T862,R876,K880,S1028,Q1035,I1066,H1067,D1068	22	22	176478

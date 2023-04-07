@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-B2C62E5EA96745C-3187EE68B3B8A8F6
+#cdsid	QM3-qcdsearch-274645BABE81CABD-EB149F4840F6C34
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:32:55	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:19:53	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2HDAA	specific	peptide ligand binding site	Y12,Y14,R17,T18,D21,G38,D39,W40,Y53,P55,N57,Y58	12	12	212940

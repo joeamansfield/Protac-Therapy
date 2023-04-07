@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-28CC8722964F69B0-D07280F83E098CE
+#cdsid	QM3-qcdsearch-2B07A216032ACA40-19DD0B4E2DF41426
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:38:45	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:23:12	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3I3NB	specific	homodimer interface	F10,E11,C12,H15,C16,S17,E18,L19,S20,R22,Q23,Q26,L31,F32,H50,R51,S52,V53,A55,A56,A57,Y99,X100,Y101,T102,G103,R104,I105,R106,V107,S108,T109,R126,F130,F134,K137,K138	37	37	349550

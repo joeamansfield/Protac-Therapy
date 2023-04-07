@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-B363377F7271D27-2342A689B7233808
+#cdsid	QM3-qcdsearch-3F307C5E31664EBB-37D29AA8AC02916E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:43:15	Run time	0:00:00:02
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:25:00	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3H9RA	specific	active site	V45,G46,K47,G48,R49,V53,A64,K66,L94,T114,H115,Y116,H117,S121,Y123,D167,K169,K171,N172,L174,D185,L188,G208,T209,K210,R211	26	26	271044

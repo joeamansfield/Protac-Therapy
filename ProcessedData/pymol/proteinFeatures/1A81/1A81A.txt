@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-33775CC3CDE10A4-C7FC7884CECCABD
+#cdsid	QM3-qcdsearch-18F18414070B01DC-371F0025A8279660
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:08:14	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:05:59	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1A81A	specific	phosphotyrosine binding pocket	R167,R187,R189,H207,R209	5	5	198264

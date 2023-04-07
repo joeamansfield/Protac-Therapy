@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-23C0BC59DDD6F0FA-2BE9283C068D123
+#cdsid	QM3-qcdsearch-1A14DDE3D93EEA34-2AE7B0F4948D5B3D
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:42:51	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:24:40	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3OP0A	specific	phosphotyrosine binding pocket	Y237,R257,S259,C260,T261,R262,A267,Q279,I281	9	9	198176

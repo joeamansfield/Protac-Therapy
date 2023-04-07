@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-29AB3DD5670CF45B-3F1FDA24E76BBF77
+#cdsid	QM3-qcdsearch-199E4559E8BB2993-3C151651971C5ACA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:42:07	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:24:12	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2PPIA	specific	homodimer interface	L34,L35,A37,L38,F41,F47,Q62,N64,I65,A67,A68,A69,L77,Y107,I108,G111,Q112,D134	18	18	349554

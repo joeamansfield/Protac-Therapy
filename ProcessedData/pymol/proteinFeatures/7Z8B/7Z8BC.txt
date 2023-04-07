@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-30E12F8943568691-7EC6CA8933C4A9E
+#cdsid	QM3-qcdsearch-33FF0EF9F9C58DFE-222A566E59AA8916
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:06:10	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:04:30	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 7Z8BC	specific	putative ligand binding site	Y866,L894,S900,Y902,R962	5	5	176486

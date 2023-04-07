@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3CC0E6D949374C0D-EA64DCD7B0D77B0
+#cdsid	QM3-qcdsearch-23866EFA3978B035-3A085C5DDC8F33A1
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:37:02	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:22:03	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1MQ4A	specific	ATP binding site	L20,G21,K22,G23,K24,V28,A41,K43,L75,E92,A94,T98,E141,N142,L144,D155	16	16	271018

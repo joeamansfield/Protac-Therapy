@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3D89B310A2EB4313-360C8A59C85D1A36
+#cdsid	QM3-qcdsearch-6607E56ECFDAEE3-F1DBAA938DC849C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:13:09	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:09:33	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1ZKKB	specific	active site	G42,R43,G44,Y60,C85,Y86,M87,Y88,Y89,R110,L111,I112,N113,H114,Y151	15	15	380926

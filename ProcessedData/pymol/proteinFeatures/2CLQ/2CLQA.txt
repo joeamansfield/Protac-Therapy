@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-295A19AC76A22E9E-1C8123ED8449634D
+#cdsid	QM3-qcdsearch-32EF57A15E41CE78-1887FF55C7FEC898
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:23:55	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:15:17	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2CLQA	specific	ATP binding site	L30,G31,K32,G33,T34,V38,A51,K53,V82,M98,E99,Q100,V101,G103,G104,S105,A108,D151,N152,L154,S165,D166,F167	23	23	270794

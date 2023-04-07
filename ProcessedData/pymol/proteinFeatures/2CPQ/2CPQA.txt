@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-5A9921F0533A4F1-2E11448BA28A233F
+#cdsid	QM3-qcdsearch-32F9C3AD85E32044-372DE1EA7FED3D69
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:06:37	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:04:53	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2CPQA	specific	putative nucleic acid binding site	D24,M26,G27,L28,I30,G31,T32,H33,G34,I37,Q38,R41,K42,A48,I49,E50,L51	17	17	411935

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-BA79AB15C9924B0-6049CB83BD359DC
+#cdsid	QM3-qcdsearch-1F8EF74C9EA2E010-3F284F5E2A24828D
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:55	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:54:33	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3LRQB	specific	Zn binding site	C25,C28,C38,C41,C46,C49,C61,C64	8	8	438281

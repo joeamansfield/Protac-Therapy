@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-360E2B49B08B0595-101813172B1A6AE4
+#cdsid	QM3-qcdsearch-3508C3838AA87A14-2C281150CF32940E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:18:28	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:12:44	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4IFIA	specific	ACC1 interaction site	V9,S10,G11,T13,E53,R54,T55,L56,K57,F59,V95	11	11	349367

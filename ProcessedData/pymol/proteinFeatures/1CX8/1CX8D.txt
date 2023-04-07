@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-26A477C987E0A7FD-35DBA4083F182626
+#cdsid	QM3-qcdsearch-E167AC5E6BDAE1B-1CC73020942FE6E9
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:04:37	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:03:18	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1CX8D	specific	dimer interface	V256,N258,V259,K261,V271,K273,V276,P278,D279,Y281,S326,I328,W345,G348,Y349,L350,S351,S352,L353,H354,L355,K356	22	22	349946

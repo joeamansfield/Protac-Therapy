@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-23354350E247CF2D-32FD3B01B607929E
+#cdsid	QM3-qcdsearch-76D011FD41B12D5-204CDC5612EB3E67
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:11:46	Run time	0:00:00:02
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:08:38	Run time	0:00:00:02
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1M2ZD	specific	ligand binding site	M40,L43,N44,G47,Q50,V51,W80,M81,M84,A85,L88,R91,F103,Q122,M126,L212,Y215,F217	18	18	132761

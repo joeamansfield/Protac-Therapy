@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-39FB475F15A1559C-1630EC0DE9AAF82B
+#cdsid	QM3-qcdsearch-35E998495E21E878-348A4444F198736D
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:11:16	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:08:17	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2ZFYA	specific	polypeptide substrate binding site	F152,E154,H155,F156,I157,E158,G159,R161,H180,I181,I184,H210,I211,F212,P213,E214,Y224	17	17	438600

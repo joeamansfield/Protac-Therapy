@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-342FD444F1BD3486-2C5E8170646844ED
+#cdsid	QM3-qcdsearch-1A167F92A217888B-2216BE7A28CE26A6
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:14:30	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:10:54	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4NEFA	specific	Asn-Pro-Ala signature motifs	N68,P69,A70,N184,P185,A186	6	6	238204

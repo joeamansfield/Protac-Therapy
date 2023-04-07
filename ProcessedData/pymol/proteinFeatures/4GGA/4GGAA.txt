@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-14DA4A7C198CAB3C-2A3ED4B8FBA0FE6A
+#cdsid	QM3-qcdsearch-3E7CCBB5AFB99766-25DA31CFCD6D8A0E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:39	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:54:15	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4GGAA	specific	structural tetrad	V121,D124,W130,S131,Q145,P146,V164,S168,W174,D175,S187,H188,S203,S208,H214,D215,H229,A246,D251,W257,P258,Q274,H275,T294,D300,W306,N307,A319,H320,I336,Q343,W349,K350,G362,H363,S381,D385,W391,R392	40	39	238121

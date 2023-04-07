@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-32EFD1BDE443FC4-523603B2ADBF467
+#cdsid	QM3-qcdsearch-13FA18A017111397-1F2519FA59B22A27
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:07:20	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:05:49	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2DZIA	specific	key conserved lysine K27	K34	1	1	340505

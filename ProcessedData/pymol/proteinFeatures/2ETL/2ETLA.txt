@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1FFA6ED58B42C9D5-2A9865700D6E2A50
+#cdsid	QM3-qcdsearch-2BE2D3E81518CC02-126B070C61349EC2
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:28:53	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:18:00	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2ETLA	specific	catalytic site	Q89,C95,H166,D181	4	4	187737

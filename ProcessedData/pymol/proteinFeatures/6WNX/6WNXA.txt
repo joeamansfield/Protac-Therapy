@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-39C779141AFD4750-1A3392CA5072DB56
+#cdsid	QM3-qcdsearch-8BF446C25D52CB8-33D9A6BB8025D36B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:24:05	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:15:26	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6WNXA	specific	structural tetrad	S142,D146,W152,D153,G165,H166,T182,D186,W192,D193,H205,H206,V221,D226,W232,D233,H249,V264,D269,W275,S276,G288,H289,S305,D309,W315,D316,G328,H329,V344,D349,W355,D356,E377,H378,S394,D398,W404,D405	40	39	238121

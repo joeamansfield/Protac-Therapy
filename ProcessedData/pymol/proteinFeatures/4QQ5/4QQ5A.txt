@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-34668F5B01DC5CAD-339211CA0C8E1EAB
+#cdsid	QM3-qcdsearch-39B1EEAF6875B29-6EE2C305C6649F6
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:06:31	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:04:50	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4QQ5A	generic	ATP binding site	L43,G44,E45,G46,G49,V51,A71,K73,I104,L120,E121,C122,A123,D182,R186,N187,L189,A199,D200	19	19	133230

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-134B1A2588F26137-1B211A44FD3E6F44
+#cdsid	QM3-qcdsearch-3FB7ACCBF55C062C-2CAC6DE965145361
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:09:20	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:07:13	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1CA9A	specific	TNFR binding site	R84,Y86,D90,F101,F138,R139,S144,S146,F147,A157,S158,G159	12	12	239747

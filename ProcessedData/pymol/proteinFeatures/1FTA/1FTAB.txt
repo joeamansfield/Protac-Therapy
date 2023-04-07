@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1C6A6AADCE60622E-23C9B6FF5E828BF7
+#cdsid	QM3-qcdsearch-DF4B97339D3AC53-3F3C87B1A4BD429
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:33:44	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:20:40	Run time	0:00:00:02
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1FTAB	specific	active site	D121,S123,S124,Y215,R243,Y244,M248,Y264,K274	9	9	238214

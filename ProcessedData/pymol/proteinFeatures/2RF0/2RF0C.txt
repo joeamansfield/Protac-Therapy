@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-5E7946405D4493D-112298F5CC8E354F
+#cdsid	QM3-qcdsearch-36CCEFA543A3BB5B-51B09AE419AA403
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:01:52	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:01:31	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2RF0C	specific	peptide ligand binding site	F36,Y38,A41,E45,G68,W69,P83,N85,Y86	9	9	212992

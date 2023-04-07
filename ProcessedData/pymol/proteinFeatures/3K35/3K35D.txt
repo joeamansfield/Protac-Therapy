@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1CBC87FC6E583A82-2396A3B8977D508
+#cdsid	QM3-qcdsearch-39EC546E5BBF4B3F-11619E3222C2C161
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:46:20	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:51:19	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3K35D	specific	substrate binding site	V115,H133,L186,W188,E189,D190,S191,L192,Q218,I219,R220	11	11	238701

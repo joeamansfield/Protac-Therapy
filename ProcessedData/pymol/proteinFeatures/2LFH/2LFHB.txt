@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1F6DE138A4241241-2BC1A23B13382157
+#cdsid	QM3-qcdsearch-285CE8FC1C980C37-1E6609F85585F9F9
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:45:50	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:25:41	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2LFHB	generic	DNA binding site	P22,L23,L25,N30,S50,Q51	6	6	381536

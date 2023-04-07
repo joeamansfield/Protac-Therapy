@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-30CC43D1C212527F-23C9B1F91D277EA1
+#cdsid	QM3-qcdsearch-AF011E63ADB03FC-34368BF56AD65CAA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:49:57	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:53:18	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1NF1A	specific	putative RAS interface	W39,Q75,L77,R79,G80,S82,S85,T89,G185,L193,R194,N197,P198,V201,K222,S225,K226,Q229,N233,V235,K239,E240	22	22	213332

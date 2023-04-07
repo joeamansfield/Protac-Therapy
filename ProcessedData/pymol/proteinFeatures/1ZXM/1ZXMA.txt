@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3E216B58A2835C95-A7E6EBB77C8ED91
+#cdsid	QM3-qcdsearch-2E77A85A6783CDCB-319D6A39D1E5CF41
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:18:02	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:12:30	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1ZXMA	specific	ATP binding site	E59,N63,D66,I90,N92,G94,G96,I97,G136,Y137,G138,A139,V151,T153,Y186,T187,I189	17	17	340407

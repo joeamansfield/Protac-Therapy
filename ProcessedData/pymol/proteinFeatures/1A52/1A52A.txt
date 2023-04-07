@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2F2AA71C596861E8-1E6124427BE2318E
+#cdsid	QM3-qcdsearch-1D0A79B193CA7CC0-DAC7E8632B40F40
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:36:59	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:21:59	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1A52A	specific	ligand binding site	L50,D55,E57,L91,R98,G225,H228	7	7	132747

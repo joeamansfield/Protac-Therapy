@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-19593507FCDF6E8F-3949DCC187B9954A
+#cdsid	QM3-qcdsearch-1FCD85B16B378804-3866DACF5976F04E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:52:46	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:55:28	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6VAAA	specific	heterodimer interface	R48,K52,K83,E84,S87,I90,G91,M94,L95,H98,E128,P131,K182,D183,Y215,V219,L273,F277,K280,D376,E442,N446,V449,K480,E483,D486,Y487,F490,R522,K523,F526,E581,T582,L585,E586,D589,S590,R592,R593,N616,Q618,L619,A620,N621,S622,Q625,L628,Y678,E689	50	49	212594

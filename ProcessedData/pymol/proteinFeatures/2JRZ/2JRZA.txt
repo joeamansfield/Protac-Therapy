@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-18F07B19772A6B38-2A43148E20AF817D
+#cdsid	QM3-qcdsearch-CFC592C3B5EDE5C-16167BFDCA28504C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:47	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:14:25	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2JRZA	specific	putative DNA binding site	K31,I32,P33,N34,V35,E36,R37,R62,W64,A65,A68,N78,G80,S81,L82,R84	16	16	350639

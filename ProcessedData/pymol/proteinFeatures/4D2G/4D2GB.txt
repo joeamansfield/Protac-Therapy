@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-215A9D2EF1CC7515-183F07A40386CD97
+#cdsid	QM3-qcdsearch-12FFFC719F57090D-11633C8F0077EB78
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:02:31	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:02:06	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4D2GB	specific	trimer interface	K80,K83,C84,A85,V114,S115,D116,Y117,E118,M119,K120,E146,R149,I150,R152,D153,G176,G179,N180,N182,I183,K184,L185,S186	24	24	238322

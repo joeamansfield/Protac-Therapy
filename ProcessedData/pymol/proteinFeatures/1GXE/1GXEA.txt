@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-315B9A2A55476314-1962C36846559A1F
+#cdsid	QM3-qcdsearch-53CA340D840F997-1017226C340D6805
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:55:56	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:57:15	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1GXEA	specific	Ig strand A	T27-V31	5	5	409475

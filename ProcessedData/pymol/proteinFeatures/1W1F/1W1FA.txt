@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-D5E24B4F614D3D3-8BD7F2D2736FE8B
+#cdsid	QM3-qcdsearch-36FE4DF7516AD225-10B8A3F5A9DBD284
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:09:51	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:07:31	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1W1FA	generic	peptide ligand binding site	Y14,Y16,I19,D23,E40,W41,P56,N58,Y59	9	9	212937

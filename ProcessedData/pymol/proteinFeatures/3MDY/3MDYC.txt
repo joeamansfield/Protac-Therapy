@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2A5A268A5FC246F4-3600543BC957041A
+#cdsid	QM3-qcdsearch-1039185C9ADF8634-26E05ADAB698027D
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:52:44	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:55:21	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3MDYC	specific	ATP binding site	I45,G46,K47,G48,R49,Y50,G51,V53,A64,K66,T114,D115,H117,S121,K171,N172,L174,D185	18	18	271121

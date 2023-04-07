@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-D8C5CFF77A78F7E-2819F3EE2E78C92E
+#cdsid	QM3-qcdsearch-3F9F6A29C5DCC90A-2D727881D117C5D2
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:27:34	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:17:04	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2JJSA	specific	homodimer interface	V6,I7,Q8,P9,D10,K11,S12,H24,T26,T28,R40,A45,E47,M72,D73,A84,A86,G87,T88,A107,G108,E110,S112,V113	24	24	409516

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-C9DA3E7278A158A-22FCBED63BCC6397
+#cdsid	QM3-qcdsearch-17C8DE7F32E0D0F-37E235A570AF20AF
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:39:07	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:23:22	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2RVQC	specific	DNA binding site	R33,R36,R39,K40,R46,K78,R81	7	7	238029

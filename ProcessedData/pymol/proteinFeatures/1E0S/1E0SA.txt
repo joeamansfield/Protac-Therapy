@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-143A232D0EABD632-3F1AF515EF6A9821
+#cdsid	QM3-qcdsearch-1149DBADBA641269-2B0F35E0003D8A59
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:05:29	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:04:00	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1E0SA	specific	GTP/Mg2+ binding site	A22,A23,G24,K25,T26,T27,T40,T43,G65,N121,K122,D124,C154,A155	14	14	206716

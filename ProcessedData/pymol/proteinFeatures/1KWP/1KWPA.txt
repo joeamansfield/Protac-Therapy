@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-10DCE7AADE5D8D4F-1B692A1BEF2F316C
+#cdsid	QM3-qcdsearch-9C9A6E34FB9E4DA-EB49A70DBF5CA69
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:34:41	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:21:27	Run time	0:00:00:02
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1KWPA	specific	ATP binding site	L70,G71,L72,G73,I74,N75,V78,A91,K93,V118,M138,E139,C140,L141,N191,L193,T206,D207	18	18	271072

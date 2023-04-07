@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2F7958CB1515A738-37F08CE5AD913566
+#cdsid	QM3-qcdsearch-115D6538623C93FD-63CA5DE6C48B008
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:29:59	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:18:38	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1E8YA	specific	ATP binding site	M662,S664,K665,K666,P668,I689,K691,D694,Y725,I737,E738,I739,V740,T745,K748,N809,M811,I821,D822	19	19	270627

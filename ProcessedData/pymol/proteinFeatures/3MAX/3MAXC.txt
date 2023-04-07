@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-463587756E0DFDC-3FF5CA54AFEC3D11
+#cdsid	QM3-qcdsearch-16BCAAA80CC670C6-5ED388ACD20660A
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:01:24	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:01:04	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3MAXC	specific	active site	H134,H135,G143,F144,D170,H172,D258,L265,G295,Y297	10	10	212535

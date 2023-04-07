@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-24A5FBA53C373881-9971C3F572911BC
+#cdsid	QM3-qcdsearch-9DA37D421BD552-837AB91D39F1C23
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:58:29	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:59:17	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2BYEA	specific	key conserved lysine K48	R78	1	1	340749

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3FEE20B53B9506E8-1994612F74B2A37E
+#cdsid	QM3-qcdsearch-212F9ADF03572A95-25BA79104C9D86BC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:11:33	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:08:35	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1DS6A	specific	GTP/Mg2+ binding site	A13,G15,K16,T17,C18,K116,D118,L119,A159	9	9	206663

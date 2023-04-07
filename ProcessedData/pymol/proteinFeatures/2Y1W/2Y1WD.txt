@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-94D5A340A05435B-9EEBE0F2CF0EE8C
+#cdsid	QM3-qcdsearch-2F49A78B94607EC8-1FE0517DBC5D06AA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:34:25	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:21:17	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2Y1WD	specific	S-adenosylmethionine binding site	V57,G58,C59,G60,S61,G62,I63,E80,A81,G106,K107,V108,E123	13	13	100107

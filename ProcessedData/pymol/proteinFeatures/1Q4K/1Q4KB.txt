@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1DF365FE6412DDE5-2B9BEE5348C366DC
+#cdsid	QM3-qcdsearch-A0A1972A96E1C9-30EE1F4637BC0AAC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:54:00	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:56:21	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1Q4KB	specific	phosphopeptide binding site	K69,W70,V71,D72,Y141,S143,E144,H145,L146,L147	10	10	240561

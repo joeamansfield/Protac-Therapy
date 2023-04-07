@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-39FF9207FF91CCFB-2B73F4650DFFACF3
+#cdsid	QM3-qcdsearch-24651304C17ACEF2-35E4F1F3972E0A83
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:14:16	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:10:38	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5VT2A	generic	homodimer interface 1	T19,R21,V41,T42,M43,C44,I45,P76,C77,C78,V79,P80,Y83,D102,D103,L104	16	16	381646

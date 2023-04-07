@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3803242B58FEEFC-25086378A7DA1639
+#cdsid	QM3-qcdsearch-18FECF915225A1A8-35C4FAB5831E6044
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:50:54	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:53:40	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6A3ZA	specific	Zn binding site	C13,C16,C29,H31,H34,C37,C48,C51	8	8	438142

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-22307BF5F09702C5-3A14ABAFD3A28DE
+#cdsid	QM3-qcdsearch-353423C40B06B439-3152EB9F0D931C9E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:41	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:54:18	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2C6UA	specific	ligand binding surface	I57,E85,K103,H105,P106	5	5	153063

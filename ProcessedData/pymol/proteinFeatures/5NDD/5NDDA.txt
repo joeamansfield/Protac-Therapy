@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3C05F1193BDAF69D-1EA273A6CD8ED162
+#cdsid	QM3-qcdsearch-DC8A289BF3E118A-277938F1F9F3F909
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:33:22	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:20:16	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5NDDA	specific	putative peptide ligand binding pocket	K260,Y263,H264,W270,C277,N278,V279,L280,I281,G282,F284,Y285,M288,L332,V334,T335,I336,P337,L338,C355,H356,D357,M368,Y371,F372,L373,L375,A376,I377,V379,F380,F529,S532,N533,L535,L536,H539,V551,Y552,L554,Y555,I556,L559,S562,T563	45	45	341349

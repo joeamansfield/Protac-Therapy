@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-168238A88D0C637C-320A81CB437DB8E
+#cdsid	QM3-qcdsearch-3476D899803E3B19-163730EF3A3BB7E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:44	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:14:23	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1JM7A	specific	Zn binding site	C24,C27,C39,H41,C44,C47,C61,C64	8	8	438161

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3003C63A42D2781D-1F01144B8D6EEAC
+#cdsid	QM3-qcdsearch-23485B7EA94E6851-A4BF034655294ED
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:48	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:14:26	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2W96A	specific	CDK interface	L6,C7,E9,V10,I13,A30,K33,A34,F108,K112,M113,E115,P118,T120,A121,L138,E141,L142,N146,K149,W150,N151	22	22	410276

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-11262A1CA813E0B9-B816A93D3F22D0C
+#cdsid	QM3-qcdsearch-E710250EE372795-9EBF319D125D0ED
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:54	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:14:32	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2WGPA	specific	active site	R37,D79,C110,A111,A112,G113,V114,S115,R116	9	9	350420

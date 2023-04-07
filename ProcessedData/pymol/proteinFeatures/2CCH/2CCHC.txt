@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-185E8CCB51EB964D-3E585F4CD27FADE3
+#cdsid	QM3-qcdsearch-13036799ABB0D0A0-16189CF78223AAA0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:46:14	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:25:58	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2CCHC	specific	active site	I11,G12,E13,G14,V19,A32,K34,R51,V65,F81,E82,F83,L84,D87,K89,K90,D128,K130,Q132,N133,L135,D146,L149,X161,E163,V164,V165,T166,W168,G206,D207	31	31	270844

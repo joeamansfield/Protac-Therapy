@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-26876F05C169188-160D24D92FC92BC6
+#cdsid	QM3-qcdsearch-3CD750087C250F52-36C97F21B2C2CFE4
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:46:01	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:25:47	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1MFGA	specific	protein binding site	L15,G16,F17,I19,A74,V75,L78,K79	9	8	238492

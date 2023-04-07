@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2FEEEA9006437F2F-1B7FA9B12CD04500
+#cdsid	QM3-qcdsearch-331FB771262369AE-2B2DF444F1DFF541
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:01:45	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:01:25	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1MQ1A	specific	Ca2+ binding site	S18,E21,D23,K26,E31,D61,D63,D65,E67,E72	10	10	240154

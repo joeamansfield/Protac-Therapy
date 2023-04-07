@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-28798B4BD40223BB-3E319C84CB4D2FA7
+#cdsid	QM3-qcdsearch-2E48093E30602BE8-2A123B473BA683F4
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:19:01	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:13:14	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1GNGA	specific	ATP binding site	I47,G48,N49,G50,V55,A68,K70,V95,L117,D118,Y119,V120,T123,K168,Q170,N171,L173,D185	18	18	271039

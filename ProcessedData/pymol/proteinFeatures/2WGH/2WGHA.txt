@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-249D08AB1BD99CFD-505A52028BF0B39
+#cdsid	QM3-qcdsearch-18966E79D9CF6793-3229A509887FDB54
 #datatype	feats
 #status	0
-#Start time	2023-04-01T19:16:36	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:49:21	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2WGHA	specific	active site	S129,P130,S144,C145,G174,N354,C356,E358,L373,M529,P530,T531,A532,S533,T534	15	15	153088

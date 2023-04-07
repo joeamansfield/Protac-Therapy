@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-327D66AAC8269869-191823DA252D0E6B
+#cdsid	QM3-qcdsearch-1B4E75E9D7B8BDD9-39D90B266326F98F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:27:51	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:17:17	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1IKNA	specific	DNA binding site	R15,R17,Y18,C20,E21,R23,S24,A25,G26,K104,K105,R106,R169	13	13	143645

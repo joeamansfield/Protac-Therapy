@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3BDAEF7789B50945-3F90B3CAAC933932
+#cdsid	QM3-qcdsearch-110782395C830011-216BB4BD3C01CE99
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:14:22	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:10:42	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1UCVA	specific	putative phosphorylation site	Y22,H55	2	2	188949

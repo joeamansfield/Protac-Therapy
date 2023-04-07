@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1B7ED11070A363F-F277E89C0007F1D
+#cdsid	QM3-qcdsearch-193A2C4ECBD5C371-651AE5DD2C0912
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:31:21	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:18:57	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1R28A	specific	homodimer interface	Q6,I7,Q8,F9,H12,A13,S14,V16,L17,N19,L20,L23,R26,I28,L29,H44,K45,T46,M49,A50,C51,Y56,R65,F87,M88,S91,R92,L93,N94,L95,H114,T118	32	32	349640

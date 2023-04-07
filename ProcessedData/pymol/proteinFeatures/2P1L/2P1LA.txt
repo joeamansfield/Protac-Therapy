@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-340745DC41E6D09F-23164904F6FB4654
+#cdsid	QM3-qcdsearch-34ECC738AFA3388B-24A6562D9078487F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:20:04	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:13:54	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2P1LA	specific	BH3-homology region binding site	A37,G38,E40,F41,Y45,A48,F49,Q65,S66,Q69,V70,E73,L74,N80,G82,R83,V85,A86,F90,L94,L138	21	21	132900

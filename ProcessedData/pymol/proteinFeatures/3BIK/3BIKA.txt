@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-287B5ECDA676A62E-2126F76C4D54E106
+#cdsid	QM3-qcdsearch-297E64A459AD3AC3-1244008BA794253F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:46:46	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:26:20	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3BIKA	specific	Ig strand A	V4-P7	4	4	409539

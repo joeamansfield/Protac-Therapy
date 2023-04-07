@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-16B70CDFDAFB291B-34C6B36AED295CAD
+#cdsid	QM3-qcdsearch-A367C1130A46050-3F1509A66B3204EE
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:19:30	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:13:23	Run time	0:00:00:02
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3C0YC	specific	active site	P62,D146,H189,H190,G198,F199,D227,H229,F258,D321,P329,L330,G361	13	13	212532

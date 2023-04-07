@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-44F9052006B84E1-1574C0DC5973A344
+#cdsid	QM3-qcdsearch-D35834A16A1A78C-11DC90248CE5134B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:55:45	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:57:08	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2OJXA	specific	phosphopeptide binding site	K49,W50,V51,D52,Y121,S123,E124,H125,L126,L127	10	10	240561

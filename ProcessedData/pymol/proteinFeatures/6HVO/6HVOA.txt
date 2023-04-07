@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-14D9020DE5442DBC-16EB88E35E2D479C
+#cdsid	QM3-qcdsearch-359DC351850899DE-3D1FBA0FC96EDC45
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:47:55	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:27:07	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6HVOA	specific	trimer interface	K80,K83,C84,A85,V114,S115,D116,Y117,E118,M119,K120,E146,R149,I150,R152,D153,G176,G179,N180,N182,I183,K184,L185,S186	24	24	238322

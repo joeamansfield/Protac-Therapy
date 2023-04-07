@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-DD55158A700A19E-21F422A175FC6A3
+#cdsid	QM3-qcdsearch-30E673594F0F3B4C-561FE2055E26879
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:52:59	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:55:41	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1G5VA	specific	peptide binding site	W21,D24,Y28,Y46,Y49,N51	6	6	410469

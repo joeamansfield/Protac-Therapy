@@ -195,7 +195,7 @@ rule volcano:
 rule merge_protac_types:
     input:
         expand("../ProcessedData/sig_pairs/val_protacs/{type}", type=cancerTypesSubset),
-        expand("../ProcessedData/sig_pairs/potential_protacs{type}", type=cancerTypesSubset)
+        expand("../ProcessedData/sig_pairs/potential_protacs/{type}", type=cancerTypesSubset)
     output:
         "../ProcessedData/merged_types_validated.txt",
         "../ProcessedData/merged_types_potential.txt"
@@ -257,7 +257,7 @@ rule fetch_pdb_files:
     input:
         "../ProcessedData/pymol/val_pdb.tsv"
     output:
-        expand("../ProcessedData/pymol/pdbfiles/{id}.pdb", id=pdbIds)
+        expand("../ProcessedData/pymol/pdbfiles/{id}.pdb", id=[x.lower() for x in pdbIds])
     shell:
         """
         bash -c '
@@ -269,15 +269,19 @@ rule fetch_pdb_files:
 
 rule get_protein_features:
     input:
-        expand("../ProcessedData/pymol/pdbfiles/{file}", file=os.listdir('../ProcessedData/pymol/pdbfiles'))
+        expand("../ProcessedData/pymol/pdbfiles/{id}.pdb", id=[x.lower() for x in pdbIds])
     output:
-        expand("../ProcessedData/pymol/proteinFeatures/{id}", id=pdbIds)
+        expand("../ProcessedData/pymol/proteinFeatures/{id}/status.txt", id=pdbIds)
     script:
         "pymolAnalysis/getProteinFeatures.py"
 
 rule compare_protein_features:
     input:
-        rules.get_protein_features.output
+        rules.get_protein_features.output,
+        "../ProcessedData/pymol/val_pdb.tsv",
+        "../ProcessedData/pymol/uniprot_to_hugo.tsv",
+        "../ProcessedData/merged_types_validated.txt",
+        "../ProcessedData/merged_types_potential.txt"
     output:
         "../ProcessedData/pymol/protein_features_table.tsv"
     script:

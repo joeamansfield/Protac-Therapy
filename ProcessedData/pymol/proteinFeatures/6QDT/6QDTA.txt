@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-391731FE83C6403E-1310D1683811E07B
+#cdsid	QM3-qcdsearch-CF76E413850E4BF-2B1959D99F419B13
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:18:52	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:13:09	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6QDTA	generic	peptide binding site	K54,R61,K127,R134,Y135,G176,L179,N180,V183,Y186,E187,I224,L227,D230,N231	15	15	206756

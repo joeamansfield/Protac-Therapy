@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-349000810086FC0B-271CE5062D092A56
+#cdsid	QM3-qcdsearch-C155A9FF2D92981-5F5F87C59D6517B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:34:37	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:21:25	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5WWWA	specific	RNA binding site	S29,E30,V32,A33,E34,V36,G37,R38,Q39,G40,K42,I43,K44,R47,Y53,I54,K55,T56,P57,V58,R59,H87,F88,I91,R92	25	25	411851

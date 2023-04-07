@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3B2E12E9EAFFC76D-2510186E62573930
+#cdsid	QM3-qcdsearch-32BEDA634BD0992C-2E0685B06AB08EC6
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:52:53	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:28:34	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2JDQB	specific	putative peptide binding site	F83-N176	9	94	-

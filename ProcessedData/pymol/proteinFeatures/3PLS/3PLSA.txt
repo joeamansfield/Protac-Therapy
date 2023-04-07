@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-470DAF2290EC134-33F54C588E7DDDCF
+#cdsid	QM3-qcdsearch-E07DDAB388B544A-1F9E7EF4A25FDD75
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:07:01	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:05:13	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3PLSA	specific	ATP binding site	I29,G30,K31,G32,V37,A53,K55,L85,L102,P103,Y104,M105,G108,D109,R153,N154,M156,A166,D167	19	19	270649

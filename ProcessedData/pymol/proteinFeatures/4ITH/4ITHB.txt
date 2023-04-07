@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3B4002EAB510ACFE-381B593A49BB1FB7
+#cdsid	QM3-qcdsearch-1FF60F731EF7DA42-C9AF7125142CCB7
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:41:44	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:23:51	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4ITHB	specific	active site	L23,D24,S25,G26,G27,V31,I43,K45,V76,M92,E93,Y94,M95,N99,M101,D138,K140,E142,N143,L145,D156,L159,G188,T189,L190,Y191	26	26	270929

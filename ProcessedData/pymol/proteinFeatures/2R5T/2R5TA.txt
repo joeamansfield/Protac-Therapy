@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-31141F4FDFFF5BC7-17219E010B4BC9BC
+#cdsid	QM3-qcdsearch-1841E13E6CE4CEEE-1EFF20AA1A414843
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:52:21	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:28:02	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2R5TA	specific	active site	I46,G47,G49,S50,F51,G52,V54,A67,K69,V102,D119,I121,E125,F127,D164,K166,E168,N169,L171,T181,D182,L185,F199,C200,G201,T202,P203,E204,E231,P237,Y240	31	31	270753

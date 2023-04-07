@@ -28,4 +28,6 @@ for file in pdbfiles:
         if pdbid not in os.listdir('../ProcessedData/pymol/proteinFeatures/'):
             os.mkdir('../ProcessedData/pymol/proteinFeatures/' + pdbid)
         open('../ProcessedData/pymol/proteinFeatures/' + pdbid + '/' + pdbid + chain.strip() + '.txt', 'w').write(response.text)
+
+    open('../ProcessedData/pymol/proteinFeatures/' + pdbid + '/' + "status.txt", "w").write("Done")
     print('')

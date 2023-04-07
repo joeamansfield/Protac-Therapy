@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2B9D0C7F88D0ABD0-1F94E3CDE5C09FFD
+#cdsid	QM3-qcdsearch-30794E671E92FFB6-356AF5ACDC6D7227
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:37:57	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:22:37	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 7OD1B	specific	Zn binding site	C228,C233,C249,C252,C257,C260,H265,C270	8	8	439005

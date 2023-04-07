@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-216E75C4AE9EF5D6-16E64C8FE0D464E1
+#cdsid	QM3-qcdsearch-2B2DD8E7B0988464-26D94FC1E14F3A1C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:00:10	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:00:03	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5KZ5Q	generic	catalytic residue	K192	1	1	99746

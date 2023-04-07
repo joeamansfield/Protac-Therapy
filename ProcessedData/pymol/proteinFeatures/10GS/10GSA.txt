@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1DF3F18308A62C94-208676642253B5C7
+#cdsid	QM3-qcdsearch-1A3FDE26460B0289-3ED4936881EF4AC2
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:24:32	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:15:57	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 10GSA	specific	dimer interface	Q83,A87,D90,M91,D94,D98,P128	7	7	198319

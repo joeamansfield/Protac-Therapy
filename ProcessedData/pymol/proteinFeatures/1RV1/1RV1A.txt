@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2C8C9B5C48301D5D-11C037FB348196FC
+#cdsid	QM3-qcdsearch-28DC1DC680D35753-10B48D537623D484
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:48:25	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:52:40	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1RV1A	specific	p53 binding site	L30,L33,G34,I37,M38,Y43,Q48,V69,K70,H72,I75,Y76	12	12	349491

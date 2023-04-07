@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3E3BE5A6426976D6-3D0FD7085A4F61D0
+#cdsid	QM3-qcdsearch-33F4CF4E9FF48A4B-2A006898F9956A83
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:18:37	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:13:02	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1QEWA	specific	heterodimer interface	R202,W204,V231,E232,R234,P235,A236,Q242,W244	9	9	409618

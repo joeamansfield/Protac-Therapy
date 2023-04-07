@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-39BC56DDDF04A6C7-57DE0810C77DF70
+#cdsid	QM3-qcdsearch-219ABC05C4F2E0CD-36E1F0D4B7CAC388
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:49:52	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:53:10	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3G73B	specific	DNA binding site	R18,S22,Y23,L41,K42,Y45,K60,N65,S66,R68,H69,S72,R79,S88,W90	15	15	410803

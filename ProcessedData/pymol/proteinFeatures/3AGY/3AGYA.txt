@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-280835D48792BDAE-1F40C1B4D1EB797E
+#cdsid	QM3-qcdsearch-2ED369C34452A850-201BC728E88F0C0F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:43:19	Run time	0:00:00:02
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:50:18	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3AGYA	specific	substrate binding site	H7,K22,K23,M24,K25,I26,S27,D42,D66	9	9	199909

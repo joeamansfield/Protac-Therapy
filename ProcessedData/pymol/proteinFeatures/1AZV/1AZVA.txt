@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2317524914BB0501-3D95EAB9E6BAE00C
+#cdsid	QM3-qcdsearch-2B47376B18035E4F-3EBA19FF77F445EB
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:53:22	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:29:05	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1AZVA	specific	active site	H46,H48,H63,H80,D83,H120	6	6	238186

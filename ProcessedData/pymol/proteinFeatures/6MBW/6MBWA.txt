@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-4E593F1D6A71011-154E2872804861E7
+#cdsid	QM3-qcdsearch-3E998295E0E88CCC-31FFE3F5D9E6791B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:57:40	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:59:01	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6MBWA	specific	dimer interface	Q214,N230,V231,H232,M233,N234,P235,Q237,N267,N268,V271,R286,N287,K291,S318,N322,E323	17	17	341087

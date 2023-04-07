@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-28C847E2F6B76EFB-283981D849B54543
+#cdsid	QM3-qcdsearch-1ECC34F7CC3C5FD1-31A9E41243D5A95A
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:14:05	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:10:29	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1YWTB	specific	dimer interface	S5,K9,L12,A13,Q15,R18,F25,A58,V61,I65,E80,V81,E83,Y84,K87,V88,E91	17	17	206756

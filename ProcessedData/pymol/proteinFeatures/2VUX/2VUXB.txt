@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-B041873302B09CF-35391F2401CC8DC2
+#cdsid	QM3-qcdsearch-273EFB529758F8F8-7E61C61D95E454
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:57:16	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T17:58:33	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2VUXB	specific	diiron center	D104,E135,H138,E198,E232,H235	6	6	153108

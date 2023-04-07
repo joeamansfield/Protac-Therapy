@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1A69FFE27C825F3E-2B3954B45C454EA7
+#cdsid	QM3-qcdsearch-24196E989808BA37-B60118028CB1C25
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:10:22	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T18:07:54	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2P4EA	specific	active site	D186,H226,L289,A290,N317,S383,S386	7	7	173790
