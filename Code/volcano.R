@@ -26,7 +26,7 @@ pdf(file = snakemake@output[[1]])
 #input$E3_target) <- "NO"
 #de$
 foldChangePos = input$Fold_Change[which(input$Fold_Change > 0)]
-foldCutoff = quantile(foldChangePos)[4]
+foldCutoff = 0
 
 input = input %>%
 	mutate(Genes = ifelse(.$P.value > (.05/nrow(input)) | .$Fold_Change < foldCutoff, 'Insignificant E3s and Substrates',
