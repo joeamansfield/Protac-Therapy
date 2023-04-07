@@ -119,7 +119,8 @@ rule protac_download:
 
 rule cptac_download:
     output:
-        expand("../Data/CPTAC/{type}.csv", type=cancerTypes)
+        expand("../Data/CPTAC/{type}.csv", type=cancerTypes),
+        "../Data/CPTAC/"
     script:
         "cptac_download.py"
     
@@ -141,12 +142,13 @@ rule file_setup:
 
 rule subset_cptac:
     input:
-        "Data/CPTAC"
+        "../Data/CPTAC/",
+        "../ProcessedData/subset_list.txt"
     output:
-        expand("../ProcessedData/subset_data/{type}.csv", type=cancerTypesSubset)
+        expand("../ProcessedData/subset_data/{type}_tt_subset.csv", type=cancerTypesSubset)
     shell:
         """
-        ./transpose_and_subset.sh
+         bash transpose_and_subset.sh
         """
 
 rule t_test:
