@@ -76,7 +76,8 @@ rule all:
         expand("../Figures/VolcanoPlots/{type}_volcano.pdf", type=cancerTypesSubset),
         "../ProcessedData/merged_types_validated.txt",
         "../ProcessedData/merged_types_potential.txt",
-        expand("../Figures/Pymol/{proteins}_cealign.png", proteins=outputProteins)
+        expand("../Figures/Pymol/{proteins}_cealign.png", proteins=outputProteins),
+        "../ProcessedData/tieredpairs.tsv"
 
 rule download_all:
     input:
