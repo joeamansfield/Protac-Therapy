@@ -3,7 +3,7 @@ Here are the instructions for making sure we are all using the same programming 
 Any time you install a new package, follow these steps:
     Make sure your terminal is in this directory: cd ProcessedData/packageManaging
     Activate the environment to export: conda activate myenv
-    Export your active environment to a new file: conda env export > environment.yml
+    Export your active environment to a new file: conda env export --no-builds > environment.yml
 
 Any time someone on the team says they've updated the environment, or you're running code someone else wrote and it's saying a library isn't included, follow these steps:
     Create the environment from the environment.yml file (this will take a while): conda env create -f environment.yml

@@ -1,31 +1,33 @@
 name: E3v1
 channels:
   - r
-  - bioconda
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1
   - _openmp_mutex=5.1
-  - _r-mutex=1.0.1
+  - _r-mutex=1.0.0
+  - _sysroot_linux-64_curr_repodata_hack=3
   - atk-1.0=2.36.0
   - bcrypt=3.2.0
   - binutils_impl_linux-64=2.38
   - binutils_linux-64=2.38.0
-  - blas=1.1
+  - blas=1.0
+  - boost-cpp=1.73.0
   - brotlipy=0.7.0
-  - bwidget=1.9.14
+  - bwidget=1.9.11
   - bzip2=1.0.8
-  - c-ares=1.18.1
+  - c-ares=1.19.0
   - ca-certificates=2023.01.10
   - cairo=1.16.0
   - certifi=2021.5.30
   - cffi=1.14.6
   - charset-normalizer=2.0.4
   - cryptography=35.0.0
-  - curl=7.87.0
+  - curl=7.88.1
   - docutils=0.17.1
-  - dropbox=5.2.1
+  - dropbox=11.14.0
   - expat=2.4.9
   - filechunkio=1.6
   - font-ttf-dejavu-sans-mono=2.37
@@ -35,12 +37,12 @@ dependencies:
   - fontconfig=2.14.1
   - fonts-anaconda=1
   - fonts-conda-ecosystem=1
-  - freetype=2.10.4
+  - freetype=2.12.1
   - fribidi=1.0.10
   - ftputil=3.2
   - gcc_impl_linux-64=11.2.0
   - gcc_linux-64=11.2.0
-  - gdk-pixbuf=2.42.8
+  - gdk-pixbuf=2.42.10
   - gfortran_impl_linux-64=11.2.0
   - gfortran_linux-64=11.2.0
   - giflib=5.2.1
@@ -55,18 +57,20 @@ dependencies:
   - harfbuzz=4.3.0
   - icu=58.2
   - idna=3.3
-  - intel-openmp=2022.1.0
+  - intel-openmp=2021.4.0
   - jpeg=9e
-  - kernel-headers_linux-64=2.6.32
+  - kernel-headers_linux-64=3.10.0
   - keyutils=1.6.1
-  - krb5=1.19.3
+  - krb5=1.19.4
+  - lcms2=2.12
   - ld_impl_linux-64=2.38
   - lerc=3.0
   - libblas=3.9.0
+  - libboost=1.73.0
   - libcblas=3.9.0
-  - libcurl=7.87.0
-  - libdeflate=1.8
-  - libedit=3.1.20191231
+  - libcurl=7.88.1
+  - libdeflate=1.17
+  - libedit=3.1.20221030
   - libev=4.33
   - libffi=3.3
   - libgcc-devel_linux-64=11.2.0
@@ -75,10 +79,11 @@ dependencies:
   - libgfortran-ng=11.2.0
   - libgfortran5=11.2.0
   - libgomp=11.2.0
+  - libiconv=1.16
   - liblapack=3.9.0
   - libnghttp2=1.46.0
   - libopenblas=0.3.20
-  - libpng=1.6.37
+  - libpng=1.6.39
   - librsvg=2.54.4
   - libsodium=1.0.18
   - libssh2=1.10.0
@@ -89,17 +94,20 @@ dependencies:
   - libuuid=2.32.1
   - libwebp=1.2.4
   - libwebp-base=1.2.4
-  - libxcb=1.13
+  - libxcb=1.15
   - libxml2=2.9.14
-  - lz4-c=1.9.3
-  - make=4.3
-  - mkl=2020.2
-  - mkl-service=2.3.0
+  - lz4-c=1.9.4
+  - make=4.2.1
+  - mkl=2021.4.0
+  - mkl-service=2.4.0
   - ncurses=6.4
   - ninja=1.10.2
   - ninja-base=1.10.2
+  - nspr=4.33
+  - nss=3.74
   - numpy=1.19.5
   - openblas=0.3.20
+  - openjpeg=2.4.0
   - openssl=1.1.1t
   - pandas=1.1.5
   - pango=1.50.7
@@ -107,9 +115,12 @@ dependencies:
   - pcre=8.45
   - pcre2=10.37
   - pip=21.2.2
-  - pixman=0.38.0
+  - pixman=0.40.0
+  - ply=3.11
+  - poppler=22.12.0
+  - poppler-data=0.4.11
   - psutil=5.8.0
-  - pthread-stubs=0.4
+  - pthread-stubs=0.3
   - pycparser=2.21
   - pynacl=1.4.0
   - pyopenssl=22.0.0
@@ -230,8 +241,9 @@ dependencies:
   - setuptools=58.0.4
   - six=1.16.0
   - snakemake=3.13.3
-  - sqlite=3.40.1
-  - sysroot_linux-64=2.12
+  - sqlite=3.41.1
+  - stone=3.2.1
+  - sysroot_linux-64=2.17
   - tk=8.6.12
   - tktable=2.10
   - urllib3=1.26.8
@@ -251,7 +263,7 @@ dependencies:
   - xz=5.2.10
   - yaml=0.2.5
   - zlib=1.2.13
-  - zstd=1.5.2
+  - zstd=1.5.4
   - pip:
     - beautifulsoup4==4.11.2
     - biothings-client==0.2.6
