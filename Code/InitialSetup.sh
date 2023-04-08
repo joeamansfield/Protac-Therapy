@@ -16,7 +16,22 @@ export OMP_NUM_THREADS=$SLURM_CPUS_ON_NODE
 
 # LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
 
-cd ../ProcessedData/packageManaging/
-conda env create -f environment.yml
-conda env create -f pymolEnv.yml
-cd ../../Code/
+# cd ../ProcessedData/packageManaging/
+# conda env create -f environment.yml
+# conda env create -f pymolEnv.yml
+# cd ../../Code/
+
+conda create -y -n E3v1
+source activate E3v1
+conda install -c conda-forge r-tidyverse
+conda install -c anaconda pandas
+conda install -c bioconda cptac
+conda install -c bioconda grid
+conda install -c conda-forge r-janitor
+conda install -c conda-forge r-data.table
+conda install -c bioconda r-ggrepel
+conda install -c conda-forge r-viridis
+
+conda create -y -n pymolv1
+source activate pymolv1
+conda install -c schrodinger pymol-bundle
