@@ -23,15 +23,15 @@ export OMP_NUM_THREADS=$SLURM_CPUS_ON_NODE
 
 conda create -y -n E3v1
 source activate E3v1
-conda install -c -y conda-forge r-tidyverse
-conda install -c -y anaconda pandas
-conda install -c -y bioconda cptac
-conda install -c -y bioconda grid
-conda install -c -y conda-forge r-janitor
-conda install -c -y conda-forge r-data.table
-conda install -c -y bioconda r-ggrepel
-conda install -c -y conda-forge r-viridis
+conda install -c conda-forge r-tidyverse -y
+conda install -c anaconda pandas -y
+conda install -c bioconda cptac -y
+conda install -c bioconda grid -y
+conda install -c conda-forge r-janitor -y
+conda install -c conda-forge r-data.table -y
+conda install -c bioconda r-ggrepel -y
+conda install -c conda-forge r-viridis -y
 
 conda create -y -n pymolv1
 source activate pymolv1
-conda install -c -y schrodinger pymol-bundle
+conda install -c schrodinger pymol-bundle -y
