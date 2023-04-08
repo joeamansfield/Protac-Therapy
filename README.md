@@ -5,7 +5,7 @@ Here are instructions for using this workflow:
     1. Download a miniconda from https://docs.conda.io/en/latest/miniconda.html (probably use curl or wget)
     2. ```bash Miniconda3-latest-Linux-x86_64.sh``` (or if it downloads a different file then just replace that file name)
     3. Restart terminal and you should see a (base) in front of your typical bash prompt
-    4. Run ```bash InitialSetup.sh``` and it will create the environments you need
+    4. Run ```bash InitialSetup.sh``` and it will create the environments you need (you must be in the Code directory when you run this command)
 2. This workflow utilizes slurm (if you aren't in an environment that uses slurm or if you don't know if you are or not, just use ```bash RunAll.sh``` instead of the lines below). If you use slurm, make sure you know if your system allows internet access. If it doesn't, it may stop in the middle of execution and give a curl or wget error. You may have to execute part of the workflow with just bash instead of sbatch if that's the case. 
     1. Make sure you are in the Code directory (```cd Code```)
     2. Submit a job using ```sbatch RunAll.sh``` (or other bash script)
