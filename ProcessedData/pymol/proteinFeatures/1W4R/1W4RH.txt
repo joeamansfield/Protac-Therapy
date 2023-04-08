@@ -1,8 +1,8 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3FE1DB6E81BC28DB-336203F8FBB2D007
+#cdsid	QM3-qcdsearch-6986B3C3027FE6C-8A3C8A03A643F99
 #datatype	feats
 #status	0
-#Start time	2023-04-07T18:22:21	Run time	0:00:00:01
+#Start time	2023-04-07T19:34:40	Run time	0:00:00:01
 #status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain

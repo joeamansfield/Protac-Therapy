@@ -1,0 +1,177 @@
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	cealign
+	1	compare_protein_features
+	1	fetch_pdb_files
+	1	file_setup
+	1	find_label_sets
+	1	find_sig_pairs
+	1	get_protein_features
+	1	merge_cancer_tier
+	1	merge_protac_types
+	1	sig_proteins_to_uniprot
+	1	single_cancer_protacs_pval
+	1	single_multiple_cancer_protacs
+	1	subset_cptac
+	6	t_test
+	1	uniprot_to_pdb
+	6	volcano
+	27
+
+rule file_setup:
+    input: ../Data/literature.E3.txt, ../Data/Protac.csv
+    output: ../Data/E3Subs_known.txt, ../ProcessedData/existing_protacs.txt, ../ProcessedData/E3Sub_pairs_full.txt, ../ProcessedData/subset_list.txt, ../ProcessedData/E3List.txt, ../ProcessedData/targetProteinList.txt
+    jobid: 14
+
+Finished job 14.
+1 of 27 steps (4%) done
+
+rule subset_cptac:
+    input: ../Data/CPTAC/, ../ProcessedData/subset_list.txt
+    output: ../ProcessedData/subset_data/clear_cell_renal_cell_carcinoma_(kidney)_tt_subset.csv, ../ProcessedData/subset_data/endometrial_carcinoma_(uterine)_tt_subset.csv, ../ProcessedData/subset_data/glioblastoma_tt_subset.csv, ../ProcessedData/subset_data/head_and_neck_squamous_cell_carcinoma_tt_subset.csv, ../ProcessedData/subset_data/lung_squamous_cell_carcinoma_tt_subset.csv, ../ProcessedData/subset_data/lung_adenocarcinoma_tt_subset.csv
+    jobid: 25
+
+formatted breast_cancer
+formatted clear_cell_renal_cell_carcinoma_(kidney)
+formatted colorectal_cancer
+formatted endometrial_carcinoma_(uterine)
+formatted glioblastoma
+formatted head_and_neck_squamous_cell_carcinoma
+formatted high_grade_serous_ovarian_cancer
+formatted lung_adenocarcinoma
+formatted lung_squamous_cell_carcinoma
+formatted pancreatic_ductal_adenocarcinoma
+subset breast_cancer_tt
+subset clear_cell_renal_cell_carcinoma_(kidney)_tt
+subset colorectal_cancer_tt
+subset endometrial_carcinoma_(uterine)_tt
+subset glioblastoma_tt
+subset head_and_neck_squamous_cell_carcinoma_tt
+subset high_grade_serous_ovarian_cancer_tt
+subset lung_adenocarcinoma_tt
+subset lung_squamous_cell_carcinoma_tt
+subset pancreatic_ductal_adenocarcinoma_tt
+Finished job 25.
+2 of 27 steps (7%) done
+
+rule t_test:
+    input: ../ProcessedData/subset_data/clear_cell_renal_cell_carcinoma_(kidney)_tt_subset.csv
+    output: ../ProcessedData/pvalues/clear_cell_renal_cell_carcinoma_(kidney).txt
+    jobid: 21
+    wildcards: type=clear_cell_renal_cell_carcinoma_(kidney)
+
+Finished job 21.
+3 of 27 steps (11%) done
+
+rule t_test:
+    input: ../ProcessedData/subset_data/glioblastoma_tt_subset.csv
+    output: ../ProcessedData/pvalues/glioblastoma.txt
+    jobid: 18
+    wildcards: type=glioblastoma
+
+Finished job 18.
+4 of 27 steps (15%) done
+
+rule t_test:
+    input: ../ProcessedData/subset_data/lung_squamous_cell_carcinoma_tt_subset.csv
+    output: ../ProcessedData/pvalues/lung_squamous_cell_carcinoma.txt
+    jobid: 17
+    wildcards: type=lung_squamous_cell_carcinoma
+
+Finished job 17.
+5 of 27 steps (19%) done
+
+rule t_test:
+    input: ../ProcessedData/subset_data/lung_adenocarcinoma_tt_subset.csv
+    output: ../ProcessedData/pvalues/lung_adenocarcinoma.txt
+    jobid: 20
+    wildcards: type=lung_adenocarcinoma
+
+There were 50 or more warnings (use warnings() to see the first 50)
+Finished job 20.
+6 of 27 steps (22%) done
+
+rule t_test:
+    input: ../ProcessedData/subset_data/head_and_neck_squamous_cell_carcinoma_tt_subset.csv
+    output: ../ProcessedData/pvalues/head_and_neck_squamous_cell_carcinoma.txt
+    jobid: 16
+    wildcards: type=head_and_neck_squamous_cell_carcinoma
+
+Finished job 16.
+7 of 27 steps (26%) done
+
+rule t_test:
+    input: ../ProcessedData/subset_data/endometrial_carcinoma_(uterine)_tt_subset.csv
+    output: ../ProcessedData/pvalues/endometrial_carcinoma_(uterine).txt
+    jobid: 13
+    wildcards: type=endometrial_carcinoma_(uterine)
+
+Finished job 13.
+8 of 27 steps (30%) done
+
+rule find_sig_pairs:
+    input: ../ProcessedData/pvalues/clear_cell_renal_cell_carcinoma_(kidney).txt, ../ProcessedData/pvalues/endometrial_carcinoma_(uterine).txt, ../ProcessedData/pvalues/glioblastoma.txt, ../ProcessedData/pvalues/head_and_neck_squamous_cell_carcinoma.txt, ../ProcessedData/pvalues/lung_squamous_cell_carcinoma.txt, ../ProcessedData/pvalues/lung_adenocarcinoma.txt, ../ProcessedData/E3Sub_pairs_full.txt, ../ProcessedData/existing_protacs.txt
+    output: ../ProcessedData/sig_pairs/val_protacs/clear_cell_renal_cell_carcinoma_(kidney), ../ProcessedData/sig_pairs/val_protacs/endometrial_carcinoma_(uterine), ../ProcessedData/sig_pairs/val_protacs/glioblastoma, ../ProcessedData/sig_pairs/val_protacs/head_and_neck_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/val_protacs/lung_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/val_protacs/lung_adenocarcinoma, ../ProcessedData/sig_pairs/potential_protacs/clear_cell_renal_cell_carcinoma_(kidney), ../ProcessedData/sig_pairs/potential_protacs/endometrial_carcinoma_(uterine), ../ProcessedData/sig_pairs/potential_protacs/glioblastoma, ../ProcessedData/sig_pairs/potential_protacs/head_and_neck_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/potential_protacs/lung_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/potential_protacs/lung_adenocarcinoma
+    jobid: 19
+
+mkdir: cannot create directory ‘../ProcessedData/sig_pairs’: File exists
+mkdir: cannot create directory ‘../ProcessedData/sig_pairs/val_protacs’: File exists
+mkdir: cannot create directory ‘../ProcessedData/sig_pairs/potential_protacs’: File exists
+Finished job 19.
+9 of 27 steps (33%) done
+
+rule merge_protac_types:
+    input: ../ProcessedData/sig_pairs/val_protacs/clear_cell_renal_cell_carcinoma_(kidney), ../ProcessedData/sig_pairs/val_protacs/endometrial_carcinoma_(uterine), ../ProcessedData/sig_pairs/val_protacs/glioblastoma, ../ProcessedData/sig_pairs/val_protacs/head_and_neck_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/val_protacs/lung_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/val_protacs/lung_adenocarcinoma, ../ProcessedData/sig_pairs/potential_protacs/clear_cell_renal_cell_carcinoma_(kidney), ../ProcessedData/sig_pairs/potential_protacs/endometrial_carcinoma_(uterine), ../ProcessedData/sig_pairs/potential_protacs/glioblastoma, ../ProcessedData/sig_pairs/potential_protacs/head_and_neck_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/potential_protacs/lung_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/potential_protacs/lung_adenocarcinoma
+    output: ../ProcessedData/merged_types_validated.txt, ../ProcessedData/merged_types_potential.txt
+    jobid: 7
+
+Finished job 7.
+10 of 27 steps (37%) done
+
+rule find_label_sets:
+    input: ../ProcessedData/sig_pairs/val_protacs/clear_cell_renal_cell_carcinoma_(kidney), ../ProcessedData/sig_pairs/val_protacs/endometrial_carcinoma_(uterine), ../ProcessedData/sig_pairs/val_protacs/glioblastoma, ../ProcessedData/sig_pairs/val_protacs/head_and_neck_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/val_protacs/lung_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/val_protacs/lung_adenocarcinoma, ../ProcessedData/sig_pairs/potential_protacs/clear_cell_renal_cell_carcinoma_(kidney), ../ProcessedData/sig_pairs/potential_protacs/endometrial_carcinoma_(uterine), ../ProcessedData/sig_pairs/potential_protacs/glioblastoma, ../ProcessedData/sig_pairs/potential_protacs/head_and_neck_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/potential_protacs/lung_squamous_cell_carcinoma, ../ProcessedData/sig_pairs/potential_protacs/lung_adenocarcinoma
+    output: ../ProcessedData/sig_pairs/most_sig/clear_cell_renal_cell_carcinoma_(kidney)_most_sig.txt, ../ProcessedData/sig_pairs/most_sig/endometrial_carcinoma_(uterine)_most_sig.txt, ../ProcessedData/sig_pairs/most_sig/glioblastoma_most_sig.txt, ../ProcessedData/sig_pairs/most_sig/head_and_neck_squamous_cell_carcinoma_most_sig.txt, ../ProcessedData/sig_pairs/most_sig/lung_squamous_cell_carcinoma_most_sig.txt, ../ProcessedData/sig_pairs/most_sig/lung_adenocarcinoma_most_sig.txt
+    jobid: 15
+
+mkdir: cannot create directory ‘../ProcessedData/sig_pairs/most_sig’: File exists
+clear_cell_renal_cell_carcinoma_(kidney)
+endometrial_carcinoma_(uterine)
+glioblastoma
+head_and_neck_squamous_cell_carcinoma
+lung_adenocarcinoma
+lung_squamous_cell_carcinoma
+Finished job 15.
+11 of 27 steps (41%) done
+
+rule sig_proteins_to_uniprot:
+    input: ../ProcessedData/merged_types_validated.txt, ../ProcessedData/merged_types_potential.txt, ../Data/literature.E3.txt
+    output: ../ProcessedData/pymol/val_uniprot.csv, ../ProcessedData/pymol/uniprot_to_hugo.tsv
+    jobid: 24
+
+Finished job 24.
+12 of 27 steps (44%) done
+
+rule uniprot_to_pdb:
+    input: ../ProcessedData/pymol/val_uniprot.csv
+    output: ../ProcessedData/pymol/val_pdb.tsv
+    jobid: 23
+
+pymolAnalysis/submitMapJob.sh: line 2: [: missing `]'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to rest.uniprot.org port 443 after 80 ms: Couldn't connect to server
+Error in job uniprot_to_pdb while creating output file ../ProcessedData/pymol/val_pdb.tsv.
+RuleException:
+CalledProcessError in line 253 of /nobackup/scratch/grp/grp_PROTAC/Reproducibility/PROTACTherapy/Code/Snakefile:
+Command '
+        bash pymolAnalysis/submitMapJob.sh
+        python pymolAnalysis/getPDBResponse.py
+        ' returned non-zero exit status 7.
+  File "/nobackup/scratch/grp/grp_PROTAC/Reproducibility/PROTACTherapy/Code/Snakefile", line 253, in __rule_uniprot_to_pdb
+  File "/fslhome/stoned4/miniconda3/envs/E3v1/lib/python3.6/concurrent/futures/thread.py", line 56, in run
+Will exit after finishing currently running jobs.
+Exiting because a job execution failed. Look above for error message
