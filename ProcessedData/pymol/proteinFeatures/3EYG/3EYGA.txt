@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-321A9A172E50D689-19D5D3491D19AB46
+#cdsid	QM3-qcdsearch-644B7474C39D717-38BA9BFCB7B9FF0C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:05:11	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:17:13	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3EYGA	specific	ATP binding site	L17,G18,E19,G20,G23,K24,V25,A42,K44,M92,E93,F94,L95,S99,R143,N144,L146,G156,D157	19	19	173644

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1B329C709C180D31-1C4AC1470932C11C
+#cdsid	QM3-qcdsearch-1A0B93602D63F569-9C57E7E744B00F6
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:04:55	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:17:00	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1C25A	specific	oxyanion binding site	C96,E97,F98,S99,S100,E101,R102	7	7	238788

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2F3EE22E3C31087-35A1A9C09516AAF7
+#cdsid	QM3-qcdsearch-3FC0B010A3F67C65-38D524A2F53B3F32
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:17:37	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:24:31	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1WQUA	specific	phosphotyrosine binding pocket	R25,R41,H61,I63	4	4	198224

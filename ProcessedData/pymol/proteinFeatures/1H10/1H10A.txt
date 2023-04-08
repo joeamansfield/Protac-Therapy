@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-36529FE5D271BCFC-34115536BF3A05D5
+#cdsid	QM3-qcdsearch-3487B2638994B291-349EE833BCE44FA1
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:00:44	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:14:06	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1H10A	specific	phosphoinositide binding site	K16,G18,E19,Y20,I21,R25,R27,L54,N55,F57,R88	11	11	269947

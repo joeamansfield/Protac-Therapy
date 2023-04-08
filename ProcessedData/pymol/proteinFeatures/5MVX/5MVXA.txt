@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1B6D7455A9F894D5-39D9347D10979E91
+#cdsid	QM3-qcdsearch-36FA0309191D7529-85D1FC973934BC9
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:15:44	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:23:53	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5MVXA	specific	Ca2+ binding site	D258,Y261,N276	3	3	238011

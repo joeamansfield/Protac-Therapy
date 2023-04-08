@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-33126B36968D515-11329544F929E59
+#cdsid	QM3-qcdsearch-10B536D94038008E-3E2496FB75A91B2B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:48:43	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:07:02	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3ZNVA	specific	active site	D49,C52,H262,N264	4	4	438620

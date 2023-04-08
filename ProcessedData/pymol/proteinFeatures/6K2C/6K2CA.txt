@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-27806647EAA922E0-17A2875579F3AE51
+#cdsid	QM3-qcdsearch-163FB952DCCD69ED-3ED2F217272E0878
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:19:48	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:25:57	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6K2CA	specific	E2 interaction site	V176,N179,L180,F182,L183,Y186,L193,L195,V199,V200,N201,A207,L212,Y229,V233	15	15	238033

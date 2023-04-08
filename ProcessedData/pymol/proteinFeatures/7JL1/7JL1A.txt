@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-28CD2B4AE653502B-F3DC4CE20DEF2DC
+#cdsid	QM3-qcdsearch-2260502837970ABE-37AB409B205F12CD
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:34	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:08:22	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 7JL1A	specific	ATP binding site	F38,K39,P40,R41,Q44,P62,T63,G64,C65,G66,K67,T68,F69,D169	14	14	350831

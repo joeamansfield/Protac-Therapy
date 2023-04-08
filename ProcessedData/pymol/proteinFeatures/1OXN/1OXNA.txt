@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2EB0925CAA40A194-2382BE077DFC9C1A
+#cdsid	QM3-qcdsearch-5F1B72A88D83919-9DE50C87CEAC1C9
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:48:59	Run time	0:00:00:02
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:40:17	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1OXNA	specific	Zn2+ binding site	C85,C88,H105,C112	4	4	237989

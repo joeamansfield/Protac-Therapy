@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1727E6486F7467B1-5271BEED8F5CB01
+#cdsid	QM3-qcdsearch-546EB6A50B82168-31D7DF8599333AF7
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:38:40	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:35:19	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1ATUA	specific	reactive center loop (RCL)	G324,T325,E326,A327,A328,G329,A330,M331,F332,L333,E334,A335,I336,P337,M338,S339,I340,P341,P342,E343,V344,K345,F346,N347,K348,P349	26	26	381012

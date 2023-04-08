@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2CD33004C1C543FF-50DBE5508F7C5AA
+#cdsid	QM3-qcdsearch-252283D622E8162E-C41C30B69AF6596
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:14:49	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:23:22	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3MTSA	specific	putative peptide binding site	G1,E2,V3,E4,Y5,V20,W22,R23,G24,Y25,E29,T31,W32,E33,P34,Q36,N37,I43,Q46,F47	20	20	349289

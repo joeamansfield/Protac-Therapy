@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-39FC740A2B3EC61D-22CD784C18A1AA9
+#cdsid	QM3-qcdsearch-3BE3C481B1C50369-2ECE7E7D40B9A0C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:58	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:08:51	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4W2RA	specific	active site	V518,A519,G520,W521,Y538,Q545,A548,D549,G552,D556,M559,C560,S561,F562,L563,F564,N565,R582,F583,A584,N585,H586,A594,F621,Y623,R624	26	26	380995

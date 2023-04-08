@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-16FA9481D5BB1C3C-2E46B1F99A14C847
+#cdsid	QM3-qcdsearch-289C17B034521DDA-16C75165183B37A7
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:42:34	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:36:45	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1GZKA	generic	ATP binding site	L13,G14,K15,G16,G19,V21,A34,K36,T68,M84,E85,Y86,A87,D130,E134,N135,M137,T147,D148	19	19	173686

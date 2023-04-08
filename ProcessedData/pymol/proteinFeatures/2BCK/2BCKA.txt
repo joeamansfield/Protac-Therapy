@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1C2754F32E990D65-C51C7E9EABBA64B
+#cdsid	QM3-qcdsearch-2D7F8B911899A572-1EDDC06BC841F65
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:52:25	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:41:16	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2BCKA	specific	ligand binding site	H192,R202,W204,L206,V231,E232,R234,P235,A236,G237,Q242,W244	12	12	409617

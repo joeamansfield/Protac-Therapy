@@ -25,10 +25,10 @@ VHL	BTK	glioblastoma
 VHL	BUB1B	glioblastoma, endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
 VHL	CDC20	glioblastoma, endometrial_carcinoma_(uterine), lung_squamous_cell_carcinoma
 VHL	CDC7	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
-VHL	CDK1	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
 VHL	CDK12	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
 VHL	CDK13	glioblastoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
 VHL	CDK16	endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
+VHL	CDK1	glioblastoma, endometrial_carcinoma_(uterine), lung_adenocarcinoma, lung_squamous_cell_carcinoma
 VHL	CDK2	glioblastoma, lung_adenocarcinoma, lung_squamous_cell_carcinoma
 VHL	CDK4	lung_adenocarcinoma, lung_squamous_cell_carcinoma
 VHL	CDK6	glioblastoma, lung_squamous_cell_carcinoma

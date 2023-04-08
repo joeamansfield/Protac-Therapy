@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-131183B3683CF6BF-186BC292158E04C7
+#cdsid	QM3-qcdsearch-3A50ED9112E9C84C-3B9ED3F640D87FE6
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:24:01	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:28:02	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2L4ZA	specific	Zn binding site	C64,C67,H85,C88,C91,C94,C114,D117	8	8	188772

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-4038A8F36538B4C-1677A3653F4FA647
+#cdsid	QM3-qcdsearch-32F119BDAB7860E-22241EB949C389FD
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:47:18	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:39:43	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1NKOA	specific	ligand binding site	R106,W114,N115	3	3	409377

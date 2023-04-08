@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1108331C52F455B9-345F2D0F65FB46E0
+#cdsid	QM3-qcdsearch-3AA7599D8EE2C863-5AE7ABC5D076C4F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:16:02	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:24:03	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2V37A	specific	Ca2+ binding site	E11,N12,D66,E68,D99,N101,D102	7	7	206637

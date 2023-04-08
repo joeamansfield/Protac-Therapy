@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-12A037B693398933-1082D4B28E9785E9
+#cdsid	QM3-qcdsearch-97269DC7E371070-211892D7C788FF13
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:38:19	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:35:04	Run time	0:00:00:02
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3RGFA	specific	ATP binding site	V29,G30,R31,G32,V37,A52,K54,I81,F99,D100,Y101,A102,D105,H108,A157,N158,L160,D175	18	18	270851

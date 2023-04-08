@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-286E95F38DA63E9C-331CCC4A4BF793
+#cdsid	QM3-qcdsearch-3A9739090A20F3E0-27F8B82FCB029289
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:13:39	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:22:29	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1FYRD	specific	phosphotyrosine binding pocket	R20,R39,S41,S49,H60,K62	6	6	199828

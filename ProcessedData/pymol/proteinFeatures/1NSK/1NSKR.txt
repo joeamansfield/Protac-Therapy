@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2E41B2AEB6821ED-316D5B001D085D73
+#cdsid	QM3-qcdsearch-212AEF2431DC06B6-267345BBD4F863DC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:54:21	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:10:06	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1NSKR	specific	active site	K12,Y52,F60,R88,T94,R105,N115,H118,S120,D121,E129	11	11	239876

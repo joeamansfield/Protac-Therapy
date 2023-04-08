@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-37454C9073821685-38E0D6B0DA3F77D9
+#cdsid	QM3-qcdsearch-34EE4F94F90F2EE-9C666D1C7418D7F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:56:06	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:11:05	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5YZ0A	specific	ATP binding site	L2303,S2305,L2306,Q2307,P2309,M2325,K2327,D2330,Y2365,I2377,E2378,W2379,V2380,G2385,N2480,L2482,V2493,D2494	18	18	270625

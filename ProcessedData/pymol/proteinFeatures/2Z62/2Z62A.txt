@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-74C0507087BBC28-2CE0CAEAB95DCB4F
+#cdsid	QM3-qcdsearch-3F65526CB2F2F847-272F209B5066DEAB
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:53:17	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:42:02	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2Z62A	specific	leucine-rich repeat	L33-E53	22	21	-

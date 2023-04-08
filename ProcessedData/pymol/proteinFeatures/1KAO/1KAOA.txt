@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1EB927D83EAFCD84-96F0B13AF4C190A
+#cdsid	QM3-qcdsearch-27BF79ACF9216FAD-5ADF5FFB8BD96C0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:52:07	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:08:59	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1KAOA	specific	GTP/Mg2+ binding site	G13,V14,G15,K16,S17,A18,F28,I29,E30,K31,N116,K117,D119,S146,A147	15	15	133376

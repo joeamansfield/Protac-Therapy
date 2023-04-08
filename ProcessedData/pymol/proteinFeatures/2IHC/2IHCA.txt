@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2F47FED17E1794BB-3822E5CB26CBB333
+#cdsid	QM3-qcdsearch-32CAD691E703F56B-2935D0DDF0577D16
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:46:23	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:39:10	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2IHCA	specific	homodimer interface	S3,V4,F5,A6,Y7,E8,S9,H12,S13,T14,N15,V16,L17,S19,L20,Q23,L29,H44,S46,A49,A50,C51,I59,F86,A87,A90,K91,L92,I93,L94,S95,K96,N113,I114,E115,C118,F121,L122	38	38	349586

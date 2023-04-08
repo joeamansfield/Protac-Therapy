@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3FDB3727343A8CC5-370A759E2A1949C3
+#cdsid	QM3-qcdsearch-33B77F231A86F22A-1B915FEF2CB427D4
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:32:40	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:32:15	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4JSNA	specific	ATP binding site	I788,S790,K791,Q792,P794,L810,K812,E815,Y850,I862,G863,W864,V865,T870,N968,M970,I981,D982	18	18	270713

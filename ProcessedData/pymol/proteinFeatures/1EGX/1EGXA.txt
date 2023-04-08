@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-6DA6069E31533F8-152FF8CA5B9CF349
+#cdsid	QM3-qcdsearch-245312277BE404F1-17D72A098F59C38C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:12	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:08:02	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1EGXA	specific	proline-rich peptide binding site	Y16,W23,K71,N73,F79,Q81,R83	7	7	269918

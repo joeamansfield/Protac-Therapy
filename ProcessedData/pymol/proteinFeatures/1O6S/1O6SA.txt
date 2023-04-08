@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-48D5808A814B323-C04AD4AF2EE9543
+#cdsid	QM3-qcdsearch-3BD9EEF5FBA9DAB9-FB99CA324095577
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:08:44	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:19:17	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1O6SA	specific	leucine-rich repeat	L70-K91	21	22	-

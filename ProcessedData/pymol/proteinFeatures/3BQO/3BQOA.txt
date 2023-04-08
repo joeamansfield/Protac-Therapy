@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2954A173F1EDA216-292CBF6E388B70C3
+#cdsid	QM3-qcdsearch-25253D6A58DAB135-DF3755E7D369656
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:34:33	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:33:30	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3BQOA	specific	dimer interface	E49,I52,I66,Q70,R74,Q84,F85,E86,N87,D88,S96,M99,I100,S103	14	14	238174

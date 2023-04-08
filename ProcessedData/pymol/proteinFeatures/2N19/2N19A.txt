@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-37FB6A4B5A49C1F2-12A4734BEA8E980E
+#cdsid	QM3-qcdsearch-33FEC497E19B963E-3E9F7445FC0D1C4
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:58:31	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:13:12	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2N19A	specific	homodimer interface	V9,W16,V27,F29,D31,G32,S33,Q34,L35,V36,V37,Q38,A39,S42,S43,I44,S45,Y46,T47,P49,K69,L70,C72,L73	24	24	240559

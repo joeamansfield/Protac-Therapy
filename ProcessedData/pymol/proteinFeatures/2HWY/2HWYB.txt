@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-28CEC5A88E9FBE1B-1BAB50EFF73456DB
+#cdsid	QM3-qcdsearch-39BC0CA3A8657C5A-D21C79CBCBB3067
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:02:42	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:16:07	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2HWYB	specific	conserved Asp residue	D8	1	1	350232

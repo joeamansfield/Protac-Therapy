@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1C9A5DE1B1B9A693-7B90BA282E0012A
+#cdsid	QM3-qcdsearch-32BA331088D93E81-1EDEAAC023AD40E5
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:42:12	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:36:29	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2GF7A	specific	peptide binding site	N39,F40,D42,G43,S44,F45,D47	7	7	410534

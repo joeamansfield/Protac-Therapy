@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1BDBE929563B710A-B818BE6FF2A120C
+#cdsid	QM3-qcdsearch-224F05FED6EB6410-3B7AECD06553611
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:41:54	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:36:15	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1A4PA	specific	annexin 2 binding sites	E5,E9,M12,F41,N44,Q45,C82,Y85,M90	9	9	240151

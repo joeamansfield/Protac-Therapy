@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2648A70C1E47A9F3-16B88A626932F6D
+#cdsid	QM3-qcdsearch-210E7B909309351F-A1A83D5DDBA3C13
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:55:17	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:10:30	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2AK5A	specific	peptide ligand binding site	F13,F15,T18,D21,E22,E37,G39,G40,W41,W52,P54,N56,Y57	13	13	212994

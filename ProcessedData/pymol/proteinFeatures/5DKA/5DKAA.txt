@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2F72036B602CEB46-2B342D617E190D1B
+#cdsid	QM3-qcdsearch-3DDDAD3C46025701-3A777C773D986C25
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:05:43	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:17:38	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5DKAA	specific	Zn binding site	C37,C40,C52,H54,C57,C60,C72,C75	8	8	438204

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-25EFF02DDA5CEEFF-3B84DA87EE710E8D
+#cdsid	QM3-qcdsearch-17E8D4BD3FEAEBDB-26FFC934B02BF6DA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:17:04	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:24:22	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3K2LA	specific	ATP binding site	I105,G106,K107,G108,X109,V113,A126,K128,I162,F178,E179,L180,L181,N184,D225,K227,E229,N230,L232,D245	20	20	271126

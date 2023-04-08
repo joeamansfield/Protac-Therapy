@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3AA0C274E7A141EC-25725B54CF9764FA
+#cdsid	QM3-qcdsearch-4B2219B60A7D57F-2B0EAF594592ECEA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:51:43	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:40:42	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2JYWA	specific	active site	E28,Y30,L53,N55,H68,A69,E70,C99,C102	9	9	238610

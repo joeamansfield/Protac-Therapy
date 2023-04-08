@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-23CB48C75B007DC-108120D0FAD15640
+#cdsid	QM3-qcdsearch-35E568BFDBBE83D5-2C61C80617CBA6B8
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:02:44	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:16:09	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5H64A	specific	ATP binding site	I2163,S2165,K2166,Q2167,P2169,L2185,K2187,E2190,Y2225,I2237,G2238,W2239,V2240,T2245,N2343,M2345,I2356,D2357	18	18	270713

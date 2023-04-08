@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1D8E886DE3DF02C-1D086F43F2DCEAE5
+#cdsid	QM3-qcdsearch-37D5DEFC6638AED7-141EC540E3B0E4BA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:15:56	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:23:56	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2ASQA	specific	SUMO1-SAE2-SAE1-ATP-Mg complex	Q29,D30,S31,P58,N60,S61,R63,E67,G68,Q69,R70,E89,Y91,Q92,E93,Q94,T95,G96	18	18	340531

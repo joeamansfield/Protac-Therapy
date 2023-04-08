@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-24C7FAA038F541B9-2EA60AB1B8ABD4BC
+#cdsid	QM3-qcdsearch-357AE9A6CD1DA0AB-37532E3426C92633
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:11:29	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:21:02	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1UMOB	specific	heme binding site	F49,A56,Y59,F60,Q77,K80,H81,R84,V85,A88,L89,V109,A112,H113,K116,H117,V119,Y123,F124,L127	20	20	271275

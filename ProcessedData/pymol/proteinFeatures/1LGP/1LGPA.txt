@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-33CFFE9430DE48DD-EE856D611521F18
+#cdsid	QM3-qcdsearch-3321BCA0B52E8928-1A56BD8D10015C5E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:56:04	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:11:02	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1LGPA	specific	putative phosphopeptide binding site	G29,R30,R31,S45,G46,H48,S66,T67,S68,G69	10	10	438724

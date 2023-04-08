@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-43C71F2B7C98391-1B1F7B6A10B8EF7D
+#cdsid	QM3-qcdsearch-16FF52A26C94930B-34D56ADFEBB94EBF
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:49:53	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:07:27	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1SO8A	specific	active site	N121,S155,Y168,K172	4	4	187629

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3A5B94D29CCDAC22-3143DA3B731A90A7
+#cdsid	QM3-qcdsearch-30AF3202A538F5E0-3F0CF16DE969CE44
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:23:41	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:27:44	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2X7FD	specific	ATP binding site	V32,G33,N34,G35,T36,V40,A53,K55,A84,M106,E107,F108,C109,G112,S113,D116,Q158,N159,L161,D172	20	20	270807

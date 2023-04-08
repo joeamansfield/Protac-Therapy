@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-20E201C505F213A2-AC6BD2F1020863E
+#cdsid	QM3-qcdsearch-3C1C221914FA2703-15C79216824EC81C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:32:49	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:32:21	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2VPIA	specific	catalytic triad	C103,H189,E191	3	3	153213

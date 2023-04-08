@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2E8C46EE55A84FCF-3496AC73B99470A9
+#cdsid	QM3-qcdsearch-566E3401F0197FA-2C1DA647847C1AA2
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:24:23	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:28:28	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5WQDF	specific	dimer interface	Q43,L46,L60,Q64,R68,S78,F79,D80,M81,E82,S90,N93,V94,M97	14	14	238174

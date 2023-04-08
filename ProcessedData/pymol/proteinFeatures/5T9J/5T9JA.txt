@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3D96F6B8959AB638-295FD063A1646C3A
+#cdsid	QM3-qcdsearch-3F9B0F077B93F96-1FCA455A2F3E59E5
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:01:11	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:14:30	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5T9JA	specific	active site	H16,N30,E37,R54,N55,F58,R59,E75,E134,E136,D155,D157,F170,T171	16	14	350217

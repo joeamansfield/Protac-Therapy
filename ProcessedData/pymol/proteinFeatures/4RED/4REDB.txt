@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3B9F9319FF8AFFDB-1842C8B49B3EA176
+#cdsid	QM3-qcdsearch-243C70B411CD45B0-2EB95A58944B137B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:21	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:26:36	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4REDB	specific	ATP binding site	L22,G23,V24,G25,V30,A43,K45,I77,M93,E94,Y95,V96,E100,E143,N144,L146,A156,D157	18	18	270981

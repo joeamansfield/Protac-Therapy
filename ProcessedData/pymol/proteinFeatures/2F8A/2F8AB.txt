@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1A9F10EEF6BDEF37-B6BFC068BA63F57
+#cdsid	QM3-qcdsearch-6A39E88754D9B67-15ED02400901539A
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:50:57	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:07:56	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2F8AB	specific	catalytic residues	G59,Q94,W172	3	3	238207

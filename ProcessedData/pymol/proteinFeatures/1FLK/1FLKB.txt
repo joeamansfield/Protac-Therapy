@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-7E05CB2364A40A6-12067B52A3758323
+#cdsid	QM3-qcdsearch-1604E05B86526417-1533B6B237066CC0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:56:36	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:11:35	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1FLKB	specific	TNFR binding site	R117,Y119,D123,M125,F134,F172,D175,S180,I190,A191,S192,G193	12	12	239746

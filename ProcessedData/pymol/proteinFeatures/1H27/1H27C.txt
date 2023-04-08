@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-21176BFAE66D2077-A6327FF14F68D13
+#cdsid	QM3-qcdsearch-26E8CFACC194A884-32E736815ED90B2
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:55:33	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:10:39	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1H27C	specific	active site	I15,G16,E17,G18,V23,A36,K38,R55,V69,F85,E86,F87,L88,D91,K93,K94,D132,K134,Q136,N137,L139,D150,L153,X165,E167,V168,V169,T170,W172,G210,D211	31	31	270844

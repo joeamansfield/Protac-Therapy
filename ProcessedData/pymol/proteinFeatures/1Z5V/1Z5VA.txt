@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2675E28A56C79D66-1D378F4EDB43DA9
+#cdsid	QM3-qcdsearch-5AF13ACF55F58A8-220CB48CDA1DF970
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:58:03	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:13:04	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1Z5VA	specific	nucleotide binding site	G11,Q12,C13,Q16,N102,S140,A142,G143,G144,T145,G146,V171,P173,N207,F225,I228,N229	17	17	276957

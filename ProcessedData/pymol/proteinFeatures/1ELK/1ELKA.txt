@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1ED8F6D8D3EF85EC-3042CD6626E3745E
+#cdsid	QM3-qcdsearch-3F9A9F72908F1EFC-1A327F41E93C2C3E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:48	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:08:38	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1ELKA	specific	putative intraprotein/interprotein binding site	W34,A35,M38,D42,K83,N84	6	6	340792

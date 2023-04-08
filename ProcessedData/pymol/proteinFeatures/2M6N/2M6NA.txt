@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-25583408870E522F-38CD090C3B8802D8
+#cdsid	QM3-qcdsearch-120A4D628A32323D-6B73EA06E6F4A11
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:02:25	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:15:40	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2M6NA	specific	Zn binding site	C17,C20,C35,C40,C45,C48,H53,C58	8	8	439025

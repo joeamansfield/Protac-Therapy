@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2F72C58C78E3527E-1F31B521BA31C8A8
+#cdsid	QM3-qcdsearch-20395D8CB6A2AF8A-23BC06958B748E9A
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:51:05	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:07:59	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1H4RB	specific	phosphoinositide binding site	K295,Q299	2	2	270015

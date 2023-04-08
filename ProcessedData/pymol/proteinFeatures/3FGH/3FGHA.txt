@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-19D2FD124ED76E6D-755BA55F8F1A008
+#cdsid	QM3-qcdsearch-3767257A3620E37E-316F49C45DBB20F3
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:51:41	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:40:40	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3FGHA	generic	DNA binding site	R5,R7,S8,A9,Y10,N11,V14,A15,K22,L30,K31,K34,W37,K38,K45,I49,A52,E56,Y59	19	19	438803

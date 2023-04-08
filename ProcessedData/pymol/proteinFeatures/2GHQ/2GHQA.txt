@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-39CAB3FA5EBD5A90-1593CF5B334638AE
+#cdsid	QM3-qcdsearch-1CA01049A61EDC38-229488A555C903C1
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:42:34	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:03:33	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2GHQA	specific	active site	N21,L22,D23,E24,T25,S29,S30,F76,T77,A78,S79,Y83,K115,D131,N132,P134,A135,S136	18	18	319823

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-20304E4D9FD2D509-14828BF60165B8F7
+#cdsid	QM3-qcdsearch-3EAA6E64A1BB88A-1A9392A943FAD3B3
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:01:27	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:14:47	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6CQDA	specific	active site	L24,G25,G26,G27,T28,V32,A45,K47,V76,M92,E93,F94,C95,G98,S99,D102,D138,K140,G141,A142,N143,L145,A155,D156,I159,F173,I174,G175,T176,Y178,E208,F217	32	32	270788

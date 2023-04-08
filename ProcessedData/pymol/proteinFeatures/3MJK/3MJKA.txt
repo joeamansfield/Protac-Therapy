@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-12F951E68BE9FB08-24F4FEC115830588
+#cdsid	QM3-qcdsearch-20F455CB700CF006-354FF3CFD5790932
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:10:48	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:20:50	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3MJKA	specific	cysteine knot motif	C76,C109,C113,C120,C157,C159	6	6	238079

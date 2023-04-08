@@ -77,7 +77,9 @@ rule all:
         "../ProcessedData/merged_types_validated.txt",
         "../ProcessedData/merged_types_potential.txt",
         expand("../Figures/Pymol/{proteins}_cealign.png", proteins=outputProteins),
-        "../ProcessedData/tieredpairs.tsv"
+        "../ProcessedData/tieredpairs.tsv",
+#        "../ProcessedData/single_cancer_protacs_pval.txt",
+#        "../ProcessedData/multiple_cancer_protacs.txt"
 
 rule download_all:
     input:
@@ -120,7 +122,8 @@ rule protac_download:
 
 rule cptac_download:
     output:
-        expand("../Data/CPTAC/{type}.csv", type=cancerTypes)
+        expand("../Data/CPTAC/{type}.csv", type=cancerTypes),
+        "../Data/CPTAC/"
     script:
         "cptac_download.py"
     
@@ -142,12 +145,13 @@ rule file_setup:
 
 rule subset_cptac:
     input:
-        "Data/CPTAC"
+        "../Data/CPTAC/",
+        "../ProcessedData/subset_list.txt"
     output:
-        expand("../ProcessedData/subset_data/{type}.csv", type=cancerTypesSubset)
+        expand("../ProcessedData/subset_data/{type}_tt_subset.csv", type=cancerTypesSubset)
     shell:
         """
-        ./transpose_and_subset.sh
+         bash transpose_and_subset.sh
         """
 
 rule t_test:
@@ -193,29 +197,30 @@ rule volcano:
 rule merge_protac_types:
     input:
         expand("../ProcessedData/sig_pairs/val_protacs/{type}", type=cancerTypesSubset),
-        expand("../ProcessedData/sig_pairs/potential_protacs{type}", type=cancerTypesSubset)
+        expand("../ProcessedData/sig_pairs/potential_protacs/{type}", type=cancerTypesSubset)
     output:
         "../ProcessedData/merged_types_validated.txt",
         "../ProcessedData/merged_types_potential.txt"
     script:
         "merge_protac_types.py"
 
-rule single_multiple_cancer_protacs:
-    input:
-        "../ProcessedData/merged_types_validated.txt"
-    output:
-        "../ProcessedData/single_cancer_protacs.txt",
-        "../ProcessedData/multiple_cancer_protacs.txt"
-    script:
-        "single_multiple_cancer_protacs.py"
+#rule single_multiple_cancer_protacs:
+#    input:
+#        "../ProcessedData/merged_types_validated.txt",
+#        "../ProcessedData/merged_types.txt"
+#    output:
+#        "../ProcessedData/single_cancer_protacs.txt",
+#        "../ProcessedData/multiple_cancer_protacs.txt"
+#    script:
+#        "single_multiple_cancer_protacs.py"
 
-rule single_cancer_protacs_pval:
-    input:
-        "../ProcessedData/single_cancer_protacs.txt"
-    output:
-        "../ProcessedData/single_cancer_protacs_pval.txt"
-    script:
-        "single_cancer_protacs_pval.py"
+#rule single_cancer_protacs_pval:
+#    input:
+#        "../ProcessedData/single_cancer_protacs.txt"
+#    output:
+#        "../ProcessedData/single_cancer_protacs_pval.txt"
+#    script:
+#        "single_cancer_protacs_pval.py"
 
 rule find_table2_sets:
     input:
@@ -255,7 +260,7 @@ rule fetch_pdb_files:
     input:
         "../ProcessedData/pymol/val_pdb.tsv"
     output:
-        expand("../ProcessedData/pymol/pdbfiles/{id}.pdb", id=pdbIds)
+        expand("../ProcessedData/pymol/pdbfiles/{id}.pdb", id=[x.lower() for x in pdbIds])
     shell:
         """
         bash -c '
@@ -267,15 +272,19 @@ rule fetch_pdb_files:
 
 rule get_protein_features:
     input:
-        expand("../ProcessedData/pymol/pdbfiles/{file}", file=os.listdir('../ProcessedData/pymol/pdbfiles'))
+        expand("../ProcessedData/pymol/pdbfiles/{id}.pdb", id=[x.lower() for x in pdbIds])
     output:
-        expand("../ProcessedData/pymol/proteinFeatures/{id}", id=pdbIds)
+        expand("../ProcessedData/pymol/proteinFeatures/{id}/status.txt", id=pdbIds)
     script:
         "pymolAnalysis/getProteinFeatures.py"
 
 rule compare_protein_features:
     input:
-        rules.get_protein_features.output
+        rules.get_protein_features.output,
+        "../ProcessedData/pymol/val_pdb.tsv",
+        "../ProcessedData/pymol/uniprot_to_hugo.tsv",
+        "../ProcessedData/merged_types_validated.txt",
+        "../ProcessedData/merged_types_potential.txt"
     output:
         "../ProcessedData/pymol/protein_features_table.tsv"
     script:

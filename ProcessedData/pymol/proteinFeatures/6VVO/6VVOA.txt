@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-D3C016EDD37EB07-1481924C2A1812C1
+#cdsid	QM3-qcdsearch-300881552C323DDB-35A571C59428FA87
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:01:41	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:15:03	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6VVOA	specific	ATP binding site	P99,P100,G101,V102,G103,K104,T105,T106,D167,N200	10	10	99707

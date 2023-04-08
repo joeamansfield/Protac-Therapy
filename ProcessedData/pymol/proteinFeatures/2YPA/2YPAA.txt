@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-250F0BB4C8AE5C8D-22B2DEF2D355DC8E
+#cdsid	QM3-qcdsearch-16EFA507945CA681-417411257B9182B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:44:36	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:04:51	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2YPAA	generic	DNA binding site	E34,R35,R37,N42,S62,K63	6	6	381549

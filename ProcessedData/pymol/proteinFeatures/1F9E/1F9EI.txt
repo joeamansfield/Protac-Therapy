@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-18907B756444E771-115E698C3381C48F
+#cdsid	QM3-qcdsearch-3D3E2DA6181F0DE-2EC0CB52FB1D493E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:53:45	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:42:11	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1F9EI	specific	active site	H96,C139	2	2	237997

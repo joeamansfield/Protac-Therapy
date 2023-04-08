@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-B89C3C662D257F1-1C30ECB5C3F955DA
+#cdsid	QM3-qcdsearch-12597BAC87313F80-2158BD4B4D9AC60B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:42:55	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:03:55	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1FQVA	specific	Skp1/Cul1 binding site	W9,S11,L12,P13,D14,E15,L16,G19,I20,L24,E28,K31,V32,V35,W39,E46	16	16	438886

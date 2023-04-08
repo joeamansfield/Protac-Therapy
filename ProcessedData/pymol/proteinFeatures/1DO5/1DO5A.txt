@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-EF1DFC2A4209FC7-231DA91B1155240
+#cdsid	QM3-qcdsearch-372B065D88EA84B5-3CD48B9E6D799B0C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:20:33	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:26:28	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1DO5A	specific	active site	H47,H49,H64,H81,D84,D118	6	6	238186

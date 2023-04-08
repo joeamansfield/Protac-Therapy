@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3DF62A1B78AF8AB5-2C052E7D108F03DD
+#cdsid	QM3-qcdsearch-2110483404AD495D-2AE4D9B0158E926
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:45:56	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:38:43	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1Z2CA	specific	GTP/Mg2+ binding site	A15,C16,G17,K18,T19,C20,Y34,V35,T37,D59,T60,K118,D120,A161,K162	15	15	206662

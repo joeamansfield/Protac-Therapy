@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-60D13FDA52331AA-2C5FFD435D78ED1
+#cdsid	QM3-qcdsearch-3EE78FD7438B5D3E-3C9E9BB1BB5AFF8D
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:18:11	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:24:56	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3SQDB	specific	gamma-H2AX interaction site	P136,L203	2	2	349393

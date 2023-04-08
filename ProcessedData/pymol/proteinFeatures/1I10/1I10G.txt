@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-E32481FA262A727-1A79BCCC185F533E
+#cdsid	QM3-qcdsearch-17FEA8EFCC46C906-C21DD40AF21B251
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:33:15	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:32:40	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1I10G	specific	NAD binding site	G28,A29,V30,D51,I53,K56,T94,A95,G96,A97,R98,V135,N137,S160,L164,H192,T247,I251	18	18	133429

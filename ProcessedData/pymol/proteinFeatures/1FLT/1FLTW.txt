@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-11E2687A6066CF98-30EC6743CED0501
+#cdsid	QM3-qcdsearch-2B71D3D9E32627D6-F9AD412103E6F4F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:36:58	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:34:09	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1FLTW	specific	cysteine knot motif	C15,C46,C50,C57,C91,C93	6	6	238079

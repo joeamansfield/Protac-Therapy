@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-126C15DAE70AA3B6-24DAD7702A252D4F
+#cdsid	QM3-qcdsearch-1A2787066C3C1735-18E33444AF35AFC9
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:43:30	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:37:41	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3G9WB	specific	peptide binding site	T172,T173,V174,K175,R176,W177,A178,D187,I214	9	9	269973

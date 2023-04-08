@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2968C6D70D3970C1-27D4590208AD4FF4
+#cdsid	QM3-qcdsearch-AC26369C5B1F4D9-1FA34110AC47DF3F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:46:40	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:39:19	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3W3GB	specific	leucine-rich repeat	L464-D484	21	21	-

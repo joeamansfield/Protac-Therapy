@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-248A837B31A618D1-37AAECC54960B2C0
+#cdsid	QM3-qcdsearch-3F72BD46A2390914-278B20D5C98A57A8
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:42:32	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:03:31	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3W6NB	specific	GTP/Mg2+ binding site	T35,S37,S38,G39,K40,S41,S42,R55,G56,T61,D148,K218,D220,L221,V247,N248,R249,S250,Q251,I254	20	20	206738

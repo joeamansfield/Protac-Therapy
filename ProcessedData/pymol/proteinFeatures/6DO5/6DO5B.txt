@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-358B59B2314B10F3-2CBD8004964B1845
+#cdsid	QM3-qcdsearch-237AAE17267EB822-2DF215A6EFB79309
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:14:26	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:23:07	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6DO5B	specific	KELCH repeat	R219-P266	35	48	-

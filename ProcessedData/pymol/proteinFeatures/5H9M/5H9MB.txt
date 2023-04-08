@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-362FD6F8EC35830B-3C290EFBEB2683B
+#cdsid	QM3-qcdsearch-7CF3C71EA2ADB91-3FA7B6CE9D891450
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:17:55	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:24:42	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5H9MB	specific	substrate binding site	D73,I74,V75,L77,T79,D88,W89	7	7	239753

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-265D821FB14C1E69-3D6616B5567A1886
+#cdsid	QM3-qcdsearch-2EE665328A57A44C-385E261709EDF9E7
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:44:19	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:38:18	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1WIMA	specific	Zn binding site	C8,C11,C26,C28,C31,C34,C53,C58	8	8	438433

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-22E24F9D303CD9D2-106D154BCBF19388
+#cdsid	QM3-qcdsearch-124892BDA679D9B5-1FDD4544A5FA5B69
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:53:08	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:41:51	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2BZ8B	generic	peptide ligand binding site	F8,Y10,Q13,E17,G35,W36,P49,N51,F52	9	9	212985

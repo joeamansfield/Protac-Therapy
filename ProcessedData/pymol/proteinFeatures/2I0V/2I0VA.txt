@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3EFABD4FD1DCB15E-22A5A83115D45819
+#cdsid	QM3-qcdsearch-1A06DBFFC93470A6-77ED3F00252A115
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:53:58	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:09:58	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2I0VA	generic	ATP binding site	L54,G55,A56,G57,G60,V62,A80,K82,V113,T129,E130,Y131,C132,D191,R195,N196,L198,G208,D209	19	19	133237

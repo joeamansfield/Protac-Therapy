@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-991D2851A70A69-107E6B9E385737BE
+#cdsid	QM3-qcdsearch-3CA11BDBE4D8655C-BCA1E9285A0C7FF
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:53:13	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:41:58	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4WNOA	specific	active site	I26,G27,H28,G29,A30,V34,A48,K50,V80,M96,E97,Y98,C99,D103,A105,D142,K144,Q146,N147,L149,D169,F172,G187,S188,P189,M190	26	26	271104

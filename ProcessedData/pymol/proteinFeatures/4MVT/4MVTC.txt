@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-C2038861DE328D4-3C14CE27B6B4A506
+#cdsid	QM3-qcdsearch-41B9C42CC78B25-1C490B3368E971C5
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:51:58	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:40:52	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4MVTC	specific	Zn binding site	C250,H252,C273,C276	4	4	438469

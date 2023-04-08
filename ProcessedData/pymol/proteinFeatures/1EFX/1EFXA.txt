@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3AD94E767787566E-45C8537935E45B1
+#cdsid	QM3-qcdsearch-BCCA5E2BBA1E763-1D6C7321609F5734
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:28:31	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:30:12	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1EFXA	specific	ligand binding site	T187,H188,T190,H192,R202,W204,V231,E232,R234,P235,A236,G237,Q242,W244,R273	15	15	409616

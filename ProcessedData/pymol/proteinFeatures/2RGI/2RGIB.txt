@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3B44429B7131F73E-3DEC57540AB10DA0
+#cdsid	QM3-qcdsearch-2D046A0DBE823D88-2A1E862EE9E40812
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:15:38	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:23:47	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2RGIB	specific	Ca2+ binding site	S21,D26,K29,E34,M35,D64,N66,D68,Q70,D72,E75	11	11	238131

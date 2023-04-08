@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-34687F10AB493DBC-37F93D792630B412
+#cdsid	QM3-qcdsearch-269840A1A3097627-943FAC1AB3641EA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:28:04	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:29:52	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2A4DA	generic	active site cysteine 	A117	1	1	238117

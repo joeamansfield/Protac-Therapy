@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-18D7E11EA70A05DD-EFF327BCD90441E
+#cdsid	QM3-qcdsearch-115CA362A4852E9D-18D48CE8E7CE46E6
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:40:41	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:35:47	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1DKFA	specific	ligand binding site	I44,C45,A47,A48,Q51,L85,A89,R92,L102,A103,V118,C208,H211,L212	14	14	132741

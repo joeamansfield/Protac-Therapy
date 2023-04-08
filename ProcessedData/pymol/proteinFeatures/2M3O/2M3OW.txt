@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3AE168A9681BB666-11032EE7D31B6190
+#cdsid	QM3-qcdsearch-26F400E68F8178B5-110797DD4A664BFD
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:35	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:26:44	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2M3OW	specific	binding pocket	F23,W34	2	2	238122

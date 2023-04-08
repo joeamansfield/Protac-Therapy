@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-20EEDE55FC809189-163ABA29BC37C920
+#cdsid	QM3-qcdsearch-9AAFF1F78BE71B3-12E4920BFFD2DE00
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:56:28	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:11:32	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4Y72A	specific	active site	I15,G16,E17,G18,V23,A36,K38,R55,V69,F85,E86,F87,L88,D91,K93,K94,D133,K135,Q137,N138,L140,D151,L154,T166,E168,V169,V170,T171,W173,G211,D212	31	31	270845

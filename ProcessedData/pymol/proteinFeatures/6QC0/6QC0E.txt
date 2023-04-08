@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1C4A4658495FBE47-3323D7A24A968FBE
+#cdsid	QM3-qcdsearch-268C241E7822E910-DF53268FEE7CF1B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:48:41	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:06:59	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6QC0E	specific	trimer interface	K79,K82,C83,A84,V113,S114,D115,Y116,E117,M118,K119,E145,R148,I149,R151,D152,G175,G178,N179,N181,I182,K183,L184,S185	24	24	238322

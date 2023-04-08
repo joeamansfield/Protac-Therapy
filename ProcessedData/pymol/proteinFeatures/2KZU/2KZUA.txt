@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-105CFED6D07EBFE4-24BED138FA44580E
+#cdsid	QM3-qcdsearch-14664981970EE0AD-2AD56FE98941C412
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:58:50	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:13:19	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2KZUA	specific	Rassf1C interface	H31,E33,V34,F37,L38,R41,A71,K72,Y74,V75,I77,N78,C81,T82,K85,K90	16	16	240522

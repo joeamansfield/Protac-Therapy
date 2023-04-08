@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-36D869D85C85D0AF-1E0867BF29F1E120
+#cdsid	QM3-qcdsearch-1306AF07542EF73F-1AF011C06A7F3C4A
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:05:39	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:17:35	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4PVFB	specific	active site	S55,H150,X259,R404	4	4	99733

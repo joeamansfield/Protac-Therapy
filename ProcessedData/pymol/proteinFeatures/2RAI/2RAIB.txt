@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3A865E9669D0E1C0-329ABB4FC512CCA2
+#cdsid	QM3-qcdsearch-362DA22DBC26897-5986FF195F785BA
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:29:13	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:30:53	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2RAIB	specific	dimer interface	F202,A205,X206,G209,V210,E212,L213,V216,E219,H220,R223,E231,Y232,K234,I235,A238,S241,L242,V245,F246,S249,Y251,Q252,E254,L257,Y268,N350,H353,S354,R356,I357,Y358,N361,I364,R365,Y367,L368,E369,Q371,V372,Y375,E376,I378,A379,L382,R383,A385,L386,F389,P390,V391	52	51	153352

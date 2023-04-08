@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-BAEE85DD12BDB8B-32BDD934D42EE232
+#cdsid	QM3-qcdsearch-E24A5AF67635DE2-32EAABB71162B28E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:47:19	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:05:46	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1SP1A	specific	Zn binding site	C5-H25	4	21	-

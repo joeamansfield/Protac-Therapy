@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-AE1ED31262A3E3-20264379A78E12EA
+#cdsid	QM3-qcdsearch-3BC07CA22441D13F-1CCDFD49EB18D4B0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:28:09	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:29:58	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6IR0A	generic	cross-brace motif	C14,C17,C47,H49,H52,C55,C71,C74	8	8	438334

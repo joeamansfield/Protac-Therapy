@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3768A9932F1AFD07-FA2BAE218E86614
+#cdsid	QM3-qcdsearch-1BA438B3836F449A-1711DC3775F565DC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:28:58	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:30:40	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1N0WA	specific	ATP binding site	F33,R34,T35,G36,K37,T38,Q39,E67,R74,R214,I233,N234,A235	13	13	410921

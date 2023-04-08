@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-B38E7751F469300-30DFA94B23174DD
+#cdsid	QM3-qcdsearch-C8C759AAAE5BA-DE25E5F984474C0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:44:18	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:38:12	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2DQ5A	specific	Zn binding site	C8,H11,C20,D23,C28,C31,H37,H40	8	8	380880

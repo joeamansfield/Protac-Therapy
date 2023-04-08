@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-F1C4044ECF3EE75-3F77AB8D6D3FFEA8
+#cdsid	QM3-qcdsearch-3C6CA7CE15FE634D-38597F1BF11ED5FE
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:33:53	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:33:08	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1ZY3A	specific	BH3-homology region binding site	A48,G49,E51,F52,F56,T59,F60,Q76,R77,Q80,V81,E84,L85,N91,G93,R94,V96,A97,F101,L105	21	20	132900

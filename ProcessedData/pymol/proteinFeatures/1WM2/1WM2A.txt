@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3166FC3BCC9B5F6F-3F54C66C8C73EA1F
+#cdsid	QM3-qcdsearch-442620579700F43-35C28596A169C1F3
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:05:49	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:17:43	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1WM2A	specific	SUMO2-SENP1 interaction site	Q14,R45,R48,R50,D52,G53,Q54,P55,N57,D60,D71,D74,F76,Q77	14	14	340532

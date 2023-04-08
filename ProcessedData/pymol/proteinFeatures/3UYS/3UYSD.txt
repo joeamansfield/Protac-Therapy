@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1E1006E911048116-28C0F418C5F3824D
+#cdsid	QM3-qcdsearch-300990BE7D3B234D-382ABBE240AAE69B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:23:05	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:27:09	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3UYSD	specific	ATP binding site	I17,G18,S19,G20,S21,F22,G23,I25,A38,K40,M84,E85,L86,L87,G88,K132,D134,N135,L137,D151	20	20	271027

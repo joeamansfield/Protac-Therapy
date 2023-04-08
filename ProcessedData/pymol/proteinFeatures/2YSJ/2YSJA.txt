@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-25FD9EAD5F9A50B0-2C7EC5EB49582F42
+#cdsid	QM3-qcdsearch-3BD5C56A5466774C-2C303D05398C54E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:29	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:26:39	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2YSJA	specific	Zn binding site	C23,C26,C38,H40,C43,C46,C60,C63	8	8	438244

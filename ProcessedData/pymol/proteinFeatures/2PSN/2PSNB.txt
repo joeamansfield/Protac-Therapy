@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-386AF104B27BA1D-26CD70D46F6C497C
+#cdsid	QM3-qcdsearch-1037A52B2A944DD-181A58200FE334DF
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:19:38	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:25:52	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2PSNB	specific	metal binding site	S40,D245,E293,D318	4	4	239429

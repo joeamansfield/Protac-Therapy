@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-12650D73EAD96526-2737609A65C65E8B
+#cdsid	QM3-qcdsearch-2A8D2674F954EDA5-2D57E904C12CE6AC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:08:05	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:18:51	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1SM2A	specific	ATP binding site	I13,G14,V21,A33,K35,V63,F79,E80,F81,M82,G85,C86,R130,N131,L133,S143,D144	17	17	133243

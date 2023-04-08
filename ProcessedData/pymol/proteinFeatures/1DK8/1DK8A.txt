@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-16D181FD22295DC3-74AC66420E5DDD3
+#cdsid	QM3-qcdsearch-1ACED5D7E98A49DE-30DA899378B1ECA9
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:52:42	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:41:34	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1DK8A	specific	APC binding site	L20,D21,D22,Q23,I26,D43,F46,A47,G50,F51,K53,K66,L67,R69,A70,I71,R73,K74	18	18	188662

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-22EFD37855E7D6C7-378AD8A23A7147A7
+#cdsid	QM3-qcdsearch-1A5D31A6069452DC-3C60A741E28DC73B
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:54:12	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:10:04	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1FCGA	specific	Fc binding site	W90,W113,V119,K120	4	4	409411

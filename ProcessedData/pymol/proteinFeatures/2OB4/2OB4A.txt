@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-37B3D64217F10CB0-13B03679ADA5587
+#cdsid	QM3-qcdsearch-23E516ADB68488E7-3D65C0F3E8D3D9A8
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:06:14	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:17:59	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2OB4A	specific	active site cysteine 	C89	1	1	238117

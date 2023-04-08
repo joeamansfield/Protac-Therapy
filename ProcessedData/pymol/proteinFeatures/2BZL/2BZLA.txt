@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3117901336DC26A4-1AA368CF6FDD3E7
+#cdsid	QM3-qcdsearch-312F898B3851739-1E559F25595D890F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:47:40	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:39:58	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2BZLA	specific	active site	D217,H218,C259,S260,A261,G262,V263,G264,R265,Q303	10	10	350447

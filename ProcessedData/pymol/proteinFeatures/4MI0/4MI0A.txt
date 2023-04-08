@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-22BCC8CDFE7C28B5-745BD487ED74337
+#cdsid	QM3-qcdsearch-3FB1EED09039D6F3-12CD9A0FAA5AD058
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:47:17	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:05:44	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4MI0A	generic	active site	G104,W105,I165,R166,F167,A168,N169,H170,A178,K179,V180,F205,D206,Y207,R208	15	15	380994

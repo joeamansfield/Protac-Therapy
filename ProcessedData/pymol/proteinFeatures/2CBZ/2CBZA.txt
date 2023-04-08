@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-490257F57CD1623-3A68683D97E7CB9
+#cdsid	QM3-qcdsearch-1851B446A0599DB6-3EC2AB0CECECE0D3
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:22:36	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:26:45	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2CBZA	specific	ATP binding site	G41,C42,K44,S45,S46,Q73,D152,D153,H187	9	9	213217

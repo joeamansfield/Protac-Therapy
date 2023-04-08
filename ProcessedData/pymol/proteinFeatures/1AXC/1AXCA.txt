@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-1EB5B3C24EE92D72-11D649DB2D193C5
+#cdsid	QM3-qcdsearch-22CE613FB2259A6A-3A7F94B93A2F96EF
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:46:19	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:39:06	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1AXCA	specific	trimer interface	K77,K80,C81,A82,V111,S112,D113,Y114,E115,M116,K117,E143,R146,I147,R149,D150,G173,G176,N177,N179,I180,K181,L182,S183	24	24	238322

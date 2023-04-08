@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-207DF52748CF0BA8-31E3621CBE0032AD
+#cdsid	QM3-qcdsearch-2DCEDC6D5FDA0C97-173DF8723BE329D0
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:28:17	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:30:06	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3IUCC	specific	nucleotide binding site	D32,G34,T35,T36,Y37,K94,P171,E199,D222,L223,G224,G225,G226,T227,D229,G253,E254,E291,K294,R295,G361,G362,S363,R365,I366,D389	26	26	212681

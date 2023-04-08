@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3ADE81C3CB0FABCB-2DEA0E708014679F
+#cdsid	QM3-qcdsearch-14F3875D2EDB043F-5CE2D23E67DE896
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:51:40	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:40:39	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1H95A	specific	DNA-binding site	W15,F24,F35,K68	4	4	239905

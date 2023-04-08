@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-365141208065EEEA-26A3D7938B54025A
+#cdsid	QM3-qcdsearch-3F93D27FDB7CF806-6DD92049D0C25C1
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:04:15	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:16:35	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3WXAB	specific	Ca binding site	D17,D19,S21,E28,D84,D86,S88,E95,D150,D152,D154	11	11	320058

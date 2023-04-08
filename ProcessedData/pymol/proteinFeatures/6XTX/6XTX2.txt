@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2E275C48E6F68913-39E0EC691FF81CED
+#cdsid	QM3-qcdsearch-16F84A58FE8FC13E-1E159EB6DB432205
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:02:35	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:15:57	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 6XTX2	specific	ATP binding site	I485,G526,T527,A528,K529,S530,Q531,E588,R656,L675,V764,R765	12	12	350659

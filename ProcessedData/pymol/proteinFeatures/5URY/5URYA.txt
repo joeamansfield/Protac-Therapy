@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3D31808669FF1382-3CA5060142AF4348
+#cdsid	QM3-qcdsearch-FBC07CDFA88F87B-34975F415FD4D61E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:26:13	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:29:07	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5URYA	generic	putative Wnt binding site	M28,R30,G31,Y34,N35,L36	6	6	143569

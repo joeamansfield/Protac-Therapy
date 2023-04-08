@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-283B53B85F64FBC8-3607E6B0A5AF312B
+#cdsid	QM3-qcdsearch-3EF1349A90ED7B72-3614AD992937A58C
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:18:34	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:25:10	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5NJ8A	specific	DNA binding site	N15,P16,S17,K18,R19,H20,R21,R23,N25,D46,K47,L48	12	12	381442

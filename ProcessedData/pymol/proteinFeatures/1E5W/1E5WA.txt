@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3681D70DDD6BA3DA-2404169D921B921
+#cdsid	QM3-qcdsearch-323F10474B5BDF9D-3BB865C61EE76E88
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:39:08	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:35:35	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1E5WA	specific	phosphoinositide binding site	K278,A282	2	2	270015

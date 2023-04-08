@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3F7355957ADD2FD1-203089B682053DC3
+#cdsid	QM3-qcdsearch-23BDDE37AA1F777A-128E9A504348F566
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:00:41	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:14:04	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3A60B	specific	active site	L25,G26,K27,G28,G29,V33,A49,K51,V84,L100,E101,L103,E107,F109,D146,K148,E150,N151,M153,T163,D164,L167,F181,C182,G183,T184,I185,E186,D213,P219,T222	31	31	270736

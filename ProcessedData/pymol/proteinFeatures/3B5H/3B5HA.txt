@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-3EEDFE46A10B6818-2A2631EA0525649A
+#cdsid	QM3-qcdsearch-18D1AC65D00455E4-32DC7246D200E6AE
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:25:48	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:29:01	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 3B5HA	generic	Ig strand B	A101-C105	5	5	319310

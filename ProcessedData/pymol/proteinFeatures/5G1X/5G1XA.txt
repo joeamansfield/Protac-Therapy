@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-399B2C9DF89DDBFD-323594D51FB5883
+#cdsid	QM3-qcdsearch-2E1E84EB245366A0-191C33A8C7372A45
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:13:49	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:22:34	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5G1XA	generic	ATP binding site	L21,G22,K23,G24,G27,V29,A42,K44,L76,L92,E93,Y94,A95,D138,E142,N143,L145,A155,D156	19	19	271018

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2E08105614E51466-22C94CD75BCECB0A
+#cdsid	QM3-qcdsearch-B78B1B10356D017-192231AE325FBB9F
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:10:05	Run time	0:00:00:02
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:20:30	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 4X0PA	specific	active site	R410,N414,T417,K418,T446,A447,T448,R450,T452,F453,T454,E455,D539,Y540,F568,R588,K592,Q676,Q683,L747,H748,D749	22	22	176475

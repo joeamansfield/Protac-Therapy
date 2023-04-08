@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-35CA35EC923FA3A3-2859C7F3997E120E
+#cdsid	QM3-qcdsearch-AB8CF8BF743D7F7-2C35D6DD1316BEE1
 #datatype	feats
 #status	0
-#Start time	2023-04-01T03:58:52	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:13:22	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2MREA	specific	E1 interaction site	L11,T12,G13,K14,T15,Q34,D35,K36,E37,G38,Q43,R45,I47,A49,G50,K51,Q52,H71,V73,L74,R75,L76,R77,G78,G79	25	25	340501

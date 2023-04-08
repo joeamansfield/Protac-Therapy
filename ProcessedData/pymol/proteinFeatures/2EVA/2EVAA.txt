@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-30F4F49840FEDDE9-3E50D81566963965
+#cdsid	QM3-qcdsearch-3A67B1D745073C9-150817EB3E644D44
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:47:38	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:39:52	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 2EVAA	specific	ATP binding site	V16,G17,R18,G19,A20,V24,A35,K37,V64,M78,E79,Y80,A81,S85,D130,K132,P134,N135,L137,D149	20	20	270960

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-36055646FD4CD42B-3E85B7054AD77108
+#cdsid	QM3-qcdsearch-2FBCDD5792E229D8-1B035E6334CBA812
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:46:09	Run time	0:00:00:01
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:38:53	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1KHUC	specific	trimer interface	K22,N33,E38,A39,H41,F52,T53,D54,P55,S56,R61,G65,L66,S68,V70,N71,E77,N78,R80,R81,H82,K85,S104,E154,Y157,T160,T164,R166,V170,K171,G172,Y177,R179,T183,W188,E190,H192,H194,L197,Q198,L200,D201,L204,T205,S209,P210,H211,N212,I214,S215,S216,V217,S218	53	53	199822

@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-25E4E9B2BA058476-372003E28F6A6099
+#cdsid	QM3-qcdsearch-9FB5F0EE472FC58-3A6402ED2D1905AC
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:41:51	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:36:12	Run time	0:00:00:00
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 5K26A	specific	peptide ligand binding site	F12,Y14,S17,E21,G44,W45,P58,N60,Y61	9	9	212992

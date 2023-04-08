@@ -1,9 +1,9 @@
 #Batch CD-search tool	NIH/NLM/NCBI
-#cdsid	QM3-qcdsearch-2E213C83E6B8E8A3-327D5D790335EE33
+#cdsid	QM3-qcdsearch-16606B4BF8F42D5F-104A55B427D5F53E
 #datatype	feats
 #status	0
-#Start time	2023-04-01T04:06:35	Run time	0:00:00:00
-#status	Warning: Too many queries.	msg	Error(s) occurred during search, the result may be incomplete
+#Start time	2023-04-07T19:18:12	Run time	0:00:00:01
+#status	success
 
 Query	Type	Title	coordinates	complete size	mapped size	source domain
 Q#1 - 1I7GA	specific	ligand binding site	C94,C95,S99,Y133,F137,L140,M149,V151,M174,H259	10	10	132730
