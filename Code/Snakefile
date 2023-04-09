@@ -122,19 +122,26 @@ rule protac_download:
         """
 
 rule cptac_download:
-    params:
-        types=[re.escape(x) for x in expand("../Data/CPTAC/{type}.csv", type=cancerTypes)]
     output:
-        types=expand("../Data/CPTAC/{type}.csv", type=cancerTypes),
-        outdir="../Data/CPTAC/"
-    shell:
-        """
-        bash -c '
-            . $HOME/.bashrc
-            conda activate cptacv1
-            python cptac_download.py {params.types} {output.outdir}
-            conda activate E3v1'
-        """
+        expand("../Data/CPTAC/{type}.csv", type=cancerTypes),
+        "../Data/CPTAC/"
+    script:
+        "cptac_download.py"
+
+# rule cptac_download:
+#     params:
+#         types=[re.escape(x) for x in expand("../Data/CPTAC/{type}.csv", type=cancerTypes)]
+#     output:
+#         types=expand("../Data/CPTAC/{type}.csv", type=cancerTypes),
+#         outdir="../Data/CPTAC/"
+#     shell:
+#         """
+#         bash -c '
+#             . $HOME/.bashrc
+#             conda activate cptacv1
+#             python cptac_download.py {params.types} {output.outdir}
+#             conda activate E3v1'
+#         """
     
 rule file_setup:
     input:
@@ -195,19 +202,29 @@ rule find_label_sets:
 
 rule volcano:
     input:
-        pval="../ProcessedData/pvalues/{type}.txt",
-        E3list="../ProcessedData/E3List.txt",
-        labels="../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
+        "../ProcessedData/pvalues/{type}.txt",
+        "../ProcessedData/E3List.txt",
+        "../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
     output:
-        plot="../Figures/VolcanoPlots/{type}_volcano.pdf"
-    shell:
-        """
-        bash -c "
-            . $HOME/.bashrc
-            conda activate cptacv1
-            Rscript volcano.R '{input.pval}' {input.E3list} '{input.labels}' '{output.plot}' '{wildcards.type}'
-            conda activate E3v1"
-        """
+        "../Figures/VolcanoPlots/{type}_volcano.pdf"
+    script:
+        "volcano.R"
+
+# rule volcano:
+#     input:
+#         pval="../ProcessedData/pvalues/{type}.txt",
+#         E3list="../ProcessedData/E3List.txt",
+#         labels="../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
+#     output:
+#         plot="../Figures/VolcanoPlots/{type}_volcano.pdf"
+#     shell:
+#         """
+#         bash -c "
+#             . $HOME/.bashrc
+#             conda activate cptacv1
+#             Rscript volcano.R '{input.pval}' {input.E3list} '{input.labels}' '{output.plot}' '{wildcards.type}'
+#             conda activate E3v1"
+#         """
 
 rule merge_protac_types:
     input:

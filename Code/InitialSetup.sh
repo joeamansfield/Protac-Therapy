@@ -26,7 +26,6 @@ source activate E3v1
 conda install -c bioconda snakemake -y
 conda install -c anaconda pandas -y
 conda install -c bioconda cptac -y
-conda install -c conda-forge r-janitor -y
 conda install -c bioconda r-ggrepel -y
 conda install -c conda-forge r-viridis -y
 conda install -c conda-forge r-data.table -y
@@ -38,7 +37,8 @@ source activate pymolv1
 conda install -c schrodinger pymol-bundle -y
 conda deactivate
 
-conda create -y -n gridv1
-source activate gridv1
-conda install -c bioconda grid -y
-conda deactivate
+# conda create -y -n gridv1
+# source activate gridv1
+# conda install -c bioconda grid -y
+# conda install -c conda-forge r-janitor -y
+# conda deactivate
