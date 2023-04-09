@@ -1,4 +1,5 @@
 import os
+import re
 
 cancerTypes = [
 'breast_cancer',
@@ -121,11 +122,19 @@ rule protac_download:
         """
 
 rule cptac_download:
+    params:
+        types=[re.escape(x) for x in expand("../Data/CPTAC/{type}.csv", type=cancerTypes)]
     output:
-        expand("../Data/CPTAC/{type}.csv", type=cancerTypes),
-        "../Data/CPTAC/"
-    script:
-        "cptac_download.py"
+        types=expand("../Data/CPTAC/{type}.csv", type=cancerTypes),
+        outdir="../Data/CPTAC/"
+    shell:
+        """
+        bash -c '
+            . $HOME/.bashrc
+            conda activate cptacv1
+            python cptac_download.py {params.types} {output.outdir}
+            conda activate E3v1'
+        """
     
 rule file_setup:
     input:

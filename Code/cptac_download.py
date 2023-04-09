@@ -1,6 +1,8 @@
 import pandas as pd
 import cptac
 import os
+import sys
+print(sys.argv)
 cancerSets = []
 cancerTypes = [
 'breast_cancer',
@@ -34,13 +36,15 @@ cancerSets.append(cptac.Ovarian())
 cptac.download(dataset="pdac") #pancreatic ductal adenocarcinom
 cancerSets.append(cptac.Pdac())
 
-outdir = snakemake.output[-1]
+outdir = sys.argv[-1]
 folders = outdir.split('/')
 if folders[1] not in os.listdir(folders[0]):
     os.mkdir('/'.join([folders[0], folders[1]]))
 if folders[2] not in os.listdir('/'.join([folders[0], folders[1]])):
     os.mkdir(outdir)
 
-for i in range(len(cancerSets)):
+fileList = sys.argv[1:-1]
+
+for i in range((len(cancerSets))):
     cancerSets[i] = cancerSets[i].join_metadata_to_omics(metadata_df_name='clinical',omics_df_name='transcriptomics',metadata_cols = ["Sample_Tumor_Normal"])
-    cancerSets[i].to_csv(snakemake.output[i])
+    cancerSets[i].to_csv(fileList[i])
