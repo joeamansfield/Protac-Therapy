@@ -195,13 +195,20 @@ rule find_label_sets:
 
 rule volcano:
     input:
-        "../ProcessedData/pvalues/{type}.txt",
-        "../ProcessedData/E3List.txt",
-        "../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
+        pval="../ProcessedData/pvalues/{type}.txt",
+        E3list="../ProcessedData/E3List.txt",
+        labels="../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
+    # params:
+    #     pval=re.escape("../ProcessedData/pvalues/{type}.txt"),
+    #     labels=re.escape("../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"),
+    #     cancerType=re.escape("{type}"),
+    #     plot=re.escape("../Figures/VolcanoPlots/{type}_volcano.pdf")
     output:
-        "../Figures/VolcanoPlots/{type}_volcano.pdf"
-    script:
-        "volcano.R"
+        plot="../Figures/VolcanoPlots/{type}_volcano.pdf"
+    shell:
+        """
+        Rscript volcano.R '{input.pval}' {input.E3list} '{input.labels}' '{output.plot}' '{wildcards.type}'
+        """
 
 rule merge_protac_types:
     input:
