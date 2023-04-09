@@ -23,7 +23,7 @@ export OMP_NUM_THREADS=$SLURM_CPUS_ON_NODE
 
 conda create -y -n E3v1
 source activate E3v1
-conda install python=3.6
+conda install python=3.6 -y
 conda install -c conda-forge r-tidyverse -y
 conda install -c anaconda pandas -y
 conda install -c bioconda cptac
