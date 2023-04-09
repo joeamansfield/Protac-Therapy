@@ -200,31 +200,32 @@ rule find_label_sets:
         bash min.awk
         """
 
-rule volcano:
-    input:
-        "../ProcessedData/pvalues/{type}.txt",
-        "../ProcessedData/E3List.txt",
-        "../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
-    output:
-        "../Figures/VolcanoPlots/{type}_volcano.pdf"
-    script:
-        "volcano.R"
-
 # rule volcano:
 #     input:
-#         pval="../ProcessedData/pvalues/{type}.txt",
-#         E3list="../ProcessedData/E3List.txt",
-#         labels="../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
+#         "../ProcessedData/pvalues/{type}.txt",
+#         "../ProcessedData/E3List.txt",
+#         "../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
 #     output:
-#         plot="../Figures/VolcanoPlots/{type}_volcano.pdf"
-#     shell:
-#         """
-#         bash -c "
-#             . $HOME/.bashrc
-#             conda activate cptacv1
-#             Rscript volcano.R '{input.pval}' {input.E3list} '{input.labels}' '{output.plot}' '{wildcards.type}'
-#             conda activate E3v1"
-#         """
+#         "../Figures/VolcanoPlots/{type}_volcano.pdf"
+#     script:
+#         "volcano.R"
+
+# rule volcano:
+    input:
+        pval="../ProcessedData/pvalues/{type}.txt",
+        E3list="../ProcessedData/E3List.txt",
+        labels="../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
+    output:
+        plot="../Figures/VolcanoPlots/{type}_volcano.pdf"
+    shell:
+        """
+        bash -c "
+            . $HOME/.bashrc
+            source activate volcanov1
+            Rscript volcano.R '{input.pval}' {input.E3list} '{input.labels}' '{output.plot}' '{wildcards.type}'
+            conda deactivate
+            source activate E3v1"
+        """
 
 rule merge_protac_types:
     input:
@@ -297,9 +298,10 @@ rule fetch_pdb_files:
         """
         bash -c '
             . $HOME/.bashrc
-            conda activate pymolv1
+            source activate pymolv1
             pymol -c pymolAnalysis/fetch.pml
-            conda activate E3v1'
+            conda deactivate
+            source activate E3v1'
         """
 
 rule get_protein_features:
@@ -331,17 +333,25 @@ rule cealign:
         """
         bash -c '
             . $HOME/.bashrc
-            conda activate pymolv1
+            source activate pymolv1
             pymol -c pymolAnalysis/cealign.pml
-            conda activate E3v1'
+            conda deactivate
+            source activate E3v1'
         """
 
 rule merge_cancer_tier:
     input:
-        "../ProcessedData/cancer_gene_census_COSMIC.csv",
-        "../ProcessedData/merged_types_validated.txt",
-        "../ProcessedData/merged_types_potential.txt"
+        cosmic="../ProcessedData/cancer_gene_census_COSMIC.csv",
+        val="../ProcessedData/merged_types_validated.txt",
+        pot="../ProcessedData/merged_types_potential.txt"
     output:
-        "../ProcessedData/tieredpairs.tsv"
-    script:
-        "cancer_tier_merge.R"
+        pairs="../ProcessedData/tieredpairs.tsv"
+    shell:
+        """
+        bash -c '
+            . $HOME/.bashrc
+            source activate volcanov1
+            Rscript cancer_tier_merge.R {input.cosmic} {input.val} {input.pot} {output.pairs}
+            conda deactivate
+            source activate E3v1
+        """

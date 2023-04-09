@@ -25,10 +25,7 @@ conda create -y -n E3v1
 source activate E3v1
 conda install -c bioconda snakemake -y
 conda install -c anaconda pandas -y
-conda install -c conda-forge r-tidyverse -y
 conda install -c bioconda cptac -y
-conda install -c bioconda r-ggrepel -y
-conda install -c bioconda r-viridis -y
 conda install -c conda-forge r-data.table -y
 conda deactivate
 
@@ -42,3 +39,11 @@ conda deactivate
 # conda install -c bioconda grid -y
 # conda install -c conda-forge r-janitor -y
 # conda deactivate
+
+conda create -y -n volcanov1
+source activate volcanov1
+conda install -c conda-forge r-tidyverse -y
+conda install -c bioconda r-ggrepel -y
+conda install -c conda-forge r-viridis -y
+conda install -c conda-forge r-data.table -y
+conda deactivate
