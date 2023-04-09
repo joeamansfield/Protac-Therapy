@@ -198,16 +198,15 @@ rule volcano:
         pval="../ProcessedData/pvalues/{type}.txt",
         E3list="../ProcessedData/E3List.txt",
         labels="../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"
-    # params:
-    #     pval=re.escape("../ProcessedData/pvalues/{type}.txt"),
-    #     labels=re.escape("../ProcessedData/sig_pairs/most_sig/{type}_most_sig.txt"),
-    #     cancerType=re.escape("{type}"),
-    #     plot=re.escape("../Figures/VolcanoPlots/{type}_volcano.pdf")
     output:
         plot="../Figures/VolcanoPlots/{type}_volcano.pdf"
     shell:
         """
-        Rscript volcano.R '{input.pval}' {input.E3list} '{input.labels}' '{output.plot}' '{wildcards.type}'
+        bash -c "
+            . $HOME/.bashrc
+            conda activate cptacv1
+            Rscript volcano.R '{input.pval}' {input.E3list} '{input.labels}' '{output.plot}' '{wildcards.type}'
+            conda activate E3v1"
         """
 
 rule merge_protac_types:
