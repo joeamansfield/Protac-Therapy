@@ -27,7 +27,7 @@ conda install -c bioconda snakemake -y
 conda install -c anaconda pandas -y
 conda install -c bioconda cptac -y
 conda install -c bioconda r-ggrepel -y
-conda install -c conda-forge r-viridis -y
+conda install -c bioconda r-viridis -y
 conda install -c conda-forge r-data.table -y
 conda install -c conda-forge r-tidyverse -y
 conda deactivate
