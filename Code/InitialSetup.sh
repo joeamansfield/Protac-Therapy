@@ -23,10 +23,10 @@ export OMP_NUM_THREADS=$SLURM_CPUS_ON_NODE
 
 conda create -y -n E3v1
 source activate E3v1
+conda install -c bioconda snakemake
 conda install -c anaconda pandas -y
 conda install -c bioconda grid -y
 conda install -c conda-forge r-janitor -y
-conda install -c bioconda snakemake
 conda deactivate
 
 conda create -y -n pymolv1
