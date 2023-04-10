@@ -179,7 +179,7 @@ rule t_test:
         """
         bash -c "
             . $HOME/.bashrc
-            source activate volcanov1
+            conda activate volcanov1
             Rscript t_test.R '{input.data}' '{output.pval}'
             conda deactivate
             source activate E3v1"
