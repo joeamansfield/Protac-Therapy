@@ -179,10 +179,10 @@ rule t_test:
         """
         bash -c "
             . $HOME/.bashrc
-            conda activate volcanov1
+            source activate volcanov1
             Rscript t_test.R '{input.data}' '{output.pval}'
             conda deactivate
-            conda activate E3v1"
+            source activate E3v1"
         """
 
 rule find_sig_pairs:

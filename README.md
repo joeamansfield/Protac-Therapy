@@ -1,6 +1,7 @@
 ## PROTACTherapy
 
 Here are instructions for using this workflow:
+Disclaimer: This currently only runs on Linux systems. We haven't been able to fix it to work on Mac or Windows yet.
 1. This workflow utilizes conda
     1. Download a miniconda from https://docs.conda.io/en/latest/miniconda.html (probably use curl or wget)
     2. ```bash Miniconda3-latest-Linux-x86_64.sh``` (or if it downloads a different file then just replace that file name)
