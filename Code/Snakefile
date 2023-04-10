@@ -360,5 +360,5 @@ rule merge_cancer_tier:
             source activate volcanov1
             Rscript cancer_tier_merge.R {input.cosmic} {input.val} {input.pot} {output.pairs}
             conda deactivate
-            source activate E3v1
+            source activate E3v1'
         """
