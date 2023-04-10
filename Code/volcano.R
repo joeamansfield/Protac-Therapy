@@ -8,9 +8,11 @@ library(data.table)
 library(viridis)
 library(ggrepel)
 
-input = data.frame(fread(snakemake@input[[1]], skip=3))
-e3list = read_csv(snakemake@input[[2]], col_names = FALSE)
-labels = read_csv(snakemake@input[[3]], col_names = FALSE)
+args = commandArgs(trailingOnly=TRUE)
+
+input = data.frame(fread(args[1], skip=3))
+e3list = read_csv(args[2], col_names = FALSE)
+labels = read_csv(args[3], col_names = FALSE)
 
 
 #input$diffexpressed <- "NO"
@@ -21,7 +23,7 @@ labels = read_csv(snakemake@input[[3]], col_names = FALSE)
 #input$delabel[input$diffexpressed != "NO"] <- input$gene
 
 
-pdf(file = snakemake@output[[1]])
+pdf(file = args[4])
 
 #input$E3_target) <- "NO"
 #de$
@@ -39,7 +41,7 @@ input$Genes = factor(input$Genes, levels = c('Significant E3s', 'Significant Sub
 # colors[2] = temp
 # colors[3] = 
 colors = c('#21908CFF', '#FFA500', '#A0A0A0')
-plotTitle = paste0("Perturbed E3 Ligases and their Substrates in ", str_to_title(paste(str_split(snakemake@wildcards[[1]], pattern = '_')[[1]], collapse = " ")))
+plotTitle = paste0("Perturbed E3 Ligases and their Substrates in ", str_to_title(paste(str_split(args[5], pattern = '_')[[1]], collapse = " ")))
 ggplot(data = input, aes(x = Fold_Change, y = -log10(P.value), col = Genes)) + 
 	ggtitle(plotTitle) +
 	geom_point(size = .3) + 

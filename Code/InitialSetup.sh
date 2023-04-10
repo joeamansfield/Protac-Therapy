@@ -26,7 +26,6 @@ source activate E3v1
 conda install -c bioconda snakemake -y
 conda install -c anaconda pandas -y
 conda install -c bioconda cptac -y
-conda install -c conda-forge r-data.table -y
 conda deactivate
 
 conda create -y -n pymolv1

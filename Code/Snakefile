@@ -172,11 +172,13 @@ rule subset_cptac:
 
 rule t_test:
     input:
-        "../ProcessedData/subset_data/{type}_tt_subset.csv"
+        data="../ProcessedData/subset_data/{type}_tt_subset.csv"
     output:
-        "../ProcessedData/pvalues/{type}.txt"
-    script:
-        "t_test.R"
+        pval="../ProcessedData/pvalues/{type}.txt"
+    shell:
+        """
+        Rscript t_test.R '{input.data}' '{output.pval}'
+        """
 
 rule find_sig_pairs:
     input:
@@ -210,7 +212,7 @@ rule find_label_sets:
 #     script:
 #         "volcano.R"
 
-# rule volcano:
+rule volcano:
     input:
         pval="../ProcessedData/pvalues/{type}.txt",
         E3list="../ProcessedData/E3List.txt",

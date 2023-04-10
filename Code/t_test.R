@@ -1,6 +1,8 @@
 library(data.table)
 
-data = fread(snakemake@input[[1]], header=FALSE)
+args = commandArgs(trailingOnly=TRUE)
+
+data = fread(args[1], header=FALSE)
 data = data.frame(data)
 
 out = c("Gene", "P-value", "Fold_Change")
@@ -30,7 +32,7 @@ positiveFoldChange = out$Fold_Change[which(as.numeric(out$Fold_Change) > 0)]
 
 writeLines(c('pvalue_cutoff,fc_cutoff', 
 	paste0(toString(0.05/nrow(out)), ',', toString(quantile(as.numeric(positiveFoldChange))[4])), '#######'), 
-	file(snakemake@output[[1]]))
+	file(args[2]))
 
-fwrite(out, snakemake@output[[1]], append = TRUE, col.names=TRUE)
+fwrite(out, args[2], append = TRUE, col.names=TRUE)
 
