@@ -178,7 +178,7 @@ rule t_test:
     shell:
         """
         bash -c "
-            . $HOME/.bash_profile
+            . $HOME/.bashrc
             conda activate volcanov1
             Rscript t_test.R '{input.data}' '{output.pval}'
             conda deactivate
