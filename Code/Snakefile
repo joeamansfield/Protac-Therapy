@@ -244,24 +244,6 @@ rule merge_protac_types:
     script:
         "merge_protac_types.py"
 
-#rule single_multiple_cancer_protacs:
-#    input:
-#        "../ProcessedData/merged_types_validated.txt",
-#        "../ProcessedData/merged_types.txt"
-#    output:
-#        "../ProcessedData/single_cancer_protacs.txt",
-#        "../ProcessedData/multiple_cancer_protacs.txt"
-#    script:
-#        "single_multiple_cancer_protacs.py"
-
-#rule single_cancer_protacs_pval:
-#    input:
-#        "../ProcessedData/single_cancer_protacs.txt"
-#    output:
-#        "../ProcessedData/single_cancer_protacs_pval.txt"
-#    script:
-#        "single_cancer_protacs_pval.py"
-
 rule find_table2_sets:
     input:
         expand("../ProcessedData/sig_pairs/potential_protacs/{file}", file=os.listdir("../ProcessedData/sig_pairs/potential_protacs/"))
