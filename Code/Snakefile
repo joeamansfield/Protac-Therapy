@@ -182,7 +182,7 @@ rule t_test:
             conda activate volcanov1
             Rscript t_test.R '{input.data}' '{output.pval}'
             conda deactivate
-            source activate E3v1"
+            conda activate E3v1"
         """
 
 rule find_sig_pairs:
