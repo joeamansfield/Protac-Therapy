@@ -177,7 +177,12 @@ rule t_test:
         pval="../ProcessedData/pvalues/{type}.txt"
     shell:
         """
-        Rscript t_test.R '{input.data}' '{output.pval}'
+        bash -c "
+            . $HOME/.bashrc
+            source activate volcanov1
+            Rscript t_test.R '{input.data}' '{output.pval}'
+            conda deactivate
+            source activate E3v1"
         """
 
 rule find_sig_pairs:
