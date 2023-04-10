@@ -110,7 +110,7 @@ rule E3Sub_download:
         "../Data/literature.E3.txt"
     shell:
         """
-        wget http://ubibrowser.bio-it.cn/ubibrowser_v3/Public/download/literature/literature.E3.txt -O ../Data/literature.E3.txt
+        curl http://ubibrowser.bio-it.cn/ubibrowser_v3/Public/download/literature/literature.E3.txt -O ../Data/literature.E3.txt
         """
 
 rule protac_download:

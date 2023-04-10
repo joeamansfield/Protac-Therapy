@@ -21,5 +21,5 @@ rm ../ProcessedData/merged_types_validated.txt
 rm ../ProcessedData/merged_types_potential.txt
 rm ../Figures/Pymol/*
 rm ../ProcessedData/tieredpairs.tsv
-rm ../ProcessedData/single_cancer_protacs_pval.txt
-rm ../ProcessedData/multiple_cancer_protacs.txt
+# rm ../ProcessedData/single_cancer_protacs_pval.txt
+# rm ../ProcessedData/multiple_cancer_protacs.txt
