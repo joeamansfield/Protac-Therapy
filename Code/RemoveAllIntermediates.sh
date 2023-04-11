@@ -38,8 +38,8 @@ rm ../ProcessedData/pymol/val_pdb.tsv
 rm ../ProcessedData/pymol/val_uniprot.csv
 rm ../ProcessedData/pymol/pdbfiles/*
 rm ../ProcessedData/single_cancer_protacs.txt
-rm ../ProcessedData/multiple_cancer_protacs.txt
-rm ../ProcessedData/single_cancer_protacs_pval.txt
+rm ../ProcessedData/val_protacs_table.csv
+rm ../ProcessedData/new_protacs_table.csv
 
 # rm ../ProcessedData/pymol/proteinFeatures/*/*
 # rm ../Data/CPTAC/*

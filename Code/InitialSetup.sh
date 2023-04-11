@@ -16,21 +16,22 @@ export OMP_NUM_THREADS=$SLURM_CPUS_ON_NODE
 
 # LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
 
-# cd ../ProcessedData/packageManaging/
-# conda env create -f environment.yml
-# conda env create -f pymolEnv.yml
-# cd ../../Code/
+cd ../ProcessedData/packageManaging/
+conda env create -f environment.yml
+conda env create -f pymolEnv.yml
+conda env create -f volcanoEnv.yml
+cd ../../Code/
 
-conda create -y -n E3v1
-source activate E3v1
-conda install -c bioconda snakemake -y
-conda install -c bioconda cptac -y
-conda deactivate
+# conda create -y -n E3v1
+# source activate E3v1
+# conda install -c bioconda snakemake -y
+# conda install -c bioconda cptac -y
+# conda deactivate
 
-conda create -y -n pymolv1
-source activate pymolv1
-conda install -c schrodinger pymol-bundle -y
-conda deactivate
+# conda create -y -n pymolv1
+# source activate pymolv1
+# conda install -c schrodinger pymol-bundle -y
+# conda deactivate
 
 # conda create -y -n gridv1
 # source activate gridv1
@@ -38,10 +39,10 @@ conda deactivate
 # conda install -c conda-forge r-janitor -y
 # conda deactivate
 
-conda create -y -n volcanov1
-source activate volcanov1
-conda install -c conda-forge r-tidyverse -y
-conda install -c conda-forge r-ggrepel -y
-conda install -c conda-forge r-viridis -y
-conda install -c conda-forge r-data.table -y
-conda deactivate
+# conda create -y -n volcanov1
+# source activate volcanov1
+# conda install -c conda-forge r-tidyverse -y
+# conda install -c conda-forge r-ggrepel -y
+# conda install -c conda-forge r-viridis -y
+# conda install -c conda-forge r-data.table -y
+# conda deactivate

@@ -16,8 +16,5 @@ export OMP_NUM_THREADS=$SLURM_CPUS_ON_NODE
 
 # LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
 
-rm ../Figures/VolcanoPlots/*
-rm ../Figures/Pymol/*
-rm ../ProcessedData/tieredpairs.tsv
-rm ../ProcessedData/val_protacs_table.csv
-rm ../ProcessedData/new_protacs_table.csv
+source activate E3v1
+snakemake --cores 1 significant_protacs

@@ -79,8 +79,8 @@ rule all:
         "../ProcessedData/merged_types_potential.txt",
         expand("../Figures/Pymol/{proteins}_cealign.png", proteins=outputProteins),
         "../ProcessedData/tieredpairs.tsv",
-#        "../ProcessedData/single_cancer_protacs_pval.txt",
-#        "../ProcessedData/multiple_cancer_protacs.txt"
+        "../ProcessedData/val_protacs_table.csv",
+        "../ProcessedData/new_protacs_table.csv"
 
 rule download_all:
     input:
@@ -94,8 +94,8 @@ rule all_volcanos:
 
 rule significant_protacs:
     input:
-        "../ProcessedData/merged_types_validated.txt",
-        "../ProcessedData/merged_types_potential.txt"
+        "../ProcessedData/val_protacs_table.csv",
+        "../ProcessedData/new_protacs_table.csv"
 
 rule protein_models:
     input:
@@ -344,3 +344,19 @@ rule merge_cancer_tier:
             conda deactivate
             source activate E3v1'
         """
+
+rule create_table1:
+    input:
+        "../ProcessedData/tieredpairs.tsv"
+    output:
+        "../ProcessedData/val_protacs_table.csv"
+    script:
+        "create_table1.py"
+
+rule create_table2:
+    input:
+        "../ProcessedData/tieredpairs.tsv"
+    output:
+        "../ProcessedData/new_protacs_table.csv"
+    script:
+        "create_table2.py"
