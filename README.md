@@ -9,7 +9,7 @@ For a complete list of our tables and figures that will be included in the paper
     3. Restart terminal and you should see a (base) in front of your typical bash prompt
     4. Run ```bash InitialSetup.sh``` and it will create the environments you need (you must be in the Code directory when you run this command). (This step will likely take a really long time)
     5. If you're getting that conda is not found as a command you might have to go into the Snakefile and replace every instance of .bash_profile with .bashrc or vice versa depending on what you have in your system.
-2. This workflow utilizes slurm (if you aren't in an environment that uses slurm or if you don't know if you are or not, just use ```bash RunAll.sh``` instead of the lines below). If you use slurm, make sure you know if your system allows internet access. If it doesn't, it may stop in the middle of execution and give a curl or wget error. You may have to execute part of the workflow with just bash instead of sbatch if that's the case. It should run all the way through if you just run it with bash instead of sbatch.
+2. This workflow utilizes slurm. If your compute nodes don't have internet access, if you aren't in an environment that uses slurm, or if you don't know if you are or not, just use ```bash RunAll.sh``` instead of the lines below. If you don't know whether or not your compute nodes use internet access, try running it, and it should fail during the cptac download or a curl or wget.
     1. Make sure you are in the Code directory (```cd Code```)
     2. Submit a job using ```sbatch RunAll.sh``` (or other bash script. See step three)
     3. Check on job with ```sacct``` or looking at the automatically generated slurm output file
