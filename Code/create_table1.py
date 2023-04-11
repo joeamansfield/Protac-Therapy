@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_table('../ProcessedData/tiered_pairs.tsv')
+df = pd.read_table('../ProcessedData/tieredpairs.tsv')
 
 val_df_full = df[(df['Existing Protac'] == 'Yes') & (df['E3 Tier'] == 1) & (df['Substrate Tier'] == 1)] 
 

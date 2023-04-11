@@ -1,0 +1,15 @@
+E3 Ligase	Substrate	Cancer Types	Num Cancer Types
+BARD1	BRCA1	glioblastoma, endometrial carcinoma , lung adenocarcinoma, lung squamous cell carcinoma, clear cell renal cell carcinoma 	5
+BRCA1	AKT1	glioblastoma, endometrial carcinoma , lung adenocarcinoma, clear cell renal cell carcinoma 	4
+BRCA1	BRCA1	glioblastoma, endometrial carcinoma , head and neck squamous cell carcinoma, lung adenocarcinoma, lung squamous cell carcinoma, clear cell renal cell carcinoma 	6
+BRCA1	FANCD2	glioblastoma, endometrial carcinoma , head and neck squamous cell carcinoma, lung adenocarcinoma, lung squamous cell carcinoma, clear cell renal cell carcinoma 	6
+BRCA1	POLR2A	endometrial carcinoma , head and neck squamous cell carcinoma, lung squamous cell carcinoma	3
+CBL	EGFR	glioblastoma, head and neck squamous cell carcinoma, clear cell renal cell carcinoma 	3
+CBL	LYN	glioblastoma, head and neck squamous cell carcinoma, clear cell renal cell carcinoma 	3
+CBLB	EGFR	glioblastoma, head and neck squamous cell carcinoma, clear cell renal cell carcinoma 	3
+RNF43	RNF43	endometrial carcinoma , lung adenocarcinoma, lung squamous cell carcinoma	3
+TNFAIP3	TNFAIP3	glioblastoma, head and neck squamous cell carcinoma, clear cell renal cell carcinoma 	3
+TRAF7	TRAF7	endometrial carcinoma , head and neck squamous cell carcinoma, lung adenocarcinoma, lung squamous cell carcinoma	4
+TRIM24	TP53	glioblastoma, endometrial carcinoma , lung adenocarcinoma, lung squamous cell carcinoma	4
+TRIM27	CDKN1A	glioblastoma, head and neck squamous cell carcinoma, clear cell renal cell carcinoma 	3
+UBR5	UBR5	head and neck squamous cell carcinoma, lung adenocarcinoma, lung squamous cell carcinoma	3

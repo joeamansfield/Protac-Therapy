@@ -1,0 +1,25 @@
+E3 Ligase	Substrate	Cancer Types	Num Cancer Types
+MDM2	BTK	clear cell renal cell carcinoma 	1
+MDM2	CDK4	clear cell renal cell carcinoma 	1
+MDM2	CDK6	clear cell renal cell carcinoma 	1
+MDM2	EGFR	clear cell renal cell carcinoma 	1
+MDM2	MDM2	endometrial carcinoma , clear cell renal cell carcinoma 	2
+VHL	ABL1	glioblastoma	1
+VHL	AKT1	glioblastoma, endometrial carcinoma , lung adenocarcinoma	3
+VHL	AKT2	lung squamous cell carcinoma	1
+VHL	ALK	glioblastoma, lung squamous cell carcinoma	2
+VHL	AR	glioblastoma	1
+VHL	BTK	glioblastoma	1
+VHL	CDK4	lung adenocarcinoma, lung squamous cell carcinoma	2
+VHL	EGFR	glioblastoma, lung squamous cell carcinoma	2
+VHL	EZH2	glioblastoma, endometrial carcinoma , lung adenocarcinoma, lung squamous cell carcinoma	4
+VHL	FGFR1	glioblastoma	1
+VHL	ITK	glioblastoma	1
+VHL	JAK1	glioblastoma	1
+VHL	KRAS	endometrial carcinoma , lung adenocarcinoma, lung squamous cell carcinoma	3
+VHL	PBRM1	glioblastoma	1
+VHL	PTK6	endometrial carcinoma , lung adenocarcinoma	2
+VHL	SMARCA4	endometrial carcinoma , lung adenocarcinoma, lung squamous cell carcinoma	3
+VHL	SUZ12	endometrial carcinoma , lung adenocarcinoma, lung squamous cell carcinoma	3
+VHL	TRIM24	glioblastoma, endometrial carcinoma , lung adenocarcinoma, lung squamous cell carcinoma	4
+VHL	VHL	glioblastoma, endometrial carcinoma , lung adenocarcinoma, lung squamous cell carcinoma	4
