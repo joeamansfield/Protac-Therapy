@@ -6,7 +6,7 @@ potential_types_dir = "../ProcessedData/sig_pairs/potential_protacs"
 
 # merge files for each cancer type into one, listing the types
 # associated with each E3 - substrate pair
-def merge_types(types_dir):
+def merge_types(types_dir, suffix):
     protac_dict = {}
 
     for filename in os.listdir(types_dir):
@@ -25,18 +25,13 @@ def merge_types(types_dir):
 
     #print(protac_dict)
 
-    outfile = "../ProcessedData/merged_types_tmp.txt"
+    outfile = "../ProcessedData/merged_types_" + suffix + ".txt"
     with open(outfile, 'w') as f:
         #write E3  target protein   cancer type(s)
-        f.write('\n'.join('{}\t{}'.format(p,", ".join(protac_dict[p])) for p in protac_dict))
+        f.write('\n'.join('{}\t{}\t{}'.format(p, len(protac_dict[p]), ", ".join(protac_dict[p])) for p in protac_dict))
 
 
-merge_types(val_types_dir)
+merge_types(val_types_dir, "validated")
 
-os.system("sort ../ProcessedData/merged_types_tmp.txt > ../ProcessedData/merged_types_validated.txt")
-os.system("rm ../ProcessedData/merged_types_tmp.txt")
+merge_types(potential_types_dir, "potential")
 
-merge_types(potential_types_dir)
-
-os.system("sort ../ProcessedData/merged_types_tmp.txt > ../ProcessedData/merged_types_potential.txt")
-os.system("rm ../ProcessedData/merged_types_tmp.txt")
