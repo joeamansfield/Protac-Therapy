@@ -2,6 +2,7 @@
 
 Here are instructions for using this workflow:  
 Disclaimer: This currently only runs on Linux systems. We haven't been able to fix it to work on Mac or Windows yet.  
+Disclaimer number two: The lists of protein features we get come from an API, so the resulting protein models figures might not contain all of the same proteins. This may at this point in the project also cause it to error out on that last step. The limitations of this step of our analysis are listed in our manuscript.  
 For a complete list of our tables and figures that will be included in the paper, see Code/RemoveOutputs.sh on every line starting with rm. Our Figure 1 is not included in this because it is just a workflow diagram created using Google draw.  
 1. This workflow utilizes conda
     1. Download a miniconda from https://docs.conda.io/en/latest/miniconda.html (probably use curl or wget)
